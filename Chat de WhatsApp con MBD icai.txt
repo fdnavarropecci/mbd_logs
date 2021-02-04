@@ -1,0 +1,1414 @@
+5/10/20 21:03 - Los mensajes y las llamadas están cifrados de extremo a extremo. Nadie fuera de este chat, ni siquiera WhatsApp, puede leerlos ni escucharlos. Toca para obtener más información.
+5/10/20 18:13 - ‎+34 666 82 82 48 creó el grupo "MBD icai"
+5/10/20 21:03 - ‎+34 666 82 82 48 te añadió
+6/10/20 20:46 - ‎+34 666 82 82 48 añadió a +34 646 50 05 96
+11/10/20 18:20 - +34 666 82 82 48: mandó al final la de tecnologías un ejercicio para hacer?
+11/10/20 18:20 - Fran MASTER BD: Lo he buscado pero no lo he encontrado
+11/10/20 18:21 - Fran MASTER BD: Creo que no vamos
+11/10/20 18:21 - +34 666 82 82 48: yo tampoco lo he encontrado
+11/10/20 18:22 - +34 666 82 82 48: a lo mejor se le ha olvidado
+11/10/20 18:22 - Fran MASTER BD: Could be, yo no se lo voy a recordar 😂
+11/10/20 18:23 - +34 666 82 82 48: ni yo jajaja
+11/10/20 18:24 - +34 649 71 70 94: A los del otro turno sí que nos mandó un par de cosas 😭
+11/10/20 18:25 - +34 649 71 70 94: Suertudos, haréis bien en no recordárselo
+11/10/20 18:25 - Fran MASTER BD: Qué os mandó? Nosotros vamos un pelín por delante así que a lo mejor lo hicimos en clase
+11/10/20 18:31 - Felipe Navarro: Mandó sacar el top 5 de paises mas felices x año
+11/10/20 18:31 - Felipe Navarro: Y el registro con mayor happiness score para España
+11/10/20 18:31 - +34 649 71 70 94: A nosotros nos mandó sacar de la tabla los 5 países más felices por Año y en qué año el registro de España era el más alto
+11/10/20 18:32 - +34 649 71 70 94: Justo lo que ha dicho Felipe jajajaj
+11/10/20 18:32 - Fran MASTER BD: Gracias! Ahh, Nosotros hicimos el del top cinco pero no el de España
+11/10/20 18:33 - Fran MASTER BD: A lo mejor aprovecha para preguntar como hizo ese día
+11/10/20 18:39 - +34 649 71 70 94: Os preguntó en clase a vosotros?
+11/10/20 18:41 - Fran MASTER BD: No 😅, me refiero al día ese que lo hizo antes de dividir
+11/10/20 18:41 - Fran MASTER BD: Que mandó un ej la noche de antes
+11/10/20 18:42 - Fran MASTER BD: <Multimedia omitido>
+11/10/20 19:46 - +34 666 82 82 48: felipe
+11/10/20 19:46 - +34 666 82 82 48: tu estas en el segundo turno?
+11/10/20 19:47 - +34 666 82 82 48: porque si coincides con María es que estuviste en la misma clase que ella
+11/10/20 20:13 - Felipe Navarro: Yo esty en el primer turno
+13/10/20 14:54 - +34 666 82 82 48: cuando os conectais al hue, lo hacéis con carga equilibrada o sin ella?
+13/10/20 14:54 - +34 666 82 82 48: <Multimedia omitido>
+13/10/20 14:55 - +34 649 71 70 94: Creo que con carga equilibrada
+13/10/20 15:05 - +34 666 82 82 48: y sabéis que diferencia hay?
+13/10/20 16:20 - Fran MASTER BD: <Multimedia omitido>
+13/10/20 16:31 - +34 649 71 70 94: Ni idea. Sorry, Lidia
+13/10/20 16:32 - +34 649 71 70 94: Gracias! Me tocará instalarlo en clase porque ya he salido de casa jajaj
+13/10/20 16:35 - Fran MASTER BD: Igual
+13/10/20 16:39 - +34 646 50 05 96: Gracias fran 🙌🏻🙌🏻
+17/10/20 11:51 - Fran MASTER BD: Alguien a probado a utilizar MLTolls en un Rmd?
+17/10/20 11:51 - Fran MASTER BD: *MLTools
+17/10/20 11:56 - +34 622 31 06 63: Yo no, solo en .R
+17/10/20 11:56 - +34 622 31 06 63: No funciona o qué?
+17/10/20 11:56 - Fran MASTER BD: De primeras no
+17/10/20 11:58 - +34 622 31 06 63: Y qué has hecho para que funcione?
+17/10/20 11:59 - Fran MASTER BD: Por ahora no lo consigo :D
+17/10/20 12:05 - Fran MASTER BD: Lo acabo de conseguir
+17/10/20 12:06 - Fran MASTER BD: Resulta que cuando se lanza library(MLTools) sale este mensaje la mar de cool del paraguay
+17/10/20 12:06 - Fran MASTER BD: __    __   _            _________
+  |  \  /  | | |          |___   ___| _____   _____   _      _____
+  |   \/   | | |     ____     | |    |  _  | |  _  | | |    |  ___|
+  | |\  /| | | |    |____|    | |    | | | | | | | | | |    |___  |
+  | | \/ | | | |____          | |    | |_| | | |_| | | |__   ___| |
+  |_|    |_| |______|         |_|    |_____| |_____| |____| |_____|
+
+           Learning is fun, Machine Learning is funnier
+            -----------------------------------------
+           With great power comes great responsibility
+            -----------------------------------------
+Created by:
+        Jos� Portela Gonz�lez   <Jose.Portela@iit.comillas.edu>
+        Guillermo Mestre Marcos <Guillermo.Mestre@comillas.edu>
+        Jaime Pizarroso Gonzalo <jpizarroso@comillas.edu>
+        Antonio Mu�oz San Roque <antonio.munoz@iit.comillas.edu>
+
+            Escuela T�cnica Superior de Ingenier�a ICAI
+17/10/20 12:07 - Fran MASTER BD: Y el muy cabroncete contiene símbolos extraños que paran la ejecución porque da error al compilar el código
+17/10/20 12:07 - Fran MASTER BD: Se soluciona así:
+17/10/20 12:07 - Fran MASTER BD: <Multimedia omitido>
+17/10/20 12:08 - Fran MASTER BD: realmente solo el message = FALSE es necesario, lo otro es para que no aparezca en el documento final
+17/10/20 12:30 - +34 622 31 06 63: Genial
+17/10/20 12:30 - +34 622 31 06 63: Gracias fran
+17/10/20 12:55 - Fran MASTER BD: 👍
+17/10/20 13:48 - +34 649 71 70 94: Gracias!
+17/10/20 13:49 - +34 649 71 70 94: Habéis escalado los datos? Y si lo habéis hecho, habéis escalado también la variable diabetes y pregnant? No sé si tiene sentido escalar un factor o no
+17/10/20 13:58 - Fran MASTER BD: Todavía no los hemos escalado, pero yo creo que la diabetes no hay que escalarla
+17/10/20 13:58 - Fran MASTER BD: Este mensaje fue eliminado
+17/10/20 13:59 - Fran MASTER BD: Me parece que tal y como lo tienen montado indicas que son factores al cargar la tabla
+17/10/20 13:59 - Fran MASTER BD: Y escalas al entrenar el modelo en una de las opciones
+17/10/20 14:00 - Fran MASTER BD: Supongo que identificará cuales escalar dependiendo de si son factores o no
+17/10/20 14:01 - Fran MASTER BD: Y pregnant no sé si es un factor ahora que lo pienso
+17/10/20 14:02 - Fran MASTER BD: Porque contabiliza el número de veces que la mujer se ha quedado embaraza
+17/10/20 14:03 - Fran MASTER BD: Es un poco al estilo de la edad, es un número discreto, pero el límite... 😂
+17/10/20 14:05 - +34 649 71 70 94: Por eso pregunto, porque tampoco sé si la edad es un factor o no. Ambos supuestamente tienen un límite? Yo he visto la edad tratada como factor y como variable normal en diferentes análisis
+17/10/20 14:06 - +34 649 71 70 94: Le mandaré correo al profe que igual me estoy liando yo de más
+17/10/20 14:06 - +34 649 71 70 94: Gracias!
+17/10/20 14:06 - Fran MASTER BD: Perfect
+17/10/20 14:06 - Fran MASTER BD: Dinos qué te dice porfa!
+17/10/20 14:08 - Fran MASTER BD: Yo diría que no, porque si en test te entra alguien con un valor de edad/n_ embarazos nuevo si es categórico no sabría qué hacer con ello
+17/10/20 14:08 - Fran MASTER BD: *factor
+17/10/20 14:12 - +34 649 71 70 94: Sí, cuando me conteste os lo mando. Y si no contesta este finde le preguntaré en clase igualmente
+17/10/20 14:31 - +34 622 31 06 63: Yo creo que no tenemos que tratarlos como factor
+17/10/20 14:31 - +34 622 31 06 63: Hay demasiados valores de edad y de embarazo
+20/10/20 10:14 - +34 634 55 48 15: En la practica de arquitectura, cuando lanzais el segundo conteo (el del archivo más tocho), os peta la RAM del google colab?
+20/10/20 10:15 - +34 649 61 55 37: Si
+20/10/20 10:15 - +34 649 61 55 37: Y el primero
+20/10/20 10:15 - +34 649 61 55 37: Me sale 3 segundos pero me sale un error
+20/10/20 10:15 - +34 649 61 55 37: A vosotros tb?
+20/10/20 10:15 - +34 634 55 48 15: A mi el primero si q me deja
+20/10/20 10:15 - +34 634 55 48 15: No lo he hecho como en el pdf
+20/10/20 10:16 - +34 634 55 48 15: Q error te sale
+20/10/20 10:16 - +34 634 55 48 15: ?
+20/10/20 10:17 - +34 634 55 48 15: A mi me daba error el print,  por el tema de la configuración del colab a la hora de printear
+20/10/20 10:17 - +34 634 55 48 15: Asiq he sudado del print
+20/10/20 10:18 - +34 634 55 48 15: Entiendo q lo importante es el diccionario wordcount en si
+20/10/20 10:18 - +34 649 61 55 37: No me acuerdo
+20/10/20 10:18 - +34 649 61 55 37: Voy a mirarlo
+20/10/20 10:18 - +34 649 61 55 37: Te sale 3 segundos?
+20/10/20 10:18 - +34 634 55 48 15: Yess 3,987
+20/10/20 10:20 - +34 634 55 48 15: Pues supongo q lo habremos hecho bien😂
+20/10/20 10:20 - +34 634 55 48 15: Y respecto al segundo conteo a ver si a más gente le pasa tambn
+20/10/20 10:20 - +34 634 55 48 15: Lo de la ram
+20/10/20 10:21 - +34 649 61 55 37: Acabo de ver lo que me sale
+20/10/20 10:21 - +34 649 61 55 37: No es error
+20/10/20 10:21 - +34 649 61 55 37: <Multimedia omitido>
+20/10/20 10:21 - +34 634 55 48 15: Es lo del print
+20/10/20 10:21 - +34 649 61 55 37: Te sale eso?
+20/10/20 10:21 - +34 634 55 48 15: Q excede de tamaño
+20/10/20 10:21 - +34 634 55 48 15: Sisi tambn
+20/10/20 10:21 - +34 649 61 55 37: Valee genial !!
+20/10/20 10:22 - +34 634 55 48 15: Perfe👌🏻
+20/10/20 10:22 - +34 649 61 55 37: Pero no tengo que modificarlo ?
+20/10/20 10:22 - +34 649 61 55 37: Ósea cambiar el límite?
+20/10/20 10:23 - +34 634 55 48 15: Pues esq no se, osea yo entiendo q lo importante es el wordcount, osea q los datos se hayan guardado en el dicc
+20/10/20 10:23 - +34 634 55 48 15: El print es para ver el resultado diría yo
+20/10/20 10:24 - +34 634 55 48 15: Osea supongo q lo importante es el diccionario
+20/10/20 10:24 - +34 649 61 55 37: Perfe !!
+20/10/20 10:24 - +34 649 61 55 37: Gracias !!
+20/10/20 10:24 - +34 649 61 55 37: Y lo otro sino lo preguntamos en clase
+20/10/20 10:24 - +34 649 61 55 37: Lo de la ram
+20/10/20 10:24 - +34 649 61 55 37: Que nos diga Miguel Ángel
+20/10/20 10:24 - +34 634 55 48 15: 👌🏻👌🏻
+20/10/20 13:50 - Fran MASTER BD: Tenemos los miércoles clase hasta las 22:00 😅
+20/10/20 13:53 - +34 666 82 82 48: si
+20/10/20 13:57 - +34 666 82 82 48: sabéis como se borra un directorio en hdfs que tenga ficheros dentro?
+20/10/20 13:58 - Fran MASTER BD: hdfs dfs -rm -r <directorio>
+20/10/20 13:58 - Fran MASTER BD: es la adaptación del rm -r de Linux
+20/10/20 13:59 - +34 666 82 82 48: ah vale
+20/10/20 13:59 - +34 666 82 82 48: es que había puesto rm -r
+20/10/20 14:00 - +34 666 82 82 48: y no me dejaba
+20/10/20 14:00 - +34 666 82 82 48: eso había leido y por eso no puse el - delante del rm
+20/10/20 14:00 - +34 666 82 82 48: gracias!!
+20/10/20 14:00 - Fran MASTER BD: 👍
+21/10/20 11:02 - +34 666 82 82 48: si creáis una tabla externa en un directorio nuevo en hive (no en tu base de datos) como se puede eliminar ese directorio que has creado y la tabla también?
+21/10/20 11:07 - Felipe Navarro: Drop table y luego un rm -r en hdfs
+21/10/20 11:12 - +34 666 82 82 48: ya intenté con el drop table
+21/10/20 11:12 - +34 666 82 82 48: y el directorio no está porque lo borre desde hue
+21/10/20 11:12 - +34 666 82 82 48: pero no me deja crear otra tabla con el mismo nombre porque me dice que ya existe
+21/10/20 11:12 - +34 666 82 82 48: a lo mejor es por lo que dijo ella de haberla creado de forma externa
+21/10/20 11:15 - Felipe Navarro: Haz un ls en hdfs de donde habias guardado la tabla
+21/10/20 11:15 - Felipe Navarro: Mira a ver si esta el directorio
+21/10/20 11:15 - Felipe Navarro: Si esta lo eliminas desde linea de comandos
+21/10/20 11:20 - +34 666 82 82 48: no si es que el directorio no existe ya
+21/10/20 11:20 - +34 666 82 82 48: lo único que existe es la tabla
+21/10/20 11:21 - +34 666 82 82 48: pero no se donde se ha almacenado, porque si borré el directorio donde estaba
+21/10/20 11:21 - +34 666 82 82 48: tiene que ser por algo de que se haya creado de forma externa
+21/10/20 11:21 - +34 666 82 82 48: pregunto a la profe y ya esta
+21/10/20 11:21 - +34 666 82 82 48: gracias felipe
+21/10/20 11:39 - Felipe Navarro: Drop table tubasededatos.tutabla
+21/10/20 11:39 - Felipe Navarro: Prueba desde el cliente de hive
+21/10/20 11:40 - Felipe Navarro: En vez de desde HUE
+21/10/20 11:40 - +34 666 82 82 48: ya probé desde ambos sitios
+21/10/20 11:44 - Felipe Navarro: Que raro, a mi eso me funciona sin problemas
+21/10/20 12:41 - +34 622 31 06 63: Has probado tambn a borrar la tabla del warehouse?
+21/10/20 12:42 - +34 622 31 06 63: Tienes que hacer el drop table
+21/10/20 12:43 - +34 622 31 06 63: <Multimedia omitido>
+21/10/20 12:46 - +34 622 31 06 63: <Multimedia omitido>
+21/10/20 12:47 - +34 622 31 06 63: Hay que poner el jar en alguna ubicación concreta? O cómo le puedo indicar que coja el fichero xml como entrada?
+21/10/20 13:24 - +34 667 09 51 17: En el trabajo de tecnología cuando nos pide crear la tabla particionado nos pide definirla o también cargarla?
+21/10/20 13:26 - +34 666 82 82 48: yo lo hice desde hive
+21/10/20 13:27 - +34 666 82 82 48: porque me daba error desde hue
+21/10/20 14:10 - +34 666 82 82 48: yo creo que cargarla
+21/10/20 14:11 - +34 622 31 06 63: No me va tampoco desde hive 🤦🏻‍♂️
+21/10/20 14:16 - +34 666 82 82 48: el jar y el fichero tienes que guardarlo en tu edge
+21/10/20 14:17 - +34 666 82 82 48: y cuando adjuntas la librería con el add jar desde hive, le dices la ruta donde tienes tu .jar
+21/10/20 14:17 - +34 666 82 82 48: eso responde a tu pregunta de antes
+21/10/20 14:22 - +34 622 31 06 63: Okey, graciass
+21/10/20 14:43 - +34 666 82 82 48: para que te coja el fichero como entrada la tabla tienes que hacer esto
+21/10/20 14:43 - +34 666 82 82 48: <Multimedia omitido>
+21/10/20 14:43 - +34 666 82 82 48: que no te contesté esa parte
+21/10/20 14:43 - +34 666 82 82 48: pero con tu fichero .xml
+21/10/20 14:44 - +34 666 82 82 48: y la ruta donde lo tengas
+21/10/20 14:45 - +34 622 31 06 63: Genial, creo que es eso lo que me falta
+21/10/20 14:45 - +34 622 31 06 63: Gracias otra vez
+22/10/20 11:26 - +34 634 55 48 15: <Multimedia omitido>
+22/10/20 11:40 - Fran MASTER BD: Yo si lo tuviera que hacer parsearía el año de publish date en una nueva columna year y utilizaría esa columna como partición
+22/10/20 11:43 - +34 634 55 48 15: <Multimedia omitido>
+22/10/20 11:44 - +34 634 55 48 15: La cosa es como indexo el año con el lenguaje este de xpath
+22/10/20 11:44 - +34 634 55 48 15: Text()[1:4]
+22/10/20 11:44 - +34 634 55 48 15: Algo rollo así?
+22/10/20 11:44 - Fran MASTER BD: Supongo que algo de ese estilo se pdría
+22/10/20 11:45 - Fran MASTER BD: Pero teniendo la tabla no particionada, le añadiría la columna y luego la particionaría
+22/10/20 11:45 - Fran MASTER BD: En puro sql
+22/10/20 11:47 - +34 634 55 48 15: Vale fran muchas gracias!!!
+22/10/20 12:39 - Fran MASTER BD: 👍
+23/10/20 14:00 - +34 634 55 48 15: El fin de semana se puede acceder a hue o lo chapan?
+23/10/20 14:01 - Felipe Navarro: Se puede
+23/10/20 14:01 - Felipe Navarro: Eso no lo apagan
+23/10/20 14:01 - +34 634 55 48 15: Vale 👌
+23/10/20 17:40 - Fran MASTER BD: Este mensaje fue eliminado
+23/10/20 17:42 - +34 667 09 51 17: <Multimedia omitido>
+24/10/20 16:25 - Fran MASTER BD: Solamente por curiosidad, ¿qué tipos de valores estáis consiguiendo en el accuracy de test de ML?
+24/10/20 16:27 - Fran MASTER BD: Estoy con el de redes y no consigo romper la barrera del 85
+24/10/20 16:27 - Fran MASTER BD: Y me suelo quedar en el .78
+24/10/20 16:44 - Fran MASTER BD: Bueno, me acacabo de dar cuenta de una cosa, nevermind
+24/10/20 16:44 - Fran MASTER BD: Ya sobrepasa el .90
+24/10/20 17:15 - +34 622 31 06 63: Yo aún no lo tengo fran, lo siento
+24/10/20 17:15 - +34 622 31 06 63: Cuando lo haga te digo si quieres
+24/10/20 17:23 - Virginia Hernández MBD: Nosotros tampoco
+24/10/20 17:23 - Virginia Hernández MBD: Una duda
+24/10/20 17:26 - Virginia Hernández MBD: Quitais todos los outliers al principio de todas las variables o no?
+24/10/20 17:28 - +34 649 71 70 94: Nosotras no hemos quitado ninguno ... Le mandé un correo al profe el viernes pero no ha contestado
+24/10/20 17:29 - Fran MASTER BD: Nosotros hemos quitado los ceros imposibles y ya está
+24/10/20 17:29 - +34 649 71 70 94: El resto de modelos están sobre el 0.78 pero todavía no hemos hecho el de redes
+24/10/20 17:29 - +34 649 71 70 94: Qué son los ceros imposibles?
+24/10/20 17:29 - Fran MASTER BD: Hay cuatro variables con valores imposibles
+24/10/20 17:29 - Fran MASTER BD: No puedes tener 0 de presión sanguínea 😂
+24/10/20 17:30 - Fran MASTER BD: Ni de grosor de la piel ni de glucosa
+24/10/20 17:31 - Fran MASTER BD: Hemos optado también por quitar el de insulina ya que pese a no ser imposible, se trata de un valor tremendamente anormal (vamos, diabetes tipo 1 y a partir de entonces vives contrarreloj), y tiene demasiados registros para no ser un error
+24/10/20 17:31 - Fran MASTER BD: El de insulina es el más controvertido
+24/10/20 17:32 - Fran MASTER BD: Alguien lo ha hecho diferent?
+24/10/20 17:32 - +34 649 71 70 94: Pues no es una mala opción lo que habéis hecho
+24/10/20 17:33 - Fran MASTER BD: Da buen resultado
+24/10/20 17:35 - Fran MASTER BD: Pero vamos, es posible que otras aproximaciones funcionen mejor
+24/10/20 17:39 - Virginia Hernández MBD: Son muchas muestras
+24/10/20 17:39 - Virginia Hernández MBD: 🤔
+24/10/20 17:39 - Virginia Hernández MBD: Yo creo que hay muchas formas de hacerlo
+24/10/20 17:39 - Virginia Hernández MBD: Y depende de las 1000 combinaciones que uno quiera hacer
+24/10/20 17:40 - Fran MASTER BD: Sí, también estamos probando a incluir esos registros e el caso de que las variables finales de nuestro modelo no incluyan esos valores anómalos
+24/10/20 17:40 - Virginia Hernández MBD: Jaja
+24/10/20 17:40 - Fran MASTER BD: Otra posibilidad es sustituirlos en un modelo knn, pero parece demasiado trabajo 😂
+24/10/20 17:42 - Fran MASTER BD: El resultado empeora, pero si consideras esos registros como válidos es un resultado más real.
+
+Si prefieres quitarlos porque no te fías, el resultado parece dar un modelo mejor ajustado
+24/10/20 17:42 - +34 649 71 70 94: Por cierto, en la práctica de tecnologías, en la parte del dataset de Katggle le habéis puesto como habéis creado la tabla? En plan, el código
+24/10/20 17:42 - Fran MASTER BD: Yo lo voy a poner
+24/10/20 17:44 - +34 649 71 70 94: Genial, es para saber si lanzaba más queries o no. Que al final 2 páginas se llenan en nada
+24/10/20 18:00 - Fran MASTER BD: Esto no es verdad 😂, me acabo de dar cuenta de una errata
+24/10/20 18:03 - +34 649 61 55 37: Una pregunta
+24/10/20 18:04 - +34 649 61 55 37: Si seleccionas los valores imposibles, no son muchis?
+24/10/20 18:04 - +34 649 61 55 37: Creo que son como unos 100
+24/10/20 18:10 - Fran MASTER BD: No se sí se me ha entendido, me refería a incluir esos registors en el caso de que las variables seleccionadas no incluyeran las variables con ceros
+24/10/20 18:10 - +34 649 61 55 37: Valee
+24/10/20 18:10 - +34 649 61 55 37: Gravias !!
+24/10/20 18:11 - Fran MASTER BD: 👍
+24/10/20 18:44 - Virginia Hernández MBD: Te contratan directamente jajaja
+24/10/20 18:44 - Fran MASTER BD: Parecía magia... y lo era
+25/10/20 12:22 - +34 666 82 82 48: hola
+25/10/20 12:23 - +34 666 82 82 48: una cosa
+25/10/20 12:23 - +34 666 82 82 48: os esta dando este error en el modelo de redes neuronales?
+25/10/20 12:24 - +34 666 82 82 48: <Multimedia omitido>
+25/10/20 12:24 - +34 666 82 82 48: cuando mirais lo de lasensitividad
+25/10/20 12:24 - +34 666 82 82 48: sensibilidad*
+25/10/20 15:29 - +34 649 71 70 94: Ni idea, Lidia. Lo siento
+25/10/20 15:29 - +34 649 71 70 94: Vosotros habéis usado SVM lineal o radial? Es que me salen cosas raras
+25/10/20 15:39 - Felipe Navarro: Ambos y los hemos comparado
+25/10/20 15:41 - +34 649 71 70 94: Eso hice y me sale mejor el radial pero los gráficos me salen raros. En el de clase se podía ver perfectamente cuando hacías lineal que tus datos no lo eran y era mejor probar el radial
+25/10/20 15:41 - +34 649 71 70 94: A mi eso no me sale
+25/10/20 15:41 - +34 649 71 70 94: Lo habéis hecho así o habéis probado los dos sin más?
+25/10/20 15:42 - Felipe Navarro: Pero que quieres ver, los puntos?
+25/10/20 15:43 - Felipe Navarro: Eso depende de cuantas variables uses. En el ejemplo de clase esta hecho con 2 variables de entrada y lo puedes representar en 2D
+25/10/20 15:45 - +34 649 71 70 94: Sí
+25/10/20 15:46 - +34 649 71 70 94: Yo lo he hecho como el ejemplo de clase y pintando sólo 2 variables. Lo que no sé es si sólo con dos variables en un caso donde tienes más se puede ver si es lineal o no, como vimos en el ejemplo que tú dices
+26/10/20 20:13 - Fran MASTER BD: frodriguez.sinks.misink.type = hdfs
+frodriguez.sinks.misink.hdfs.path = Twitter/date=%Y-%m-%d
+frodriguez.sinks.misink.hdfs.useLocalTimeStamp = true
+frodriguez.sinks.misink.hdfs.writeFormat  = Text
+frodriguez.sinks.misink.hdfs.fileType = DataStream
+frodriguez.sinks.hdfs_sink.hdfs.writeFormat = Text
+frodriguez.sinks.hdfs_sink.hdfs.batchSize = 1000
+frodriguez.sinks.hdfs_sink.hdfs.rollSize = 0
+frodriguez.sinks.hdfs_sink.hdfs.rollCount = 1000
+frodriguez.sinks.hdfs_sink.hdfs.rollInterval = 60
+26/10/20 23:01 - +34 649 61 55 37: Oye
+26/10/20 23:01 - +34 649 61 55 37: Mañana
+26/10/20 23:01 - +34 649 61 55 37: A q hira empezamos??
+26/10/20 23:01 - +34 649 61 55 37: A las 3 no?
+26/10/20 23:02 - +34 649 61 55 37: Los del Á
+26/10/20 23:02 - +34 649 61 55 37: Para tratamiento del dato
+26/10/20 23:16 - +34 634 55 48 15: Yess
+26/10/20 23:21 - +34 649 61 55 37: gracias ☺️
+27/10/20 0:16 - +34 634 55 48 15: Hasta cuando se puede entregar el informe del hackaton
+27/10/20 0:16 - +34 634 55 48 15: ?
+27/10/20 0:16 - Virginia Hernández MBD: ponia hasta las 19
+27/10/20 0:16 - +34 634 55 48 15: Fuck my life
+27/10/20 0:16 - +34 634 55 48 15: 😂
+27/10/20 0:17 - Virginia Hernández MBD: pero yo lo he subido hace poco tambien
+27/10/20 0:17 - Virginia Hernández MBD: jaja
+27/10/20 0:17 - +34 634 55 48 15: No queda otra no😂
+27/10/20 0:17 - +34 649 61 55 37: Mira que vosotros eras el team segundo
+27/10/20 0:17 - +34 649 61 55 37: Que pena...
+27/10/20 0:17 - +34 649 61 55 37: Jajajajajja
+27/10/20 0:19 - +34 634 55 48 15: El éxito se nos ha subido a la cabeza y por eso no nos hemos catao
+27/10/20 0:19 - Virginia Hernández MBD: 😂
+27/10/20 0:19 - +34 649 61 55 37: Jajjajajjajajajjajaja
+29/10/20 21:18 - Fran MASTER BD: Mañana quiénes nos quedamos hasta las 9:00?
+29/10/20 21:25 - +34 667 09 51 17: Creo que solo tú. Este grupo lo creamos con gente del grupo A
+29/10/20 21:27 - Virginia Hernández MBD: Yo tambien
+29/10/20 21:27 - Virginia Hernández MBD: 🎉🎉
+29/10/20 21:27 - Felipe Navarro: Y yo
+29/10/20 21:27 - Virginia Hernández MBD: Tenemos esa suerte
+29/10/20 21:27 - Virginia Hernández MBD: 💪🏻💪🏻
+29/10/20 21:28 - Fran MASTER BD: 🥳
+29/10/20 21:28 - Fran MASTER BD: Os apetece quedar a tomar algo después?
+29/10/20 21:28 - Fran MASTER BD: Que a las nueve se sale con un hambre...
+29/10/20 21:31 - +34 622 31 06 63: Yo también salgo a las 9 mañana
+29/10/20 21:33 - +34 622 31 06 63: Y no lo sé, en un rato te digo fran
+29/10/20 21:33 - +34 622 31 06 63: Que estoy hablándolo justo
+29/10/20 22:37 - +34 666 82 82 48: yo tbb
+29/10/20 22:37 - +34 666 82 82 48: mientras sea en terraza vale
+29/10/20 22:38 - +34 666 82 82 48: aunque desde que han dicho que habían dos positivos en clase ya me da cosa jajajaj
+29/10/20 22:41 - Fran MASTER BD: Perfect! En terraza entonces
+29/10/20 22:41 - Virginia Hernández MBD: yojusto igual
+29/10/20 22:41 - Fran MASTER BD: 👍👍👍
+29/10/20 22:43 - Felipe Navarro: Y eso cuando lo han dicho?
+29/10/20 22:43 - Fran MASTER BD: En los de teleco con los que coincidimos en tecnología
+29/10/20 22:43 - Fran MASTER BD: Y al parecer se contagiaron con gente de fuera por separado
+29/10/20 22:43 - Felipe Navarro: Pues ni me he enterado la verdad
+29/10/20 22:44 - Fran MASTER BD: Nosotros a duras penas 😂
+29/10/20 22:44 - Felipe Navarro: Oye pero no cierran los bares y eso super pronto?
+29/10/20 22:44 - Virginia Hernández MBD: a las 11 creo
+29/10/20 22:44 - Felipe Navarro: Ah bueno
+29/10/20 22:45 - Fran MASTER BD: Mañana hay casos de uso?
+29/10/20 22:45 - Fran MASTER BD: Lo pregunto por el general
+29/10/20 22:58 - +34 622 31 06 63: Creo que si hay, han creado el teams
+29/10/20 22:58 - +34 622 31 06 63: Yo al final no puedo mañana
+29/10/20 23:21 - +34 649 71 70 94: Ha habido dos positivos? Pero confirmados?
+29/10/20 23:21 - Virginia Hernández MBD: sip
+29/10/20 23:22 - +34 649 71 70 94: Pues yo creo que eso es algo que deberían comunicar
+29/10/20 23:22 - Virginia Hernández MBD: si lo he entendido bien el lunes
+29/10/20 23:26 - Fran MASTER BD: Gracias Ángel
+29/10/20 23:54 - +34 622 31 06 63: Por lo que nos dijeron en clase tienen un protocolo
+29/10/20 23:54 - +34 622 31 06 63: Que es que los positivos dicen con quien han estado en contacto
+29/10/20 23:54 - +34 622 31 06 63: Y se ponen en contacto con ellos por privado
+29/10/20 23:55 - +34 622 31 06 63: Y dijeron que se habían contagiado fuera de la uni
+31/10/20 14:07 - Fran MASTER BD: Una pregunta
+31/10/20 14:09 - Fran MASTER BD: El examen de Arquitectura iba a ser a boli y dijo lo que iba entrar, con algunos ejercicios.
+31/10/20 14:09 - Fran MASTER BD: Pero, dijo si iba a ser test la mayor parte o preguntas cortas?
+31/10/20 14:33 - Felipe Navarro: A mi tampoco me quedo claro eso
+31/10/20 15:11 - +34 666 82 82 48: yo tampoco se la proporción de preguntas cortas y test
+31/10/20 15:51 - Fran MASTER BD: Vale, pues lo pregunto por el general a ver si alguien sabe
+31/10/20 15:52 - +34 649 71 70 94: A mí me dijo que no era mucho de escribir pero tampoco sé la proporción de preguntas
+31/10/20 15:54 - Fran MASTER BD: Y va a haber test seguro?
+31/10/20 16:49 - +34 666 82 82 48: no se
+31/10/20 16:50 - +34 666 82 82 48: yo me refiero con preguntas cortas a la parte de dibujar y de calcular
+31/10/20 16:51 - +34 666 82 82 48: y con test a preguntas de escribir directamente una palabra con la respuesta, (no se si esta parte sera en formato test de redondear la que es correcra o escribirlo)
+31/10/20 18:27 - Virginia Hernández MBD: me suena test y preguntas cortas
+31/10/20 18:27 - Virginia Hernández MBD: pero no lo apunte
+31/10/20 18:27 - Virginia Hernández MBD: :s
+31/10/20 18:28 - +34 649 61 55 37: A mi tb me suena esto
+31/10/20 18:58 - Fran MASTER BD: A mí también 😅, pero dice Andrés por el grupo que no cree que haya test
+3/11/20 14:10 - +34 622 31 06 63: Sabéis si van a hacer hackathon hoy los de ML?
+3/11/20 14:13 - +34 666 82 82 48: en moodle pone el 5 de noviembre
+3/11/20 14:13 - +34 666 82 82 48: <Multimedia omitido>
+3/11/20 14:13 - +34 626 34 96 30: Acaba de mandar correo
+3/11/20 14:13 - +34 626 34 96 30: Tiene pinta que será la semana que viene
+3/11/20 14:13 - +34 626 34 96 30: El martes
+3/11/20 14:13 - +34 626 34 96 30: Y examen el jueves
+3/11/20 14:18 - +34 622 31 06 63: Genial, graciaas
+4/11/20 20:04 - Fran MASTER BD: Posiciones cabeceras adq header_list = [1, 5, 6, 26, 21, 20]
+4/11/20 20:22 - Fran MASTER BD: Las notas (sobre 8) de matemáticas están en el correo
+7/11/20 10:26 - +34 649 71 70 94: Alguno ha hecho la práctica de adquisición de la NBA y sabe decirme en qué parte y para qué habéis usado la función zip()?
+7/11/20 10:27 - Fran MASTER BD: Yo he hecho la práctica entera
+7/11/20 10:28 - Fran MASTER BD: Pero... no he hecho zip porque moarecía que había otra manera mejor 😅
+7/11/20 10:29 - Fran MASTER BD: La idea del zip es si tienes dos estructuras con los mismos elementos poder recorrerlas a la vez
+7/11/20 10:30 - Fran MASTER BD: Entiendo que tendrías que ordenar los puntos por temporadas de los dos tipos de temporadas (incluyendo las temporadas vacías de post season)
+7/11/20 10:30 - Fran MASTER BD: Y recorrer temporada a temporada los dos tipos de puntos para poder compararlos a la vez
+7/11/20 10:31 - Fran MASTER BD: Se supone que para hacer la parte extra es obligatorio, pero creo que no habrá problema 😅
+7/11/20 10:31 - +34 622 31 06 63: Yo la he utilizado para juntar las medias de puntos de temporada regular y post temporada en un solo array
+7/11/20 10:31 - +34 649 71 70 94: Pero solo se tendría que usar en la parte extra?
+7/11/20 10:32 - +34 622 31 06 63: Pero me parece inútil, se puede comparar sin hacer zip
+7/11/20 10:32 - Fran MASTER BD: Eso entendí
+7/11/20 10:32 - +34 649 71 70 94: Como no entendía muy bien que hacía no sabe dónde tenía que usarla
+7/11/20 10:32 - +34 622 31 06 63: Justo
+7/11/20 10:32 - +34 649 71 70 94: Muchas gracias!
+7/11/20 10:33 - Fran MASTER BD: Lo que hay que tener cuidado es que como en post-season hay menos temporadas, si haces zip directamente puedds estar mezclando puntos de doferentes temporadas
+7/11/20 10:37 - +34 649 71 70 94: Gracias! Lo tendré en cuenta cuando llegue a esa parte, si llego, que todavía estoy intentado crear la primera matriz
+7/11/20 10:39 - Fran MASTER BD: 👍
+8/11/20 22:32 - Fran MASTER BD: A alguien también le suena que la práctica de Flume se podía hacer en grupos de dos o tres?
+8/11/20 22:36 - Felipe Navarro: En mi clase no me suena q lo dijera
+8/11/20 22:47 - Fran MASTER BD: En nuestra clase a mí sí
+8/11/20 22:47 - Fran MASTER BD: Pero a lo mejor me estoy confundiendo
+8/11/20 22:51 - +34 649 71 70 94: En la nuestra seguro que no dijo nada de eso
+8/11/20 22:52 - +34 649 71 70 94: Pero se le pudo olvidar
+8/11/20 23:43 - Virginia Hernández MBD: yo no lo recuerdo la verdad,pero puede ser tipo la anterior
+8/11/20 23:54 - +34 626 34 96 30: Yo creo que lo de parejas se refería al ejercicio extra de la última clase
+8/11/20 23:54 - +34 626 34 96 30: No a la entrega
+8/11/20 23:59 - Fran MASTER BD: Okay, me debí confundir
+8/11/20 23:59 - Fran MASTER BD: Gracias a todos!
+9/11/20 19:44 - +34 667 09 51 17: Una pregunta, el paquete NeuralSens de R donde lo podemos descargar?
+9/11/20 19:49 - Fran MASTER BD: Yo creo que a mí me apareció en R automáticamente la primera vez que abrí un archivo de mlp
+9/11/20 19:49 - Fran MASTER BD: Pero no me acuerdo
+9/11/20 19:49 - Felipe Navarro: A mi tambien
+9/11/20 19:50 - Fran MASTER BD: Prueba a buscarlo en la interfaz de instalación de librerías del rpopio R
+9/11/20 19:51 - Fran MASTER BD: Al cambiarte de sistema operativo volviste a instalar sus librerías del moodle?
+9/11/20 19:51 - +34 667 09 51 17: Ya lo he probado y no sale. He encontrado uno que se llama igual archivado en CRAN
+9/11/20 19:51 - +34 667 09 51 17: Si
+9/11/20 19:51 - +34 667 09 51 17: Voy a probar a darle a lo de install.dependencies otra vez
+9/11/20 19:51 - Fran MASTER BD: Okay
+9/11/20 22:22 - +34 666 82 82 48: cuanto os sale la media de puntos, rebotes y asistencias en la práctica de adquisición de datos?
+10/11/20 0:55 - +34 622 31 06 63: 24.98, 5.24 y 4.69
+10/11/20 8:12 - Fran MASTER BD: Uff, pues lo tengo que mirar, pero esos números no me suenan
+10/11/20 8:12 - Fran MASTER BD: En puntos me parece que me salía 24.2
+10/11/20 8:18 - +34 622 31 06 63: Si te vas a otro diccionario que hay en el json salen las estadísticas totales de regular season
+10/11/20 8:18 - +34 622 31 06 63: <Multimedia omitido>
+10/11/20 8:19 - Fran MASTER BD: Jajajajaja okay, lo tendré que revisar
+10/11/20 9:15 - +34 666 82 82 48: graciass
+11/11/20 9:03 - +34 622 31 06 63: Hoy salimos a las 10 de clase?
+11/11/20 9:05 - +34 666 82 82 48: yo creo que si
+11/11/20 9:05 - +34 666 82 82 48: que hay horario normal
+11/11/20 9:07 - +34 622 31 06 63: 😭
+12/11/20 9:49 - +34 622 31 06 63: Hola! Una cosa, el jefe de IA de la empresa donde estoy haciendo las prácticas me ha preguntado si conozco a alguien que esté interesado en hacer las prácticas en IA
+12/11/20 9:50 - +34 622 31 06 63: Si os interesa decidme y le mando vuestro contacto
+12/11/20 9:50 - +34 634 55 48 15: Justo me ha preguntado a mi tambn
+12/11/20 9:51 - +34 634 55 48 15: Le he dicho q asi de primeras no sabia de nadie
+12/11/20 9:51 - +34 634 55 48 15: Asiq si os renta a alguno estaría de locos
+12/11/20 9:51 - +34 649 71 70 94: Qué empresa es? A mí me gustaría
+12/11/20 9:51 - +34 666 82 82 48: estáis en la misma empresa? a mi también me gustaria
+12/11/20 9:51 - +34 622 31 06 63: Es hi-iberia
+12/11/20 9:51 - +34 622 31 06 63: Tiene buena pinta la verdad
+12/11/20 9:51 - +34 622 31 06 63: yes
+12/11/20 9:52 - +34 622 31 06 63: Bueno, si os interesa mandadle un correo a robertogemartin@hi-iberia.es adjuntando vuestro cv y expediente académico
+12/11/20 9:53 - +34 634 55 48 15: Es python y deep learning
+12/11/20 9:53 - +34 634 55 48 15: Aplicado a proyectos industriales
+12/11/20 9:53 - +34 649 61 55 37: Genial !! Mcuhas gracias chicos 🤩🤩
+12/11/20 9:53 - +34 634 55 48 15: Ahora mismo estamos chapando
+12/11/20 9:53 - +34 634 55 48 15: Estaremos algún tiempo asi
+12/11/20 9:53 - +34 649 61 55 37: Que guay !!
+12/11/20 9:53 - +34 666 82 82 48: gracias!!!
+12/11/20 9:54 - +34 622 31 06 63: A ver si hay suerte🤞🏻
+12/11/20 9:55 - +34 634 55 48 15: Es telematico
+12/11/20 9:56 - +34 634 55 48 15: Pero bueno me imagino q la inmensa mayoría de las practicas serán así ahora
+12/11/20 9:57 - +34 666 82 82 48: si yo creo que si
+12/11/20 9:57 - +34 666 82 82 48: pero bueno esta bien
+12/11/20 9:58 - +34 666 82 82 48: gracias!!!
+12/11/20 9:59 - +34 649 71 70 94: Carlos mandó mi cv ahí y no me cogieron, no sé si porque soy ingeniera Biomédica o por otra cosa. Pero he visto que tienen proyectos de salud, podríais preguntar si tienen algún puesto en alguno de esos? Volver a mandar el cv para una proyecto en el que no me han cogido me parece un poco raro
+12/11/20 10:01 - +34 634 55 48 15: Me parece q el equipo va rotando de proyectos según las necesidades creo recordar q me dijo, ahora estaba centrado en uno de espacio y en otro de electricidad
+12/11/20 10:01 - +34 622 31 06 63: Por lo que he entendido estos días, no se asigna a las personas a proyectos concretos, sino que todos los del equipo de IA aportan lo que van pudiendo en cada proyecto
+12/11/20 10:01 - +34 634 55 48 15: Pero preguntamos y te decimos!!!
+12/11/20 10:03 - +34 622 31 06 63: y yo soy biomédico maría, creo que no nos odian ni nada, yo lo mandaría otra vez
+12/11/20 10:04 - +34 649 61 55 37: Jajajajjaa
+12/11/20 10:05 - +34 649 71 70 94: Jajaja
+12/11/20 10:06 - +34 649 71 70 94: Vale, entonces es solo que no les gusté
+12/11/20 10:06 - +34 649 71 70 94: Lo volveré a mandar, gracias!
+12/11/20 21:14 - Fran MASTER BD: Mañana alguien se queda a tomar algo después de clase?
+12/11/20 21:14 - Fran MASTER BD: O, mejor dicho, alguien va a ir a clase? 😂
+12/11/20 21:15 - +34 649 61 55 37: Esa es la pregunta jajajaa
+12/11/20 21:16 - +34 649 61 55 37: Yo ko creo que vaya ...
+12/11/20 21:16 - +34 649 61 55 37: Pero otro día me apunto !!
+12/11/20 21:16 - +34 649 71 70 94: Yo creo que tampoco jajaja
+12/11/20 21:16 - +34 649 71 70 94: Pero otro día que sí haya casos de estudio me apunto
+12/11/20 21:17 - Fran MASTER BD: Guay!
+12/11/20 21:18 - +34 622 31 06 63: Mañana solo hay adquisición entonces?
+12/11/20 21:18 - +34 649 61 55 37: Si !!
+12/11/20 21:19 - +34 622 31 06 63: Y no vais a ir, no?
+12/11/20 21:19 - +34 626 34 96 30: Ostiaa
+12/11/20 21:19 - +34 626 34 96 30: Mañana solo hay adquisición
+12/11/20 21:19 - +34 649 61 55 37: Online...
+12/11/20 21:19 - +34 649 61 55 37: Jajajjaja
+12/11/20 21:19 - +34 626 34 96 30: Tal cuaal
+12/11/20 21:19 - +34 649 61 55 37: Si eso cuenta como ir...
+12/11/20 21:20 - +34 649 61 55 37: Mañana no va nadie... verás 🤣
+12/11/20 21:20 - +34 622 31 06 63: Vale genial
+12/11/20 21:21 - +34 622 31 06 63: Que alegría me acabáis de dar
+12/11/20 21:32 - +34 666 82 82 48: yo mañana no voy jajaj
+12/11/20 21:32 - +34 666 82 82 48: pero para la próxima me apunto
+12/11/20 21:34 - +34 634 55 48 15: Yo mañana tampoco voy
+12/11/20 21:35 - +34 634 55 48 15: Pero para la prox vez me apunto a tomar unas cerves🤙🏻
+12/11/20 21:39 - +34 649 71 70 94: A ver si de verdad no va a ir nadie y la liamos
+12/11/20 21:41 - +34 622 31 06 63: Ya jajaja igual deberíamos avisar
+13/11/20 15:51 - +34 649 71 70 94: A alguno le ha salido la práctica de tecnología? Me da error con la memoria del canal ponga lo que ponga y cambie lo que cambie
+13/11/20 15:52 - +34 622 31 06 63: Sii
+13/11/20 15:52 - +34 622 31 06 63: Tienes que meter en el fichero flume-env.sh
+13/11/20 15:53 - +34 622 31 06 63: export JAVA_OPTS="-Xmx3g"
+13/11/20 15:53 - +34 649 71 70 94: Madre mía, qué es eso? Para ampliar la memoria de Java?
+13/11/20 15:53 - +34 622 31 06 63: El 3 lo puedes cambiar en función de la memoria que quieres dar
+13/11/20 15:54 - +34 622 31 06 63: Pero con eso me funcionó
+13/11/20 15:54 - +34 622 31 06 63: Sii justo
+13/11/20 15:54 - +34 649 71 70 94: Y yo buscando por todas partes cómo ampliar la memoria 🤦🏼‍♀️
+13/11/20 15:54 - +34 649 71 70 94: Y luego has puesto lo de siempre en el canal?
+13/11/20 15:55 - +34 649 71 70 94: Muchísimas gracias 😊
+13/11/20 16:30 - +34 622 31 06 63: Sii, el resto igual
+13/11/20 16:30 - +34 622 31 06 63: Nada ☺️
+13/11/20 17:15 - +34 649 71 70 94: y para ejecutarlo es como siempre,no?S "sh execute_flume.sh flume-entregable.cfg" ? Porque no me hace nada
+13/11/20 17:15 - +34 649 71 70 94: Se me queda pillado aquí
+13/11/20 17:16 - +34 649 71 70 94: <Multimedia omitido>
+13/11/20 17:30 - Fran MASTER BD: A mí me pasaba lo mismo
+13/11/20 17:30 - Fran MASTER BD: (Creo que lo mismo)
+13/11/20 17:30 - Fran MASTER BD: Tras una primera ejecución en input crea ficheros de configuración
+13/11/20 17:31 - Fran MASTER BD: Cada vez que reintentaba he procurado borrar input
+13/11/20 17:31 - Fran MASTER BD: Volver a crearlo
+13/11/20 17:31 - Fran MASTER BD: Y meter happiness csv
+13/11/20 17:31 - Fran MASTER BD: Probablemente veas que en input se te han creado ficheros ocultos
+13/11/20 17:36 - +34 649 71 70 94: Eso he restado haciendo
+13/11/20 17:37 - +34 649 71 70 94: Volveré a probar cuando vuelva a casa
+13/11/20 17:37 - +34 649 71 70 94: Gracias!
+13/11/20 17:39 - Fran MASTER BD: Nada 😅
+13/11/20 18:23 - Felipe Navarro: Si, yo tambien borraba todo de la carpeta input cada vez que volvia a intentarlo
+14/11/20 14:28 - +34 634 55 48 15: <Multimedia omitido>
+14/11/20 14:29 - +34 634 55 48 15: Alguien sabe?
+14/11/20 14:29 - +34 622 31 06 63: Creo que era
+14/11/20 14:29 - +34 622 31 06 63: ^.WORLD$
+14/11/20 14:30 - +34 634 55 48 15: 👌🏻👌🏻👌🏻
+14/11/20 14:46 - +34 649 71 70 94: Yo lo tengo diferente
+14/11/20 14:46 - +34 649 71 70 94: ^WORLD.*$
+14/11/20 14:48 - +34 622 31 06 63: Si perdona
+14/11/20 14:48 - +34 622 31 06 63: Como dice maría
+14/11/20 14:48 - +34 622 31 06 63: Que te lo he dicho de memoria
+14/11/20 14:49 - +34 634 55 48 15: Thanksss👌🏻
+14/11/20 16:45 - +34 666 82 82 48: una pregunta, el filetype en hdfs, es datastream o sequencefile?
+14/11/20 17:01 - +34 622 31 06 63: Yo puse datastream
+14/11/20 17:09 - +34 666 82 82 48: ok gracias!!
+15/11/20 11:48 - +34 634 55 48 15: <Multimedia omitido>
+15/11/20 11:48 - +34 634 55 48 15: Alguno ha tenido ese error
+15/11/20 11:48 - +34 634 55 48 15: ?
+15/11/20 11:48 - +34 634 55 48 15: Del heap size
+15/11/20 11:49 - Fran MASTER BD: Tiene pinta de ser un problema con el env
+15/11/20 11:50 - +34 634 55 48 15: <Multimedia omitido>
+15/11/20 11:51 - +34 649 71 70 94: Prueba con la expresión que puso patricia por el moodle a ver si te da el mismo error
+15/11/20 11:51 - +34 649 71 70 94: Yo lo metí así y me funcionó (mil gracias, ángel!)
+15/11/20 11:51 - Fran MASTER BD: Las librerías de Hive creo yo
+15/11/20 11:52 - Fran MASTER BD: Pero no sé si ese es tu problema
+15/11/20 11:52 - +34 634 55 48 15: Probare con esto a ver si hay suerte🤞🏻
+15/11/20 11:54 - +34 649 71 70 94: Es verdad! Igual tengo falta meter esas librerías porque si no recuerdo mal las metimos en el ejercicio del spooldir
+15/11/20 11:55 - +34 649 71 70 94: Y esto es muy parecido
+15/11/20 11:55 - +34 649 71 70 94: <Multimedia omitido>
+15/11/20 11:55 - Fran MASTER BD: Eso es
+15/11/20 11:56 - +34 634 55 48 15: Vale val3 de locos muchísimas gracias 👌🏻👌🏻👌🏻
+15/11/20 13:08 - +34 649 71 70 94: Sé que soy un poco pesada, pero habéis explicado los números de rollCount, rollSize que habéis puesto en hdfs? Supuestamente hay que explicarlo, yo he puesto los que vienen por defecto pero me parece que archivos de 1KB son demasiado pequeños
+15/11/20 13:09 - +34 649 71 70 94: Por otro lado, si las propiedades están así por defecto será por algo, no?
+15/11/20 13:10 - Felipe Navarro: Yo he puesto para que se copien bastante mas lineas por archivo, argumentando que es mejor tener archivos mas grandes
+15/11/20 13:10 - Felipe Navarro: Es decir, he subido el rollCount
+15/11/20 13:11 - +34 649 71 70 94: Ya, es que por defecto copia 10 eventos creo, y me parecen muy pocos
+15/11/20 13:11 - Felipe Navarro: Es poquisimo
+15/11/20 13:11 - +34 649 71 70 94: Además de un archivo que pesa 70KB me salen 21 archivos y me parece mucho
+15/11/20 13:11 - Felipe Navarro: Yo creo q le puse 1000 o asi
+15/11/20 13:11 - +34 649 71 70 94: Pero como las propiedades son así por defecto pensaba que igual es lo más óptimo en casos generales
+15/11/20 13:15 - +34 622 31 06 63: Yo puse para que copiara 50 eventos por archivo
+15/11/20 13:16 - +34 622 31 06 63: Así separo los eventos por año
+15/11/20 13:16 - +34 649 71 70 94: Pero eso en teoría no lo sabes a priori, no?
+15/11/20 13:16 - +34 622 31 06 63: No, a priori no
+15/11/20 13:17 - +34 622 31 06 63: Yo creo que lo mejor es hacer lo que dice felipe
+17/11/20 13:32 - +34 666 82 82 48: a alguien le funciona esto de adquisición de datos?
+17/11/20 13:32 - +34 666 82 82 48: <Multimedia omitido>
+17/11/20 13:32 - +34 666 82 82 48: el get_text
+17/11/20 13:32 - +34 666 82 82 48: y lo que tengo comentado también?
+17/11/20 13:45 - Fran MASTER BD: No todos los items tienen tags con “a”
+17/11/20 13:46 - Fran MASTER BD: En cuanto recorras uno que no tenga te va a saltar un error
+17/11/20 13:47 - Fran MASTER BD: Eso se puede solucionar con 
+if item_link!=None:
+    item_text = ...
+17/11/20 13:48 - Fran MASTER BD: En el contexto de la práctica probablemente haya muchas tags de a, así que estarías sobreescribiendo la variable item_text hasta quedarte con la última
+17/11/20 13:56 - +34 666 82 82 48: no si el problema no es ese
+17/11/20 13:56 - +34 622 31 06 63: Qué error te da?
+17/11/20 13:56 - +34 666 82 82 48: el problema es que cuando haces el .get_text
+17/11/20 13:56 - +34 666 82 82 48: no te deja
+17/11/20 13:56 - +34 666 82 82 48: y si quieres buscar el href
+17/11/20 13:56 - +34 666 82 82 48: tampoco
+17/11/20 13:56 - Fran MASTER BD: Es es el error que suele dar
+17/11/20 13:57 - Fran MASTER BD: Algo de Nonetype?
+17/11/20 13:57 - Fran MASTER BD: Nonetype has no method get_text
+17/11/20 13:57 - Fran MASTER BD: O por el estilo
+17/11/20 13:57 - +34 622 31 06 63: Pero eso sería cuando no encuentra enlaces no?
+17/11/20 13:57 - +34 622 31 06 63: Por lo que has dicho antes vaya
+17/11/20 13:58 - +34 666 82 82 48: <Multimedia omitido>
+17/11/20 13:59 - Fran MASTER BD: 😄 acerté
+17/11/20 13:59 - Fran MASTER BD: Es lo que te digo
+17/11/20 13:59 - Fran MASTER BD: No está encontrando en alguna de las iteraciones tags de tipo “a”
+17/11/20 14:00 - +34 666 82 82 48: jajja
+17/11/20 14:00 - +34 666 82 82 48: siempre aciertas
+17/11/20 14:00 - Fran MASTER BD: Y si no hay, no puedes llamar al método get_text para un objeto que no existe
+17/11/20 14:00 - +34 666 82 82 48: pero esa es la forma de encontrarlo
+17/11/20 14:00 - +34 666 82 82 48: metiendolo en un bucle y que busque por a
+17/11/20 14:00 - Fran MASTER BD: Algo así
+17/11/20 14:01 - Fran MASTER BD: Mira a ver si chequeando que existe antes te sigue dando el error
+17/11/20 14:02 - Fran MASTER BD: Yo lo he hecho con un try except
+17/11/20 14:02 - Fran MASTER BD: Pero el if es mejor solución
+17/11/20 14:06 - +34 666 82 82 48: vale
+17/11/20 14:06 - +34 666 82 82 48: gracias! voy a probar
+17/11/20 14:22 - Fran MASTER BD: 👍
+17/11/20 16:19 - +34 622 31 06 63: Yo igual
+17/11/20 16:19 - +34 622 31 06 63: Por qué es mejor opción?
+17/11/20 16:50 - Fran MASTER BD: La caza de excepciones tiene como contrapartida que un programa puede lanzar excepciones por muchas razones diferentes
+17/11/20 16:51 - Fran MASTER BD: Para que fuera perfecto Tendrías que controlar que solo cazara las excepciones concretas de que no haya tag, de lo contrario podrías perder la trazabilidad de excepciones que a lo mejor conviene conocer
+17/11/20 16:52 - Fran MASTER BD: Y el if es una solución de una línea 😂
+17/11/20 16:53 - +34 622 31 06 63: Vale, tiene sentido
+18/11/20 14:17 - +34 622 31 06 63: La clase extra es para todos?
+18/11/20 14:17 - +34 649 71 70 94: Solo para los del grupo B
+18/11/20 14:18 - +34 622 31 06 63: 👌🏻
+18/11/20 22:12 - +34 666 82 82 48: el viernes después de adquisición podríamos ir a tomarnos algo, si alguien se apunta
+18/11/20 22:25 - +34 622 31 06 63: Yo sii
+18/11/20 22:27 - Fran MASTER BD: Me too!
+18/11/20 22:28 - +34 649 71 70 94: Yo me apunto!
+18/11/20 22:29 - +34 649 61 55 37: Y yo !! 🤩🤩
+18/11/20 22:36 - Virginia Hernández MBD: Yo también ☝️☝️
+18/11/20 22:42 - +34 667 09 51 17: Yo también
+18/11/20 22:59 - +34 634 55 48 15: A mi me renta tambn👌🏻
+18/11/20 22:59 - Fran MASTER BD: Vamos a tener que reservar 😂
+20/11/20 11:26 - Fran MASTER BD: Gente, he hablado con mi empresa
+20/11/20 11:27 - Fran MASTER BD: Les interesa gente de data scientist
+20/11/20 11:27 - Fran MASTER BD: (Prácticas)
+20/11/20 11:28 - Fran MASTER BD: Por si estáis alguno interesado
+20/11/20 11:36 - Felipe Navarro: A mi si me interesa
+20/11/20 11:36 - Fran MASTER BD: Perfect!
+20/11/20 11:37 - Fran MASTER BD: Tenéis que mandar el currículum a dolores.leiva@innova-tsn.com
+20/11/20 11:37 - Fran MASTER BD: Es una manager y ha sido con la que he hablado.
+20/11/20 11:38 - Fran MASTER BD: Decid que estáis en el máster y tal aunque ya sabe que sois compañeros míos
+20/11/20 11:38 - Felipe Navarro: Gracias Fran!
+20/11/20 11:39 - Fran MASTER BD: Ella ya se encarga de hablar con Recursos Humanos y tal
+20/11/20 11:41 - Fran MASTER BD: Le he dicho que podrían ser 4-6 horas al día (que es lo que he visto en otra gente)
+20/11/20 11:41 - Fran MASTER BD: Por las mañanas
+20/11/20 11:41 - Fran MASTER BD: Nada!
+20/11/20 11:42 - Fran MASTER BD: Con que no rompáis nada todo bien 😂
+20/11/20 12:02 - Fran MASTER BD: Ahira que lo pienso es bastante buena la oportunidad 😂
+20/11/20 12:02 - Fran MASTER BD: Son top 20 en la KDD 2020
+20/11/20 12:03 - Fran MASTER BD: Quedaron séptimos en 2017
+20/11/20 13:11 - +34 649 71 70 94: Gracias!
+20/11/20 13:11 - +34 649 71 70 94: Siguen en pie lo de esta noche,no? Porque habría que reservar
+20/11/20 13:18 - +34 622 31 06 63: Sii
+20/11/20 13:18 - +34 622 31 06 63: Cuántos somos?
+20/11/20 13:19 - Virginia Hernández MBD: Una cosa, queréis sentaros fuera? O preferís si o si dentro?
+20/11/20 13:22 - Fran MASTER BD: A mí me da igual
+20/11/20 13:22 - +34 634 55 48 15: A mi me da un poco igual pero por preferir prefiero en terraza
+20/11/20 13:23 - +34 649 71 70 94: No sé pero más de 6 seguro así que habría que reservar dos mesas
+20/11/20 13:31 - Virginia Hernández MBD: Yo preferiría terraza también
+20/11/20 13:41 - +34 666 82 82 48: yo prefiero terraza
+20/11/20 13:41 - +34 666 82 82 48: que dentro no es muy recomendable sin mascarillas...jajaja
+20/11/20 13:41 - Fran MASTER BD: Podemos reservar en el Patio
+20/11/20 13:41 - +34 666 82 82 48: me fío, así que por mi bien
+20/11/20 13:42 - Fran MASTER BD: Es el de todos los días básicamente
+20/11/20 13:42 - Fran MASTER BD: Cuántos somos?
+20/11/20 13:42 - Fran MASTER BD: Si me lo decís les mando un mensaje
+20/11/20 13:42 - +34 666 82 82 48: 8 creo
+20/11/20 13:43 - +34 666 82 82 48: estoy preguntando a la otra maria también, que las otras veces se ha quedado y os digo
+20/11/20 13:43 - Fran MASTER BD: Voy a preguntar a Aitor
+20/11/20 13:43 - Fran MASTER BD: Confirmado, se apunta
+20/11/20 13:48 - +34 667 09 51 17: Vamos a hacer lista para estar seguros
+20/11/20 13:48 - +34 667 09 51 17: *Ir a un bar después de clase*
+1. Santiago Cebellán
+20/11/20 13:49 - Fran MASTER BD: *Ir a un bar después de clase*
+1. Santiago Cebellán
+2. Fran
+3. Aitor
+20/11/20 13:51 - +34 649 71 70 94: *Ir a un bar después de clase*
+1. Santiago Cebellán
+2. Fran
+3. Aitor
+4. María Javierre
+20/11/20 13:53 - Virginia Hernández MBD: *Ir a un bar después de clase*
+1. Santiago Cebellán
+2. Fran
+3. Aitor
+4. María Javierre
+5. Virginia
+20/11/20 14:22 - +34 649 61 55 37: *Ir a un bar después de clase*
+1. Santiago Cebellán
+2. Fran
+3. Aitor
+4. María Javierre
+5. Virginia
+6. Raquel
+20/11/20 14:22 - +34 649 61 55 37: No creo que haga falta reservar, seguro que encontramos algún bar, y que nos pongan dos mesas cerca no?
+20/11/20 14:34 - +34 666 82 82 48: *Ir a un bar después de clase*
+1. Santiago Cebellán
+2. Fran
+3. Aitor
+4. María Javierre
+5. Virginia
+6. Raquel
+7. Lidia
+20/11/20 14:34 - +34 666 82 82 48: al final la otra maria no puede
+20/11/20 14:45 - +34 634 55 48 15: *Ir a un bar después de clase*
+1. Santiago Cebellán
+2. Fran
+3. Aitor
+4. María Javierre
+5. Virginia
+6. Raquel
+7. Lidia
+8.luis
+20/11/20 14:45 - +34 626 34 96 30: Salimos a las 7 todos
+20/11/20 14:46 - +34 626 34 96 30: O algunos estáis hasta las 9??
+20/11/20 14:46 - +34 634 55 48 15: Creo q muchos tienen hasta las 9
+20/11/20 14:46 - +34 666 82 82 48: algunos salimos a las 9
+20/11/20 14:46 - +34 649 61 55 37: Algunos somos 7...
+20/11/20 14:46 - +34 649 61 55 37: Jajajaja
+20/11/20 14:46 - +34 626 34 96 30: Vale vale jajjajajajaj
+20/11/20 14:47 - +34 634 55 48 15: Guille yo me echo la siesta ahora y voy a adquisición a las 7
+20/11/20 14:47 - +34 634 55 48 15: 😂
+20/11/20 14:47 - +34 649 61 55 37: Jajajajajajajja
+20/11/20 14:47 - +34 626 34 96 30: Maadree
+20/11/20 14:47 - +34 634 55 48 15: Estoy muertisimo
+20/11/20 14:47 - +34 626 34 96 30: Vaya plot twist
+20/11/20 14:47 - +34 626 34 96 30: Yo es que luego me tengo que ir antes
+20/11/20 14:48 - +34 626 34 96 30: Alguno sale a las 7
+20/11/20 14:48 - +34 626 34 96 30: O vais a ir todos hasta las 9??
+20/11/20 14:48 - +34 649 61 55 37: María y yo íbamos a quedarnos haciendo el trabajo de R ... jajaja
+20/11/20 14:48 - +34 649 61 55 37: Vente !!
+20/11/20 14:49 - +34 649 61 55 37: Tb podemos ir antes al bar...
+20/11/20 14:49 - +34 649 61 55 37: Jajaja
+20/11/20 14:49 - +34 626 34 96 30: A mi me tira más esa idea jajajjajajak
+20/11/20 14:49 - +34 626 34 96 30: Naa pero lo que querais
+20/11/20 14:50 - +34 626 34 96 30: Si preferís avanzar con lo otro
+20/11/20 14:50 - +34 626 34 96 30: Esta mejor pensado jajajja
+20/11/20 14:51 - Virginia Hernández MBD: 😂😂
+20/11/20 14:52 - Virginia Hernández MBD: La mitad salimos a las 9 :)
+20/11/20 14:53 - Virginia Hernández MBD: Gracias! Yo creo que con dos mesas vamo seguros :)
+20/11/20 15:05 - +34 622 31 06 63: *Ir a un bar después de clase*
+1. Santiago Cebellán
+2. Fran
+3. Aitor
+4. María Javierre
+5. Virginia
+6. Raquel
+7. Lidia
+8.luis
+9. Ángel
+20/11/20 16:26 - Fran MASTER BD: Para cenar o para tomar algo?
+20/11/20 16:34 - +34 666 82 82 48: yo sólo me voy a tomar algo
+20/11/20 16:54 - Virginia Hernández MBD: Yo también
+20/11/20 17:04 - +34 649 61 55 37: Yo igual
+20/11/20 17:12 - Fran MASTER BD: Meted a Aitor porfa
+20/11/20 17:12 - Fran MASTER BD: ‎Aitor Pérez Ezcurra.vcf (archivo adjunto)
+20/11/20 19:37 - ‎+34 666 82 82 48 añadió a Aitor MBD
+20/11/20 19:37 - +34 667 09 51 17: Oye estoy ya en el café doctor con Eladio, Alicia, Jorge, Corina y Nekane. Hay mucho sitio por si queréis venir.
+20/11/20 19:37 - +34 667 09 51 17: Bar Café Doctor
+Calle de Guzmán el Bueno, 6, 28015 Madrid
+915 59 26 91
+https://maps.app.goo.gl/92Mwqahx8k43xsrX7
+20/11/20 19:41 - Fran MASTER BD: Ya he avisado a El Patio 😅
+20/11/20 19:46 - +34 667 09 51 17: Ah vale. Yo llegaré un poco tarde
+22/11/20 19:02 - +34 634 55 48 15: <Multimedia omitido>
+22/11/20 19:02 - +34 634 55 48 15: Una cosa, alguien sabe como hacer q te saque el csv sin los saltos esos
+22/11/20 19:03 - +34 634 55 48 15: Me imagino q será tocando algo de aqui
+22/11/20 19:03 - +34 634 55 48 15: <Multimedia omitido>
+22/11/20 19:03 - Aitor MBD: Si, me pasaba lo mismo
+22/11/20 19:03 - Aitor MBD: Tienes q añadir newline=''
+22/11/20 19:03 - +34 667 09 51 17: Pídele que te lo saqué por pantalla antes de guardarlo. Puede que haya algún \n por ahi
+22/11/20 19:04 - +34 667 09 51 17: \n es es símbolo del salto de línea
+22/11/20 19:04 - Aitor MBD: En el open
+22/11/20 19:05 - Fran MASTER BD: Yes
+22/11/20 19:05 - Fran MASTER BD: Me da la sensación que el problema es otro
+22/11/20 19:05 - Fran MASTER BD: Sensación.... casi seguro
+22/11/20 19:05 - Fran MASTER BD: El newline= es un apaño
+22/11/20 19:06 - Fran MASTER BD: Funciona, pero si imprimes verás que ya tienes los saltos de línea
+22/11/20 19:06 - Fran MASTER BD: Porque esto no es un salto de línea, es uno doble
+22/11/20 19:07 - +34 634 55 48 15: Okey okey
+22/11/20 19:07 - +34 634 55 48 15: Thanks gente🤙🏻
+29/11/20 22:13 - Virginia Hernández MBD: chicos para quien no lo haya visto, hay una práctica entregable de kafka para el domingo que viene
+29/11/20 22:39 - Fran MASTER BD: Obligatoria?
+29/11/20 22:39 - Virginia Hernández MBD: No pone opcional....
+29/11/20 22:40 - Virginia Hernández MBD: <Multimedia omitido>
+29/11/20 22:40 - Fran MASTER BD: Uff, pues gracias por el aviso!!
+29/11/20 22:40 - Virginia Hernández MBD: Yo lo acababa de ver también 😅😅
+30/11/20 16:33 - Fran MASTER BD: Sabéis que día hay que entregar las prácticas de python de Jorge de Tecnologías del Procesamiento?
+30/11/20 16:33 - Virginia Hernández MBD: Creo que todavía no lo han fojado
+30/11/20 16:33 - +34 649 61 55 37: Pero estaban diciendo del último de clase
+30/11/20 16:34 - +34 649 61 55 37: Pero esta por ver
+30/11/20 16:34 - +34 649 61 55 37: Porque quizás era mejor un poco antes para tenerlas corregidas para el examen
+30/11/20 16:34 - Virginia Hernández MBD: Lo único, que igualmente va a poner otra
+30/11/20 16:35 - Virginia Hernández MBD: Y esa creo que quería subirla al terminar las clases no?
+30/11/20 16:35 - Virginia Hernández MBD: Eso entendí
+30/11/20 16:35 - +34 649 61 55 37: Eso no se...
+30/11/20 16:35 - +34 649 71 70 94: Él dijo que la segunda se entregaría después de navidades
+30/11/20 16:35 - +34 649 71 70 94: Pero es que Jorge pensaba que los finales eran en enero
+1/12/20 11:53 - Felipe Navarro: A alguien le lee flume desde el topic de airports en Kafka?
+1/12/20 11:54 - Aitor MBD: A mi no
+1/12/20 11:54 - Felipe Navarro: Y a alguien le carga el kafka manager?
+1/12/20 11:54 - Aitor MBD: Se me queda escuchando y no pilla nada
+1/12/20 11:54 - Felipe Navarro: Ok a mi igual
+1/12/20 11:54 - Aitor MBD: Le mande ayer un mail y me dijo q eso no lo ibamos a usar
+1/12/20 11:54 - Felipe Navarro: Y de lo del topic?
+1/12/20 11:54 - Felipe Navarro: No te dijo nada?
+1/12/20 11:54 - Aitor MBD: <Multimedia omitido>
+1/12/20 11:55 - Aitor MBD: Nada
+1/12/20 11:55 - Felipe Navarro: Pero eso se lo comentaste tb?
+1/12/20 11:55 - Aitor MBD: Sii
+1/12/20 11:55 - Aitor MBD: En otro mail
+1/12/20 11:55 - Felipe Navarro: Y no ha contestado no?
+1/12/20 11:55 - Aitor MBD: No
+1/12/20 11:56 - Felipe Navarro: Ok, si te dice algo ponlo x aqui
+1/12/20 11:56 - Aitor MBD: Vale
+1/12/20 11:56 - Felipe Navarro: Xq creo q somos varios con el mismo problema
+1/12/20 11:56 - Felipe Navarro: Gracias
+1/12/20 11:56 - Aitor MBD: Vale
+1/12/20 12:12 - Felipe Navarro: Ya se xq falla
+1/12/20 12:13 - Felipe Navarro: Hay q resetear el offset
+1/12/20 12:13 - Felipe Navarro: Esty averiguando como va
+1/12/20 12:14 - Aitor MBD: Bien
+1/12/20 12:14 - Aitor MBD: Avisa con lo q sea
+1/12/20 12:14 - +34 649 71 70 94: Yo he llegado a la misma conclusión pero no he conseguido resetearlo porque el comando no me funciona
+1/12/20 12:15 - Felipe Navarro: A mi tampoco
+1/12/20 12:15 - Felipe Navarro: Lo tiene deshabilitado Patricia
+1/12/20 12:17 - +34 649 71 70 94: Lo he intentado con esto que puso en lo de las kafka tools
+1/12/20 12:17 - +34 649 71 70 94: ./kafka-consumer-groups --reset-offsets --bootstrap-server 192.168.80.30:9092 --group id_alumno --topic alumno --to-earliest --execute
+1/12/20 12:18 - +34 649 71 70 94: Pero me dice que no reconoce el comando o algo así
+1/12/20 12:18 - Felipe Navarro: Si, eso es
+1/12/20 12:18 - Felipe Navarro: Se lo comente en su dia
+1/12/20 12:18 - Felipe Navarro: En clase
+1/12/20 12:19 - Felipe Navarro: Y me dijo q no lo tenia habilitado o algo asi
+1/12/20 12:19 - +34 649 71 70 94: Y entonces qué se supone que tenemos que hacer? 😂
+1/12/20 12:19 - Felipe Navarro: Pues esperar a que apetezca arreglarlo
+1/12/20 12:19 - Aitor MBD: Yo ya le mande un mail ayer
+1/12/20 12:19 - Felipe Navarro: O buscarnos la vida
+1/12/20 12:19 - Aitor MBD: Lo que tarde en verlo
+1/12/20 12:20 - +34 649 71 70 94: Genial!
+1/12/20 12:20 - +34 649 71 70 94: Avísanos con lo que te comente, porfa
+1/12/20 12:20 - Aitor MBD: Sii
+1/12/20 12:21 - +34 649 71 70 94: Gracias :)
+1/12/20 12:23 - Felipe Navarro: Yo he conseguido leer del topic por consola
+1/12/20 12:23 - Felipe Navarro: Pero no con flume
+1/12/20 12:24 - +34 649 71 70 94: Y cómo lo has hecho? Y te crea las carpetas en hdfs?
+1/12/20 12:24 - Felipe Navarro: No no, solo me lo muestra x pantalla
+1/12/20 12:24 - Felipe Navarro: Era pra confirmar q kafka no esta caido
+1/12/20 12:25 - +34 649 71 70 94: Ya, yo lo miré ayer en el cloudera pero salía que estaba bien
+1/12/20 12:28 - Felipe Navarro: Lo he arreglado
+1/12/20 12:29 - +34 649 71 70 94: Lo del offset? Cómo?
+1/12/20 12:29 - Felipe Navarro: Hay un fallo en los ejercicios de patricia
+1/12/20 12:29 - Felipe Navarro: <Multimedia omitido>
+1/12/20 12:30 - Felipe Navarro: Eso esta mal
+1/12/20 12:30 - Felipe Navarro: Hay que poner kafka.consumer.auto.offset.reset
+1/12/20 12:31 - +34 649 71 70 94: Solo eso ? O combinado con lo de antes?
+1/12/20 12:31 - +34 649 71 70 94: Perdón, es que no me entero
+1/12/20 12:32 - Felipe Navarro: Solo eso
+1/12/20 12:32 - Felipe Navarro: A no perdona
+1/12/20 12:32 - Felipe Navarro: Si si
+1/12/20 12:33 - Felipe Navarro: Lo mismo de antes
+1/12/20 12:33 - Felipe Navarro: Pero añade el consumer despues de kafka
+1/12/20 12:41 - Felipe Navarro: <Multimedia omitido>
+1/12/20 12:55 - Felipe Navarro: Esto funciona solo para la primera vez
+1/12/20 12:55 - Felipe Navarro: Si por lo q sea tienes q volver a ejecutarlo hay q resetear el offset a mano
+1/12/20 12:55 - Felipe Navarro: Y ese comando no funciona
+1/12/20 12:55 - Aitor MBD: Hostia
+1/12/20 12:56 - Aitor MBD: Pues yo tengo q volver a ejecutarlo
+1/12/20 12:56 - +34 649 71 70 94: Ya somos dos 🤦🏼‍♀️
+1/12/20 12:57 - Aitor MBD: Yo esq lo he borrado y todo vaya jajajaajjaja
+1/12/20 12:57 - Aitor MBD: Pues a esperar
+1/12/20 12:57 - +34 666 82 82 48: a mano no se puede hacer?
+1/12/20 12:57 - +34 649 71 70 94: Yo lo he lanzado y  como no parecía que hiciera lo que tenía que hacer lo he parado
+1/12/20 12:57 - Felipe Navarro: No funciona el comando
+1/12/20 12:58 - +34 649 71 70 94: Qué capacidad habéis puesto para el canal? 100 y 10 como siempre o lo habéis subido?
+1/12/20 12:58 - +34 649 61 55 37: Ajjajsjsjsjjsjsjs
+1/12/20 13:00 - Aitor MBD: Esq yo hice la primera parte y vi q me funcionaba
+1/12/20 13:00 - Aitor MBD: Pase a hacerlo con todo junto y ya no leia nada
+1/12/20 13:00 - Aitor MBD: Asiq nada, a esperar
+1/12/20 13:01 - Felipe Navarro: Hay q resetear el offset para tu consumer
+1/12/20 13:01 - Felipe Navarro: O
+1/12/20 13:01 - Felipe Navarro: Generarte otro consumer
+1/12/20 13:01 - +34 649 71 70 94: Le mando correo a Patricia sobre lo del offset yo también
+1/12/20 13:01 - Felipe Navarro: Pero no hagais eso muchas veces
+1/12/20 13:01 - Felipe Navarro: Q petais wl kafka
+1/12/20 13:01 - +34 649 71 70 94: Te refieres a otro group id?
+1/12/20 13:01 - Felipe Navarro: Si
+1/12/20 13:02 - +34 649 71 70 94: Eso no es mala idea si no lo hacemos mil veces todos a la vez
+1/12/20 13:02 - +34 649 71 70 94: Lo pruebo esta tarde
+1/12/20 13:02 - +34 649 71 70 94: Muchísimas gracias!
+1/12/20 13:03 - +34 666 82 82 48: osea que podemos ir creandonos diferentes group_id dejando la sentencia del offset en el fichero
+1/12/20 13:03 - +34 666 82 82 48: y eso solo te vale una vez
+1/12/20 13:04 - +34 666 82 82 48: y sino vuelves a cambier e group_id no?
+1/12/20 13:05 - Felipe Navarro: Si
+1/12/20 13:05 - Felipe Navarro: Me voy a arrepentir de decir eso 😅
+1/12/20 13:05 - Felipe Navarro: No peteis el cluster eh 🤣
+1/12/20 13:06 - +34 666 82 82 48: jajajaaj
+1/12/20 13:06 - +34 666 82 82 48: gracias felipe!
+1/12/20 13:07 - +34 649 61 55 37: Mil gracias ☺️
+2/12/20 10:48 - Felipe Navarro: A alguien le ha contestado Patricia?
+2/12/20 10:49 - Aitor MBD: Nada
+2/12/20 12:04 - +34 649 71 70 94: No
+3/12/20 13:35 - +34 622 31 06 63: Alguien sabe de expresiones regulares?
+3/12/20 13:36 - Fran MASTER BD: Yo
+3/12/20 13:36 - +34 622 31 06 63: Y me puede decir cómo se aprende a entender eso?
+3/12/20 13:36 - Fran MASTER BD: En clase tal vez te puedo ayudar
+3/12/20 13:36 - +34 622 31 06 63: Guay
+3/12/20 13:36 - Fran MASTER BD: Es bastante sencillo
+3/12/20 13:36 - +34 622 31 06 63: Me gustaría aprender al menos lo básico
+3/12/20 13:36 - Fran MASTER BD: Pero se puede explicar a bastantes niveles de dificultad 😂
+3/12/20 13:36 - Fran MASTER BD: Genial
+3/12/20 13:36 - +34 622 31 06 63: Que no sé ni hacer las de las prácticas
+3/12/20 13:37 - Fran MASTER BD: Qué prácticas?
+3/12/20 13:37 - Fran MASTER BD: Algo de ayer?
+3/12/20 13:37 - +34 666 82 82 48: yo tambien quiero aprender eso!
+3/12/20 13:37 - +34 666 82 82 48: es en la practica de tecnologias
+3/12/20 13:37 - +34 666 82 82 48: de kafka
+3/12/20 13:37 - +34 666 82 82 48: yo estoy igual angel..
+3/12/20 13:38 - +34 649 61 55 37: Jajajajaj
+3/12/20 13:38 - +34 666 82 82 48: te pide que cojas una columna
+3/12/20 13:38 - +34 649 61 55 37: Yo me uno !!
+3/12/20 13:38 - +34 622 31 06 63: Pues fran si nos cuentas tú lo basic genial
+3/12/20 13:38 - +34 666 82 82 48: y tiene que ser con un interceptor de tipo regex pero la expresion regular es lo complicado
+3/12/20 13:38 - Fran MASTER BD: Okay
+3/12/20 13:39 - +34 622 31 06 63: Sino podríamos hasta pedirles una clase/tutoría y que nos contara un poco
+3/12/20 13:39 - +34 666 82 82 48: si
+3/12/20 13:39 - +34 622 31 06 63: A patricia o a jorge
+3/12/20 13:39 - +34 666 82 82 48: yo habia pensado eso
+3/12/20 13:39 - +34 666 82 82 48: porque es que no nos ha epxlicado nada
+3/12/20 13:39 - +34 666 82 82 48: y seguro que en el examen nos lo pide
+3/12/20 13:39 - +34 666 82 82 48: una que no hayamos usado
+3/12/20 13:40 - +34 622 31 06 63: Como si lo viera
+3/12/20 13:55 - +34 646 50 05 96: Yo creo que en el examen nos va a pedir la misma expresión
+3/12/20 13:56 - +34 646 50 05 96: (Casi) Siempre usamos la misma
+3/12/20 13:57 - +34 649 61 55 37: patricia dijo en clase que eso no  lo iba a pedir en el examen
+3/12/20 13:57 - +34 649 61 55 37: que nos la daria
+3/12/20 14:07 - +34 666 82 82 48: okk
+3/12/20 14:07 - +34 666 82 82 48: mejor
+3/12/20 14:16 - +34 646 50 05 96: Pues menos mal
+3/12/20 14:20 - +34 649 71 70 94: Menos mal
+3/12/20 14:20 - +34 649 71 70 94: Porque sino nos podemos pasar buscando la expresión todo el examen
+3/12/20 14:26 - +34 622 31 06 63: <Multimedia omitido>
+3/12/20 14:27 - Aitor MBD: A mi me pasa eso mismo angel
+3/12/20 14:30 - +34 666 82 82 48: si
+3/12/20 14:30 - +34 666 82 82 48: me pasa lo mismo
+3/12/20 14:33 - +34 622 31 06 63: Okey, y pasando de eso no? O hay alguna forma de quitarlo con la regex?
+3/12/20 14:49 - Aitor MBD: Yo he pasao porq no se como hacerlo
+3/12/20 14:50 - Fran MASTER BD: Creo que se me ocurre una cosa
+3/12/20 14:51 - Fran MASTER BD: Sustituir
+3/12/20 14:51 - Fran MASTER BD: [^,] por
+3/12/20 14:51 - Fran MASTER BD: ([^,]|[^",]
+3/12/20 14:51 - Fran MASTER BD: )
+3/12/20 14:52 - Fran MASTER BD: algo así
+3/12/20 14:52 - Fran MASTER BD: ^(?:[^,]+,){3}(([^,]|[^",])+)
+3/12/20 14:52 - Fran MASTER BD: La idea es que acepte tanto , como ",
+3/12/20 14:53 - Fran MASTER BD: es un triple y no puedo probarlo
+3/12/20 15:00 - +34 622 31 06 63: Okey, gracias
+3/12/20 15:48 - Fran MASTER BD: No funciona
+3/12/20 15:48 - Fran MASTER BD: Pero existe esto para los que queráis probar
+3/12/20 15:48 - Fran MASTER BD: https://regex101.com/r/xD5aT8/5
+3/12/20 15:54 - +34 622 31 06 63: Si esq me parece chino
+3/12/20 15:54 - +34 622 31 06 63: Gracias Fran
+3/12/20 15:56 - Fran MASTER BD: Nada
+3/12/20 20:12 - Fran MASTER BD: Mañana alguien se apunta a tomar algo después de clase?
+3/12/20 20:22 - Aitor MBD: Sii
+3/12/20 20:22 - Aitor MBD: Celebramos tu cumple jajaja
+3/12/20 20:22 - +34 622 31 06 63: Yo no puedo mañana
+3/12/20 20:28 - Virginia Hernández MBD: Yo me apunto un ratillo :)
+3/12/20 20:28 - Virginia Hernández MBD: Anda es tu cumple mañana fran??
+3/12/20 20:29 - Fran MASTER BD: Jajajaja
+3/12/20 20:30 - Fran MASTER BD: Fue ayer, por eso me lo tomé de descanso 😅
+3/12/20 20:30 - Fran MASTER BD: Pero lo celebramos igual 🥳
+3/12/20 21:05 - Virginia Hernández MBD: Anda!!
+3/12/20 21:06 - Virginia Hernández MBD: Muchas felicidades!! 🤗🤗
+3/12/20 21:07 - +34 649 61 55 37: Felicidades Fran !!
+3/12/20 21:10 - Fran MASTER BD: Gracias!!!!!
+3/12/20 21:52 - +34 646 50 05 96: Felicidades atrasadas francescoo
+3/12/20 22:47 - +34 666 82 82 48: yo mañana no puedo
+3/12/20 22:52 - Fran MASTER BD: Gracias Jorge!!!
+4/12/20 9:31 - Aitor MBD: Habeis conseguido pasar la info de hdfs_hive a una tabla de hive?
+4/12/20 9:32 - Aitor MBD: Esq no consigo
+4/12/20 9:37 - Felipe Navarro: Con msck repair
+4/12/20 9:40 - +34 622 31 06 63: Si no os deja hacer el msck repair (a mi me pasó) poned antes esto
+4/12/20 9:40 - +34 622 31 06 63: set hive.msck.path.validation=ignore;
+4/12/20 9:40 - +34 622 31 06 63: Y luego el repair
+4/12/20 9:43 - +34 622 31 06 63: Y santi ha hecho esta maravilla
+4/12/20 9:43 - +34 622 31 06 63: ,([^,]*),(?:[^,]*,){8}[^,]*$
+4/12/20 9:43 - +33 7 82 01 28 61: 😄🔥
+4/12/20 9:43 - +34 622 31 06 63: Que pilla la zona bien
+4/12/20 9:46 - +34 622 31 06 63: Os deja hacer el reset del offset?
+4/12/20 9:46 - Aitor MBD: No he probado
+4/12/20 9:46 - Aitor MBD: Luego t digo
+4/12/20 9:46 - +34 667 09 51 17: Te ha vuelto ha quitar los asteriscos
+4/12/20 9:48 - +34 622 31 06 63: <Multimedia omitido>
+4/12/20 9:48 - +34 667 09 51 17: <Multimedia omitido>
+4/12/20 9:58 - +34 667 09 51 17: Habéis conseguido resetear el offset?
+4/12/20 9:58 - +34 667 09 51 17: Patricia ha dicho que ahora se puede
+4/12/20 10:10 - +34 666 82 82 48: no
+4/12/20 10:10 - +34 666 82 82 48: gracas por la expresion regular
+4/12/20 10:10 - +34 666 82 82 48: gracias*
+4/12/20 10:11 - +34 622 31 06 63: Yo tampoco
+4/12/20 10:12 - +34 622 31 06 63: Creo que es por la versión, pq no nos sale la opción de reset-offset cuando haces kafka-consumer-groups
+4/12/20 10:16 - Felipe Navarro: Se hace cn el otro comando q ha puesto patricia
+4/12/20 10:16 - Felipe Navarro: Lo de --delete
+4/12/20 10:18 - +34 622 31 06 63: Ah joder, pensaba que era para borrar el grupo
+4/12/20 10:19 - +34 666 82 82 48: haceis esto?
+4/12/20 10:19 - +34 666 82 82 48: ./kafka-consumer-groups --delete-offsets --bootstrap-server 192.168.80.30:9092 --group id_lsanz1 --topic airport --to-earliest --execute
+4/12/20 10:21 - +34 667 09 51 17: Eso no funciona porque la ruta de kafka-consumer-groups esta mal
+4/12/20 10:22 - +34 667 09 51 17: Es /usr/bin/kafka-consumer-groups
+4/12/20 10:23 - +34 666 82 82 48: gracias!
+4/12/20 10:24 - +34 666 82 82 48: a mi me dice que delete no es una opcion recnocida
+4/12/20 10:48 - +34 667 09 51 17: Esto me ha funcionado a mi
+4/12/20 10:48 - +34 667 09 51 17: /usr/bin/kafka-consumer-groups --zookeeper 192.168.80.32:2181,192.168.80.30:2181,192.168.80.31:2181 \
+--delete --group id_scebellan --topic airport
+4/12/20 10:48 - +34 667 09 51 17: No puedes resetear el offset, solo puedes cargartelo
+4/12/20 10:48 - +34 667 09 51 17: Y despues volver a crearlo al principio
+4/12/20 10:50 - +34 666 82 82 48: pero es que te dice: Error: Delete for group 'id_lsanz1' topic 'airport' failed because group does not exist.
+4/12/20 10:50 - +34 667 09 51 17: Ah. Creo que ella elimino la mayoria de los topics ayer por la noche
+4/12/20 10:51 - +34 667 09 51 17: topics no, groups_id
+4/12/20 10:51 - +34 667 09 51 17: Asi que o creas tu topic a mano o vuelves a ejecutar tu flume para que lo cree por ti
+4/12/20 10:52 - +34 666 82 82 48: okk gracias!!
+4/12/20 10:56 - +34 667 09 51 17: Otra vez, no topic, group-id
+4/12/20 11:14 - Felipe Navarro: Yo lo he hecho asi tb
+4/12/20 11:14 - +34 649 71 70 94: Y cómo sabes eso?
+4/12/20 11:16 - +34 667 09 51 17: Porque antes de ayer yo cree un montón de group IDs. Está mañana usando KAFKA TOOLS le he pedido que me saque la lista de group IDs y los míos no estaban
+4/12/20 11:17 - +34 649 71 70 94: Gracias! Era ya curiosidad
+4/12/20 11:20 - +34 622 31 06 63: Cómo sacas la lista de de group ids? porque yo cuando la saco me salen como 8 ids míos
+4/12/20 11:20 - +34 622 31 06 63: pero no me deja eliminarlos
+4/12/20 11:32 - +34 667 09 51 17: /usr/bin/kafka-consumer-groups --bootstrap-server 192.168.80.30:9092 --list
+4/12/20 11:34 - +34 622 31 06 63: Graciaas
+4/12/20 12:46 - +34 667 09 51 17: Os sucede que eliminais el group_id y funciona pero despues mirais el offset de ese mismo group_id en airport y sigue existiendo?
+4/12/20 12:47 - +34 649 71 70 94: No lo he probado. Como leonas tú el group id? Por hacer lo mismo que tú y ver si me sale igual
+4/12/20 12:52 - +34 666 82 82 48: si, a mi ahora no me esta funcionando lo que decias
+4/12/20 12:53 - +34 667 09 51 17: :/
+4/12/20 12:54 - +34 667 09 51 17: Le hemos enviado un correo a patricia
+4/12/20 12:54 - +34 667 09 51 17: pero seguimos sin saber resetear los offsets
+4/12/20 12:54 - +34 666 82 82 48: ya...
+4/12/20 12:54 - +34 666 82 82 48: yo estoy emezando a cabrearme jajajaja
+4/12/20 12:55 - +34 666 82 82 48: voy a crear un nuevo group id y paso ya
+4/12/20 12:56 - Aitor MBD: Va un poco mal el edge ahora? O es mi wifi? Jajajaajja
+4/12/20 13:10 - +34 622 31 06 63: Siempre va mal 😎
+4/12/20 13:19 - +34 666 82 82 48: a mi me va bien
+4/12/20 16:31 - +34 666 82 82 48: alguien sabe que significa esto?
+4/12/20 16:32 - +34 666 82 82 48: <Multimedia omitido>
+4/12/20 16:32 - +34 666 82 82 48: cuando hago el msck repair table lsanz.airport;
+4/12/20 16:32 - +34 666 82 82 48: me dice Partitions not in metastore
+4/12/20 16:32 - +34 666 82 82 48: y no me deja cargar la tabla
+4/12/20 16:42 - +34 622 31 06 63: Ni idea, a mi no me salía eso
+5/12/20 12:18 - +34 634 55 48 15: Usuario y contraseña del hue? Q no me acuerdo
+5/12/20 12:18 - +34 634 55 48 15: Alguien sabe
+5/12/20 12:18 - +34 634 55 48 15: ?
+5/12/20 12:18 - +34 666 82 82 48: la tuya
+5/12/20 12:19 - +34 646 50 05 96: Usuario usuario
+5/12/20 12:19 - +34 634 55 48 15: Vale gracias!!!
+5/12/20 19:19 - Virginia Hernández MBD: holap, por saber como de factible es
+5/12/20 19:19 - Virginia Hernández MBD: alguien ha hecho el gif de tecnologias?
+5/12/20 19:26 - +34 622 31 06 63: Yo no me he puesto aún
+5/12/20 19:40 - +33 7 82 01 28 61: Yo si
+5/12/20 19:40 - Fran MASTER BD: Yo también
+5/12/20 19:40 - Fran MASTER BD: MUY sencillo
+5/12/20 19:41 - +33 7 82 01 28 61: Bueno dejo Fran explicar :)
+5/12/20 19:41 - Fran MASTER BD: Jajajaja
+5/12/20 19:41 - Fran MASTER BD: Es simplemente que cuando guardas una imagen puedes guardar una lista de imágenes con esa
+5/12/20 19:42 - Fran MASTER BD: En uno de los argumentos de la función
+5/12/20 19:45 - Fran MASTER BD: <Multimedia omitido>
+5/12/20 19:46 - Fran MASTER BD: yo la lista de imagenes me la he creado recorriendo reconstruir(k) en una list comprehension
+5/12/20 19:47 - +34 649 71 70 94: Yo sí pero no me lo muestra dentro del notebook
+5/12/20 19:48 - +34 649 71 70 94: Jajajaja 🔝
+5/12/20 19:52 - Fran MASTER BD: En jupyter puedes meter markdown
+5/12/20 19:52 - Fran MASTER BD: Este mensaje fue eliminado
+5/12/20 19:53 - Fran MASTER BD: una manera muy sencilla de mostrar el gif es hacer una celda de markdown
+5/12/20 19:53 - Fran MASTER BD: y citar el gif como se incrusta una imagen en markdown
+5/12/20 19:53 - Fran MASTER BD: ![GIF](greco.gif)
+5/12/20 19:57 - Virginia Hernández MBD: que chulo!
+5/12/20 19:57 - Virginia Hernández MBD: no se me llega a desplegar pero ya me has ayudado un monton!
+5/12/20 19:57 - Virginia Hernández MBD: muchas gracias!
+5/12/20 19:58 - Fran MASTER BD: Nada!
+5/12/20 19:59 - +34 649 71 70 94: Lo probaré mañana
+5/12/20 19:59 - +34 649 71 70 94: Mil gracias!
+5/12/20 20:00 - Fran MASTER BD: Lo único de lo de markdown es que solo ves el gif cuando cargas el notebook 😂
+5/12/20 20:00 - Fran MASTER BD: Luego ya se te queda la última imagen
+5/12/20 20:00 - Fran MASTER BD: Así que hay que cargarlo  y rápidamente bajar abajo para verlo
+5/12/20 20:01 - Fran MASTER BD: Seguro que en html (que se puede meter en markdown) hay algo para que el gif se quede cíclico
+5/12/20 20:07 - Virginia Hernández MBD: pues hice una intentona con esta estructura
+5/12/20 20:07 - Virginia Hernández MBD: from IPython.display import HTML
+HTML('<img src="../giphy.gif">')
+5/12/20 20:07 - Virginia Hernández MBD: pero no funciono
+5/12/20 20:07 - Fran MASTER BD: Lo bueno de markdown es que puedes meter el html a pelo
+5/12/20 20:08 - Fran MASTER BD: entonces te creas una nueva celda de markdown y metes tal cual el codigo html
+5/12/20 20:09 - Virginia Hernández MBD: muychulo!
+5/12/20 20:09 - Fran MASTER BD: Hay un shortcut para crear markdown que es Esc -> m
+5/12/20 20:10 - Virginia Hernández MBD: no se, igual tengo que cerrar y volver a cargar pero se me crean asi
+5/12/20 20:10 - Virginia Hernández MBD: <Multimedia omitido>
+5/12/20 20:10 - Virginia Hernández MBD: 👌👌
+5/12/20 20:10 - Fran MASTER BD: está mal la ruta
+5/12/20 20:10 - Fran MASTER BD: no es ../
+5/12/20 20:10 - Virginia Hernández MBD: sin eso tampoco
+5/12/20 20:10 - Fran MASTER BD: o ./ o nada
+5/12/20 20:11 - Fran MASTER BD: yo lo he heco así
+5/12/20 20:11 - Virginia Hernández MBD: <img src="greco.gif">
+5/12/20 20:11 - Fran MASTER BD: Este mensaje fue eliminado
+5/12/20 20:12 - Fran MASTER BD: eso es
+5/12/20 20:12 - Virginia Hernández MBD: no quiere cargar
+5/12/20 20:12 - Virginia Hernández MBD: probare en un poco a cerrarlo y volver a correr todo
+5/12/20 20:13 - Fran MASTER BD: cuando aparece Image sin la imagen suele ser que la ruta está mal
+5/12/20 20:13 - Fran MASTER BD: Tal vez no se llama greco.gif
+5/12/20 20:14 - Virginia Hernández MBD: <Multimedia omitido>
+5/12/20 20:14 - Fran MASTER BD: jajajaja
+5/12/20 20:14 - Fran MASTER BD: misma carpeta?
+5/12/20 20:14 - Virginia Hernández MBD: 😅
+5/12/20 20:14 - Virginia Hernández MBD: sip
+5/12/20 20:14 - Fran MASTER BD: Magia
+5/12/20 20:15 - Virginia Hernández MBD: jajjaja
+5/12/20 20:15 - Virginia Hernández MBD: despues de un rato pasa a
+5/12/20 20:15 - Virginia Hernández MBD: <Multimedia omitido>
+5/12/20 20:15 - Virginia Hernández MBD: no sé
+5/12/20 20:15 - Virginia Hernández MBD: probaré a calcarlo luego
+5/12/20 20:15 - Virginia Hernández MBD: :)
+5/12/20 20:15 - Fran MASTER BD: y has probado creando celda de markdown?
+5/12/20 20:15 - Virginia Hernández MBD: cargarlo*
+5/12/20 20:15 - Virginia Hernández MBD: sip
+5/12/20 20:16 - Fran MASTER BD: 😅
+5/12/20 20:46 - +34 667 09 51 17: En el ejercicio 3 (el opcional) de la práctica de Python hay que hacer la parte de optimizar y numba o solo te lo explica?
+5/12/20 21:02 - Fran MASTER BD: Yo es que no la he hecho
+5/12/20 21:26 - Felipe Navarro: En teoria hay q hacerlo
+5/12/20 21:26 - Felipe Navarro: A mi no me converge
+5/12/20 21:26 - Felipe Navarro: Debo de haber puesto mal las constraints
+5/12/20 23:44 - +34 667 09 51 17: Creo que ya me sale
+5/12/20 23:45 - +34 667 09 51 17: Bueno. Optimiza y obtiene un valor objetivo parecido al suyo
+5/12/20 23:51 - +34 667 09 51 17: Y parece que el resultado que obtienes depende del valor inicial que uses
+6/12/20 11:17 - +34 622 31 06 63: <Multimedia omitido>
+10/12/20 11:05 - +34 667 09 51 17: Alguien ha conseguido hacer el opcional de la práctica de Spark?
+10/12/20 11:05 - Aitor MBD: Yo no, esq ademas esta mal explicado
+10/12/20 11:05 - +34 667 09 51 17: Es que a mí el código me está funcionando pero lleva 15 min y todavía no acaba
+10/12/20 11:06 - +34 667 09 51 17: Yo he hecho un poco de trampa.
+10/12/20 11:06 - +34 667 09 51 17: He encontrado esto:
+10/12/20 11:06 - +34 667 09 51 17: https://docs.azuredatabricks.net/_static/notebooks/gbt-regression.html
+10/12/20 11:07 - +34 667 09 51 17: Una guia hecha por los de databricks para entrenar un modelo de GBTRegression con cv en pyspark
+10/12/20 11:07 - +34 667 09 51 17: Basicamente, el ejercicio
+10/12/20 15:42 - +34 649 71 70 94: Yo todavía no he llegado al opcional...
+10/12/20 16:47 - +34 666 82 82 48: ni yo jajaja
+12/12/20 10:55 - +34 634 55 48 15: <Multimedia omitido>
+12/12/20 10:56 - +34 634 55 48 15: Os da ese error?
+12/12/20 10:56 - +34 634 55 48 15: Es de pca
+12/12/20 10:57 - +34 622 31 06 63: No
+12/12/20 10:58 - +34 649 71 70 94: Eso es que no tiene espacio para pintar la figura
+12/12/20 10:58 - +34 649 71 70 94: Mueve la barra y haz más grande la parte donde pinta la figura y te saldrá
+12/12/20 10:58 - +34 634 55 48 15: Gracias!!!
+12/12/20 11:00 - +34 649 71 70 94: Nada!
+12/12/20 11:21 - +33 7 82 01 28 61: Cuantos clusters habéis eligido para el examen 2019 (k-means) ?
+12/12/20 11:21 - +33 7 82 01 28 61: No entiendo muy bien cómo responder a la pregunta esa
+12/12/20 11:21 - +33 7 82 01 28 61: <Multimedia omitido>
+12/12/20 11:21 - +34 649 61 55 37: dijo que dependia, que tenia sentido 2, 3 y 4
+12/12/20 11:22 - +34 649 61 55 37: ah pense que decias en el del otro dia
+12/12/20 11:22 - +34 649 61 55 37: dijo que mientras fuera coherente y lo explicases
+12/12/20 11:22 - +34 649 61 55 37: porque pueden ser correctos varios grupos
+12/12/20 11:22 - +34 649 61 55 37: es que todavia no lo he hecho
+12/12/20 11:26 - +33 7 82 01 28 61: Vale gracias
+12/12/20 17:24 - +33 7 82 01 28 61: alguien sabe que es eso :
+12/12/20 17:24 - +33 7 82 01 28 61: o	Interpret the resulting probability histograms (of both models).
+12/12/20 17:24 - +33 7 82 01 28 61: en el exam 2019
+12/12/20 17:24 - +33 7 82 01 28 61: ejercicio 2
+12/12/20 17:27 - Aitor MBD: Yo no se
+12/12/20 17:42 - Aitor MBD: Lo unico q se me ocurre esq sean las curvas roc
+12/12/20 18:13 - Felipe Navarro: Son los histogramas de probabilidad
+12/12/20 18:14 - Felipe Navarro: De cada clase
+12/12/20 18:17 - +33 7 82 01 28 61: como se calculan estos histogramas ?
+12/12/20 18:37 - Felipe Navarro: <Multimedia omitido>
+12/12/20 18:38 - +33 7 82 01 28 61: Gracias Felipe
+12/12/20 18:40 - Felipe Navarro: 👍
+12/12/20 21:12 - +34 649 71 70 94: Alguno se acuerda de cuánto dijo que duraba el examen de tecnologías? Dos horas?
+12/12/20 21:14 - Felipe Navarro: Dos horas si
+12/12/20 21:20 - +34 649 71 70 94: Gracias!
+13/12/20 12:03 - +34 634 55 48 15: <Multimedia omitido>
+13/12/20 12:03 - +34 634 55 48 15: Si fueran distintas de cero
+13/12/20 12:13 - +34 666 82 82 48: según sus ejercicos sólo lo pone en transfer la lista con todas las r y s
+13/12/20 12:13 - +34 666 82 82 48: parece ser que la b es cte
+13/12/20 12:13 - +34 666 82 82 48: para todas
+13/12/20 12:13 - +34 666 82 82 48: pero no se
+13/12/20 12:16 - +34 634 55 48 15: Justo en ese ejercicio todas las b son cero y en xtransf pone directamente x.tr (yo lo he cambiado para probar en caso de q las b no fueran cero)
+13/12/20 12:16 - +34 634 55 48 15: Bueno esa era mi intención pero no se como especificar en el xlag el valor de las b
+13/12/20 12:18 - +34 666 82 82 48: yo lo haría más como lista
+13/12/20 12:19 - +34 666 82 82 48: en plan Lag(x, list(c(0),c(1), c(0)))
+13/12/20 12:19 - +34 666 82 82 48: pero no lo se
+13/12/20 12:19 - +34 666 82 82 48: lo siento
+13/12/20 12:20 - +34 634 55 48 15: Probaré con eso gracias!
+13/12/20 20:51 - Fran MASTER BD: Alguien ha intentado lanzar jobs de sqoop?
+13/12/20 20:51 - Fran MASTER BD: Me parece que la base de datos MySql ha fallecido
+13/12/20 20:52 - Fran MASTER BD: Voy a mandarlo por el gordo
+13/12/20 20:54 - +34 649 71 70 94: Lleva así desde esta mañana
+13/12/20 20:54 - Fran MASTER BD: Okay, gracias María
+13/12/20 21:12 - +34 649 71 70 94: Es que me ha pasado lo mismo esta mañana intentando hacer sqoop imports
+13/12/20 21:12 - +34 649 71 70 94: Pero el lunes funcionaba porque yo si me pude conectar a MySQL
+13/12/20 21:21 - Fran MASTER BD: Tal vez es cosa del fin de semana entonces
+13/12/20 21:28 - +34 649 71 70 94: Podría ser aunque me parece raro...
+13/12/20 21:28 - +34 649 71 70 94: Yo me lo he tomado como una cosa más de esta asignatura que de repente no funciona 😂
+13/12/20 22:19 - Fran MASTER BD: Jajajaja
+15/12/20 13:41 - +34 649 71 70 94: Por si no lo sabíais, ya funciona MySQL
+15/12/20 14:43 - Fran MASTER BD: Gracias!
+16/12/20 9:04 - Aitor MBD: Sabeis como hacer el ejercicio flume_twitter parte 2?
+16/12/20 9:04 - Aitor MBD: Esq no lo consigo
+16/12/20 9:12 - Felipe Navarro: Que es lo q no te va?
+16/12/20 9:13 - Aitor MBD: La parte 1 si me sale, y se copian bien los datos en hdfs
+16/12/20 9:14 - Aitor MBD: Luego la parte 2 que tengo q copiar el
+Create de la tambla que hay se me crea bienn
+16/12/20 9:14 - Aitor MBD: Pero cuando ejecuto el add jar y el msck
+16/12/20 9:14 - Aitor MBD: A tabla no se rellena
+16/12/20 9:14 - Felipe Navarro: Desde dond ejecutas el add jar?
+16/12/20 9:14 - Felipe Navarro: Hue o el cli de hive?
+16/12/20 9:14 - Aitor MBD: Lo he probado desde hue y desde el
+Edge
+16/12/20 9:15 - Felipe Navarro: Se te han creado bien las particiones en hdfs?
+16/12/20 9:15 - Felipe Navarro: Por fecha
+16/12/20 9:15 - Aitor MBD: Sii
+16/12/20 9:16 - Felipe Navarro: set hive.msck.path.validation=ignore
+16/12/20 9:16 - Felipe Navarro: Y prueba otra vez
+16/12/20 9:17 - +34 646 50 05 96: Que máquina Felipe!
+16/12/20 9:17 - Felipe Navarro: Y yo lo haria desde consola
+16/12/20 9:25 - Aitor MBD: Nada, no se copia
+16/12/20 9:26 - Aitor MBD: <Multimedia omitido>
+16/12/20 9:26 - Aitor MBD: <Multimedia omitido>
+16/12/20 9:28 - Felipe Navarro: El set va separado
+16/12/20 9:28 - Felipe Navarro: No con un punto
+16/12/20 9:28 - Aitor MBD: Sisi
+16/12/20 9:28 - Aitor MBD: En la segunda foto esta bien hecho
+16/12/20 9:28 - Felipe Navarro: Y no t lo ha copiado tampoco no?
+16/12/20 9:29 - Aitor MBD: Noo
+16/12/20 9:29 - Aitor MBD: Puede ser el partittioned by en el creare de la tabla?
+16/12/20 9:29 - Aitor MBD: Q tiene 2 comillar raras ahora q me fijo
+16/12/20 9:30 - Felipe Navarro: Eso t iba a decir
+16/12/20 9:30 - Felipe Navarro: Porque no te esta pillando bien las particiones
+16/12/20 9:33 - Aitor MBD: <Multimedia omitido>
+16/12/20 9:33 - Aitor MBD: Esq las tengo asi
+16/12/20 9:44 - Aitor MBD: Ahora me dice que las particiones no estan en el metastore
+16/12/20 9:53 - Aitor MBD: Hostia vale
+16/12/20 9:53 - Aitor MBD: Ya esta
+16/12/20 9:53 - Aitor MBD: <Multimedia omitido>
+16/12/20 9:53 - Felipe Navarro: Que era?
+16/12/20 9:53 - Aitor MBD: Por alguna razon q desconozco
+16/12/20 9:54 - Aitor MBD: Pilla el fichero si pone date=
+16/12/20 9:54 - Felipe Navarro: si, asi es cmo sabe q eso es la particion
+16/12/20 9:55 - Aitor MBD: Ahh valee
+16/12/20 9:55 - Aitor MBD: Graciass tioo
+16/12/20 9:55 - Felipe Navarro: Igual q en la practica d kafka q habia q poner zone=
+16/12/20 9:55 - Felipe Navarro: Nada, si al final lo has resuelto tu
+16/12/20 9:55 - Felipe Navarro: Jajaja
+16/12/20 22:02 - +34 622 31 06 63: <Multimedia omitido>
+16/12/20 22:03 - Aitor MBD: Eso esq lo tienes q escribir en hive
+16/12/20 22:03 - +34 649 61 55 37: supongo que tu lista de tablas
+16/12/20 22:03 - +34 649 61 55 37: en ru usurio de hue
+16/12/20 22:04 - Aitor MBD: En uno de los notebooks te dice como hacerlo
+16/12/20 22:04 - +34 622 31 06 63: <Multimedia omitido>
+16/12/20 22:04 - +34 622 31 06 63: Que aparezca en esa lista
+16/12/20 22:04 - +34 622 31 06 63: Okey, gracias!
+16/12/20 22:05 - Aitor MBD: Sii, pero hay una opcion q es overwrite
+16/12/20 22:10 - +34 622 31 06 63: Yes, ya la he visto graciaas
+17/12/20 10:39 - Virginia Hernández MBD: Una pregunta, alguien tomó nota de la parte de jorge de donde se procesan las cosas, en plan worker o memoria de spark, jvm, y que pasaba cuando había que traducir el lenguaje?
+17/12/20 11:06 - +34 622 31 06 63: Yo no, sorry
+20/12/20 18:09 - +34 622 31 06 63: El argumento headless de selenium qué hacía exactamente?
+20/12/20 18:09 - +34 649 61 55 37: hace que no te salga el chrome
+20/12/20 18:09 - +34 649 61 55 37: sino lo pones se te abre el chrome y va haciendo todo lo que le digas
+20/12/20 18:10 - +34 649 61 55 37: osea si no lo pones
+20/12/20 18:10 - +34 667 09 51 17: Si no le pones headless selenium abre una ventana con el Chrome en la que puedes ver qué va haciendo. Con headless lo hace sin que tú lo veas
+20/12/20 18:10 - +34 622 31 06 63: Okeyy, gracias
+20/12/20 18:11 - +34 622 31 06 63: Y en la p12 para que no redirigiera a la página de inicio qué había que hacer?
+20/12/20 18:12 - +34 622 31 06 63: Para la parte del scraper
+20/12/20 18:12 - +34 649 61 55 37: eso no entiendo
+20/12/20 18:12 - +34 649 61 55 37: te redirige a la de inicio?
+20/12/20 18:13 - +34 649 61 55 37: a mi no me redirige nunca a la de inicio
+20/12/20 18:13 - +34 649 61 55 37: cuando llego a la parte de las ofertas, extraigo ahi los datos
+20/12/20 18:15 - +34 649 61 55 37: a lo mejor no he llegado todavia a eso...
+20/12/20 18:17 - +34 622 31 06 63: <Multimedia omitido>
+20/12/20 18:17 - +34 622 31 06 63: Y me suena que en clase dijo algo de cookies, pero no me acuerdo exactamente
+20/12/20 18:35 - Felipe Navarro: No hay cookies, hay q mirar una peticion x ahi
+20/12/20 18:46 - +34 649 61 55 37: mirad q version de la practica teneis, que la cambio
+20/12/20 18:47 - +34 649 61 55 37: yo tenia una version que pedia menos cosas
+20/12/20 18:47 - +34 649 61 55 37: y la de la web pedia mas cosas
+20/12/20 18:47 - +34 649 61 55 37: porque en la nueva te pide extraer tb la informacion de aqui
+20/12/20 18:48 - +34 649 61 55 37: ¿ sabeis extraer si el icono es verde o no ?
+20/12/20 18:48 - +34 649 61 55 37: porque no he sabido...
+20/12/20 18:49 - +34 622 31 06 63: yo lo puse así
+20/12/20 18:49 - +34 622 31 06 63: clase = row.find_elements_by_tag_name("td")[7].find_element_by_tag_name("i").get_attribute("class")
+    if(clase=="v-icon notranslate mdi mdi-tree theme--light green--text"):
+        verde = "Sí"
+    else:
+        verde = "No"
+20/12/20 18:51 - +34 649 61 55 37: el 7 de donde viene?
+20/12/20 18:51 - +34 649 61 55 37: ah nada es el 7 en todos los casos
+20/12/20 18:51 - +34 649 61 55 37: gracias !!!
+20/12/20 18:55 - +34 622 31 06 63: 😊
+20/12/20 22:07 - Aitor MBD: Es a las 15:00 el examen no?
+20/12/20 22:11 - Virginia Hernández MBD: Creo que si
+20/12/20 22:12 - +34 666 82 82 48: si
+20/12/20 22:51 - +34 634 55 48 15: Sabeis cuanto dura?
+20/12/20 22:51 - +34 634 55 48 15: Osea dos horas no no?
+20/12/20 22:51 - +34 634 55 48 15: No da pa tanto la cosa jaja
+20/12/20 22:52 - Virginia Hernández MBD: 😂
+20/12/20 22:52 - Virginia Hernández MBD: Yo creia que si
+20/12/20 22:53 - +34 649 61 55 37: Jajajajajaja
+20/12/20 22:54 - +34 634 55 48 15: Esq dijo q iba a ser muy chorra pq le obligan a ponerlo desde dirección por eso decía
+20/12/20 22:55 - +34 634 55 48 15: Pero vamos que como sea 'el facilito' de patricia vamos jodidos
+20/12/20 22:55 - Aitor MBD: Nana, no jodas
+20/12/20 22:56 - +34 649 71 70 94: No, por favor 😱😭
+20/12/20 22:57 - +34 649 71 70 94: Dijo que se hacía en 20 minutos
+20/12/20 22:57 - +34 666 82 82 48: jajajajaja
+20/12/20 22:57 - +34 666 82 82 48: seguro que no
+20/12/20 22:57 - +34 666 82 82 48: yo también pensaba que eran dos horas
+20/12/20 22:57 - +34 666 82 82 48: pero ni idea
+20/12/20 22:58 - +34 634 55 48 15: Esto es lo q quería oir👌🏻
+20/12/20 22:58 - +34 649 71 70 94: Me alegro jajaja
+20/12/20 22:58 - +34 649 71 70 94: Ahora sólo tiene que cumplirlo...
+20/12/20 23:02 - +34 646 50 05 96: Jajajjajja tal cual
+23/12/20 12:47 - Fran MASTER BD: Estoy revisando las prácticas de adquisición
+23/12/20 12:47 - Fran MASTER BD: En la 7
+23/12/20 12:47 - Fran MASTER BD: La página de wikipedia de la universidad ha cambiado
+23/12/20 12:47 - Fran MASTER BD: Ya está incluido el motto in english con su propio título
+23/12/20 12:47 - Virginia Hernández MBD: 😂
+23/12/20 12:47 - Virginia Hernández MBD: mira si el que lo ha cambiado es del master
+23/12/20 12:48 - Fran MASTER BD: Jajajaja
+23/12/20 12:48 - Virginia Hernández MBD: para hacerlo mas facil
+23/12/20 12:48 - Fran MASTER BD: No me sorprendería nada 😄
+23/12/20 12:48 - Fran MASTER BD: Aviso por si os da error alguna cosa, que a lo mejor es eso
+23/12/20 12:49 - +34 666 82 82 48: gracias por el aviso fran!
+23/12/20 12:49 - Fran MASTER BD: Los colores también han cambiado 😂
+23/12/20 12:49 - Virginia Hernández MBD: 👌 gracias!
+23/12/20 12:49 - Fran MASTER BD: Pero para peor
+23/12/20 12:49 - Fran MASTER BD: <Multimedia omitido>
+23/12/20 12:50 - Felipe Navarro: Buah yo ya no cambio nada
+23/12/20 12:50 - Felipe Navarro: Asi se queda 🤣
+23/12/20 12:50 - Virginia Hernández MBD: yo tampoco jaja
+23/12/20 12:50 - +34 666 82 82 48: jajaja
+23/12/20 12:50 - +34 666 82 82 48: ya da toda la pereza en verdad
+23/12/20 12:50 - +34 666 82 82 48: pero bueno
+23/12/20 12:50 - Virginia Hernández MBD: puede cambiar indefinidamente....
+23/12/20 12:51 - +34 666 82 82 48: en la práctica de aemet, cogisteis los valores para 2019 o para 2020?
+23/12/20 12:51 - +34 666 82 82 48: de la estación de ciudad universitaria
+23/12/20 12:51 - Aitor MBD: Ni yoo, que la mandé ya
+23/12/20 12:53 - Fran MASTER BD: He cambiado lo de los colores 😂
+23/12/20 12:53 - Fran MASTER BD: ... en Wikipedia
+23/12/20 12:53 - Fran MASTER BD: <Multimedia omitido>
+23/12/20 12:53 - Fran MASTER BD: Unnecessary
+23/12/20 12:54 - Virginia Hernández MBD: JAJAJAJAJAJJA
+23/12/20 12:55 - Fran MASTER BD: Ya va el código 😂
+23/12/20 12:55 - Fran MASTER BD: A ver cuánto dura
+23/12/20 13:00 - Felipe Navarro: Grande Fran 🤣
+23/12/20 13:01 - +34 626 34 96 30: JAJAJAJAJAJJAJAAJJAA
+23/12/20 13:03 - +34 622 31 06 63: 😂😂 muy fan del summary
+23/12/20 13:03 - +34 634 55 48 15: Da gusto asi😂😂😂
+28/12/20 9:43 - +34 666 82 82 48: Hola una pregunta
+28/12/20 9:44 - +34 666 82 82 48: de las practicas 7b, 7c y 8 como son todas en realidad una sola
+28/12/20 9:44 - +34 666 82 82 48: habéis subido el código por separado?
+28/12/20 9:44 - +34 666 82 82 48: o el código completo en las tres?
+28/12/20 9:48 - +34 622 31 06 63: Yo aún no lo he subido, pero tenía pensado por separado
+28/12/20 10:16 - Felipe Navarro: Yo lo subi todo junto
+28/12/20 10:23 - +34 666 82 82 48: en las tres el código junto no?
+28/12/20 10:24 - +34 666 82 82 48: gracias a los dos!
+28/12/20 10:35 - Felipe Navarro: Si
+29/12/20 17:31 - +34 622 31 06 63: Alguien ha hecho la práctica de pyspark? La parte de ml?
+29/12/20 20:27 - Fran MASTER BD: Es muy parecida (y la parte extra es idéntica) a esto
+29/12/20 20:40 - +34 622 31 06 63: Okey, gracias
+30/12/20 9:27 - Virginia Hernández MBD: Anda! Que pena no haberlo leído antes 😬
+30/12/20 10:38 - +34 622 31 06 63: Y que rmse habéis conseguido?
+30/12/20 10:41 - Fran MASTER BD: 23 me suena
+30/12/20 10:45 - +34 622 31 06 63: Okey👌🏻
+30/12/20 10:59 - +34 622 31 06 63: 23 con el gbt o con el arbol de decisión?
+30/12/20 11:00 - +34 622 31 06 63: Esq me sale fatal para el árbol..
+30/12/20 11:00 - +34 622 31 06 63: y no sé si estoy haciendo algo mal o que pasa
+30/12/20 11:20 - Fran MASTER BD: Me sonaba que era 23, no lo puedo mirar ahira
+30/12/20 11:21 - Fran MASTER BD: Pero tiene que salir bastante chungo de todas maneras, al fin y al cabo estás tratando de predecir algo muy complejo
+30/12/20 11:21 - Fran MASTER BD: Esa es mi interpretación
+30/12/20 11:23 - Aitor MBD: A mi esq me salen unos errores muy tochos
+5/1/21 10:44 - +34 666 82 82 48: a todos os sale el rmse a 23?
+5/1/21 10:44 - +34 666 82 82 48: feliz año lo primero jaja
+5/1/21 12:00 - +34 622 31 06 63: Feliz año!
+5/1/21 12:01 - +34 622 31 06 63: A mi no, me salía peor
+5/1/21 12:01 - +34 622 31 06 63: Habré hecho algo mal
+5/1/21 12:01 - Aitor MBD: Yo igual
+5/1/21 12:01 - +34 666 82 82 48: a mi es que me sale en torno a 200 y pico
+5/1/21 12:01 - +34 666 82 82 48: por eso decia
+5/1/21 12:01 - +34 649 61 55 37: A mi peor...
+5/1/21 12:01 - +34 666 82 82 48: jajaj
+5/1/21 12:01 - Aitor MBD: A mi peor jajaja
+5/1/21 12:02 - +34 666 82 82 48: jolin
+5/1/21 12:02 - +34 666 82 82 48: pues estamos apañados jaja
+5/1/21 12:04 - Fran MASTER BD: <Multimedia omitido>
+5/1/21 12:05 - Fran MASTER BD: 23 me sonaba y 23 sale
+5/1/21 12:05 - Fran MASTER BD: A lo mejor lo tengo yo mal 😂
+5/1/21 12:05 - Fran MASTER BD: Pero lo tengo todo bastante revisado
+5/1/21 12:05 - Fran MASTER BD: <Multimedia omitido>
+5/1/21 12:06 - Fran MASTER BD: <Multimedia omitido>
+5/1/21 12:08 - Fran MASTER BD: Y no incluyo minutos en las features 😂
+5/1/21 12:08 - Fran MASTER BD: Osea que bien
+5/1/21 12:08 - +34 649 71 70 94: Y qué es xtrain para ti?
+5/1/21 12:09 - +34 649 71 70 94: Porque yo he dividido el df normal (sin la columna id_contneido) en 80% y 20%
+5/1/21 12:09 - +34 666 82 82 48: pero no has hecho el pipeline
+5/1/21 12:10 - +34 666 82 82 48: yo hago pipelineModel = pipeline.fit(train)
+5/1/21 12:10 - +34 649 71 70 94: Creo que ha hecho su xtrain ya lleva el pipeline aplicado menos el modelo, no?
+5/1/21 12:10 - Fran MASTER BD: Eso es
+5/1/21 12:10 - Fran MASTER BD: Xtrain ya es todo preparadico
+5/1/21 12:10 - Fran MASTER BD: Para aplicar el modelo
+5/1/21 12:11 - Fran MASTER BD: Con dos columnas, variable respuesta y features
+5/1/21 12:11 - Fran MASTER BD: Para crear las features he tenido que aplicar el pipeline
+5/1/21 12:12 - +34 649 71 70 94: Y cómo llegas a eso? Porque juraría que si aplico el pipeline al df lo has me sale de eso no es lo mismo que a ti
+5/1/21 12:12 - Fran MASTER BD: Este hombre es capaz de ver si hemos copiado
+5/1/21 12:12 - Fran MASTER BD: Os paso la captura
+5/1/21 12:13 - Fran MASTER BD: Peeero no lo compartáis ni lo copiéis, porfa
+5/1/21 12:13 - Fran MASTER BD: <Multimedia omitido>
+5/1/21 12:14 - +34 666 82 82 48: si, lo dijo claramente
+5/1/21 12:14 - +34 666 82 82 48: que lo iba. amimrar
+5/1/21 12:14 - +34 666 82 82 48: mirar*
+5/1/21 12:15 - +34 649 71 70 94: Jolin, la parte del indexer y eso ella tengo igual pero no hice un select de las dos columnas que has hecho tú
+5/1/21 12:15 - +34 649 71 70 94: Por eso me sale diferente
+5/1/21 12:15 - +34 622 31 06 63: Por qué haces fit en el string indexer fran?
+5/1/21 12:16 - Fran MASTER BD: Básicamente porque vi que esa era la manera en la que funcionaba
+5/1/21 12:16 - Fran MASTER BD: Te creas tu indexador y lo aplicas
+5/1/21 12:16 - Fran MASTER BD: Pero ahora que lo dices si luego hago fit sobre el pipeline parece redundante
+5/1/21 12:17 - +34 622 31 06 63: Justo
+5/1/21 12:17 - +34 622 31 06 63: Pero a mi no me funciona y a ti si
+5/1/21 12:17 - Fran MASTER BD: Jajajajaja
+5/1/21 12:17 - Fran MASTER BD: En efecto, si funciona...
+5/1/21 12:18 - Fran MASTER BD: Voy a quitarlo y ejecutar todo
+5/1/21 12:18 - Fran MASTER BD: A ver que pasa
+5/1/21 12:20 - +34 622 31 06 63: Gracias fran!!
+5/1/21 12:36 - Fran MASTER BD: Mismo resultado
+5/1/21 12:36 - Fran MASTER BD: (Pero gracias por la simplificación 😄
+5/1/21 12:37 - Fran MASTER BD: Habéis quitado los de menos de un minuto no?
+5/1/21 12:39 - +34 622 31 06 63: Okeey
+5/1/21 12:39 - +34 622 31 06 63: Si
+5/1/21 17:33 - Fran MASTER BD: Ángel y yo hemos revisado código. Para tranquilidad de todos, el resultado obtenido tras arreglar un despiste es ~650.
+5/1/21 17:35 - Fran MASTER BD: Espero que no haya dupuesto demasiado tiempo 😕
+5/1/21 17:35 - Fran MASTER BD: *supuesto
+5/1/21 17:41 - Fran MASTER BD: Lo siento de veras
+5/1/21 21:35 - +34 666 82 82 48: no pasa nada!!
+5/1/21 21:36 - +34 666 82 82 48: gracias por la ayuda!
+6/1/21 18:35 - +34 649 71 70 94: No te preocupes. Encima que solo pretendías ayudar
+6/1/21 18:35 - +34 649 71 70 94: Me quedo más tranquila sabiendo que más o menos nos da un error súper alto a todos
+6/1/21 18:59 - Fran MASTER BD: Gracias 🙂
+6/1/21 19:00 - +34 649 71 70 94: Nada! Siento haber respondido tan tarde, los reyes tuvieron ayer un recado de última hora 😂
+6/1/21 19:00 - Fran MASTER BD: Jajajajajaja
+8/1/21 9:27 - +34 622 31 06 63: Oye, pone esto en la entrega de spark
+8/1/21 9:28 - +34 622 31 06 63: <Multimedia omitido>
+8/1/21 9:28 - +34 622 31 06 63: Con subir el notebook vale, no?
+8/1/21 9:28 - Aitor MBD: Yo he subido soloel notebook
+8/1/21 9:29 - +34 626 34 96 30: Habrá que poner al final lo de la otra vez
+8/1/21 9:29 - +34 626 34 96 30: Y subir el notebook
+8/1/21 9:30 - +34 622 31 06 63: Ni idea, entiendo que eso lo hace él, por eso os pregunto
+8/1/21 10:01 - +34 666 82 82 48: yo creo que sólo hay que subir el notebook y eso lo hace el
+8/1/21 10:42 - +34 649 71 70 94: Yo entiendo que hay que subir un notebook que él convierte a .py
+8/1/21 10:43 - +34 622 31 06 63: Okey
+8/1/21 10:43 - +34 622 31 06 63: Gracias!
