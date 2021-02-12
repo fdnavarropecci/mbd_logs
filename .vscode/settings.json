@@ -1,3 +1,4 @@
 {
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\fdnav\\anaconda3\\envs\\adquisicion\\python.exe"
 }

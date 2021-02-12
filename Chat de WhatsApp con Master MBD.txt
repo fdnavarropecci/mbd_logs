@@ -1,0 +1,2030 @@
+17/9/20 12:01 - Los mensajes y las llamadas están cifrados de extremo a extremo. Nadie fuera de este chat, ni siquiera WhatsApp, puede leerlos ni escucharlos. Toca para obtener más información.
+7/9/20 12:00 - ‎+34 655 54 65 74 creó el grupo "Master BD📈"
+17/9/20 12:01 - ‎+34 655 54 65 74 te añadió
+17/9/20 19:35 - Vicky MBD: podeis pasar el link de la clase ?
+17/9/20 19:35 - Vicky MBD: por fa
+17/9/20 19:41 - Álvaro Otaduy MBD: https://teams.microsoft.com/dl/launcher/launcher.html?type=meetup-join&deeplinkId=97724169-6de2-4f46-9f67-9bb32ee8724f&directDl=true&msLaunch=true&enableMobilePage=true&url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MjViMjRmZjctZTk1Zi00MjMzLWJmMDYtNmNjNjdiNzQyYTJj@thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522bcd2701c-aa9b-4d12-ba20-f3e3b83070c1%2522%252c%2522Oid%2522%253a%252245ae9cf8-7459-493a-97da-a64f1f1b34d8%2522%257d%26anon%3Dtrue&suppressPrompt=true
+17/9/20 20:15 - Alejandro Polo MBD: http://collabedit.com/x74yf
+18/9/20 11:16 - Maria Javierre: Podéis meter en el grupo a esta chica? Gracias!
+18/9/20 11:16 - Maria Javierre: ‎Virginia Hernández MBD.vcf (archivo adjunto)
+18/9/20 11:17 - ‎+34 655 54 65 74 añadió a Virginia Hernández MBD
+19/9/20 17:27 - ‎+34 655 54 65 74 añadió a Raúl Gómez Mbd
+19/9/20 17:29 - ‎+34 655 54 65 74 añadió a +34 606 97 74 31
+20/9/20 1:41 - ‎+34 655 54 65 74 añadió a Joege Gómez Berenguer
+20/9/20 1:41 - ‎+34 655 54 65 74 eliminó a +34 606 97 74 31
+20/9/20 13:50 - Vicky MBD: Los que tenéis mac
+20/9/20 13:50 - Vicky MBD: Os funciona el eclipse ?
+20/9/20 13:51 - Vicky MBD: Y otra cosa
+20/9/20 13:51 - Vicky MBD: Para descargaros la versión antigua de jedit que va con java 8
+20/9/20 13:51 - Vicky MBD: Donde lo habéis hecho ?
+20/9/20 13:51 - Álvaro Otaduy MBD: Siii
+20/9/20 13:51 - Vicky MBD: Porque en la página oficial solo deja descargar la última versión
+20/9/20 13:51 - Andrés Jiménez: A mi si me funciona pero yo tengo otro eclipse creo
+20/9/20 13:51 - Álvaro Otaduy MBD: Al principio me daba error y era porque tenia varias versiones de java instaladas
+20/9/20 13:52 - Vicky MBD: Y como se mira y se borra eso ?
+20/9/20 13:52 - Álvaro Otaduy MBD: Entonces borre todas menos la 1.8.0
+20/9/20 13:53 - Andrés Jiménez: Pero ej jedit era con Java 8 o 14?
+20/9/20 13:53 - Fran MASTER BD: Todo con Java 8
+20/9/20 14:44 - Andrés Jiménez: Para los que tengan Mac y les esté dando algún problema con Java y demás . Pueden tener versiones distintas del JDE de Java sin problema .
+20/9/20 14:44 - Andrés Jiménez: La versión del Jedit si tiene que ser las 5.5 porque por defecto te coge java8
+20/9/20 14:45 - Andrés Jiménez: Y en eclipse normalmente te permite elegir qué versión quieres usar ,si tienes varias eliges la 8 y no debería de dar problema
+20/9/20 14:46 - Andrés Jiménez: Y con este comando :
+/usr/libexec/java_home -V
+
+Deberían poder ver la distintas máquinas virtuales de Java que tienen
+20/9/20 15:03 - Lucia Poblador: Tienes el link para descargar jedit 5.5? Porque solo encuentro 5.6
+20/9/20 15:05 - Andrés Jiménez: Si entras en el que ella da en los apuntes ,verás que te aparece Justo debajo del 5.6 el 5.5.0.dmg
+20/9/20 15:06 - Andrés Jiménez: <Multimedia omitido>
+20/9/20 15:06 - Lucia Poblador: Cierto, lo acabo de ver
+20/9/20 15:06 - Lucia Poblador: Gracias!
+20/9/20 15:06 - Andrés Jiménez: Nada !
+20/9/20 15:11 - Andrés Jiménez: De todos modos patricia dijo que nos iba a dar algo de código para ejecutar y comprobar que todo iba bien pero al final no ha enviado nada
+20/9/20 17:56 - Vicky MBD: Gracias 😍
+20/9/20 18:56 - Vicky MBD: Alguien puede pasar el link de donde descargar la version de java ?
+20/9/20 19:36 - Lidia Sanz: no tengo el link, te puedo pasar el archivo .dmg pero por whatsapp no se puede
+20/9/20 19:36 - Vicky MBD: ya no lo necesito !!!
+20/9/20 19:36 - Vicky MBD: pero muchas gracias 😍
+21/9/20 10:39 - Vicky MBD: Os deja conectaros al edge desde vuestra casa ?
+21/9/20 10:42 - Vicky MBD: usando lo que envió david contreras digo
+21/9/20 10:42 - +34 655 54 65 74: A mi noo
+21/9/20 10:50 - Andrés Jiménez: Con un shh ?
+21/9/20 10:51 - Fran MASTER BD: No están disponibles los servidores
+21/9/20 10:51 - Fran MASTER BD: No funciona
+21/9/20 10:58 - Andrés Jiménez: Yo imagino que no tienen reglas de firewall que acepten petición desde el exterior de la red
+21/9/20 10:59 - Raúl Gómez Mbd: Pero mandó un enlace para evitar eso
+21/9/20 10:59 - Raúl Gómez Mbd: Pero a mí no me funciona
+21/9/20 11:00 - Andrés Jiménez: Mandó dos enlaces pero uno de ellos no sé muy bien que es porque entro y tiene como un montón de servicios distintos
+21/9/20 11:02 - Virginia Hernández MBD: Saben que no funciona y lo están mirando :)
+21/9/20 21:16 - ‎+34 655 54 65 74 añadió a +34 685 83 18 30
+22/9/20 10:16 - ‎+34 686 93 34 41 se unió usando el enlace de invitación de este grupo
+22/9/20 10:35 - Felipe D Navarro: A mi ya me funciona la conexion al edge desde casa
+22/9/20 10:49 - Virginia Hernández MBD: 👌👌gracias por avisar! a mí también
+22/9/20 11:38 - Ángel MBD: De todas formas el mysql no podemos usarlo desde casa, no? Solo tenemls acceso al edge por el terminal del servidor
+22/9/20 11:38 - Fran MASTER BD: Por línea de comandos se puede
+22/9/20 11:39 - Fran MASTER BD: Desde el edge
+22/9/20 11:40 - Guillermo Valle MBD: Si te conectas a un ordenador de las aulas informáticas se puede
+22/9/20 11:40 - Guillermo Valle MBD: Y así ya utilizas workbench
+22/9/20 11:40 - Guillermo Valle MBD: <Multimedia omitido>
+22/9/20 11:40 - Ángel MBD: Vale, gracias
+22/9/20 11:40 - Guillermo Valle MBD: Cualquier ordenador te vale
+22/9/20 11:46 - ‎+34 660 57 95 94 se unió usando el enlace de invitación de este grupo
+22/9/20 11:53 - Ángel MBD: <Multimedia omitido>
+22/9/20 11:58 - +34 655 54 65 74: Este mensaje fue eliminado
+22/9/20 11:59 - +34 655 54 65 74: Este mensaje fue eliminado
+22/9/20 13:05 - +34 686 93 34 41: Una pregunta como os conectais al edge desde casa, con VPN on algun servidor
+22/9/20 13:05 - +34 686 93 34 41: ??
+22/9/20 13:07 - Raúl Gómez Mbd: Hola a todos,
+
+Este año, en lugar de trabajar con una VPN, accederéis al cluster mediante unos servidores:
+
+Servicios HTTP varios: https://acceso.comillas.edu
+SSH al EDGE: https://aulasvirtuales.comillas.edu
+
+Un saludo,
+
+David
+22/9/20 13:07 - Raúl Gómez Mbd: Con el segundo enlace
+22/9/20 13:07 - Raúl Gómez Mbd: Es de un correo de David Contreras
+22/9/20 13:08 - +34 686 93 34 41: Gracias 🙏 es que no lo teniamos los de teleco
+22/9/20 13:08 - +34 685 83 18 30: las credenciales son las del cluster o el correo de la uni?
+22/9/20 13:08 - Raúl Gómez Mbd: Nadaaa
+22/9/20 13:08 - Raúl Gómez Mbd: La del correo
+22/9/20 13:09 - Raúl Gómez Mbd: Sin el @
+22/9/20 13:09 - Raúl Gómez Mbd: Sólo los números
+22/9/20 13:10 - +34 685 83 18 30: Vale mil gracias!!
+22/9/20 13:28 - ‎+34 652 56 91 66 se unió usando el enlace de invitación de este grupo
+22/9/20 14:35 - Lidia Sanz: a mi también me sale eso, pudiste solucionarlo?
+22/9/20 14:37 - Alejandro Polo MBD: A mi no me funcionaba con safari pero lo he abierto con chrome y ya si me ha funcionado
+22/9/20 14:40 - Lidia Sanz: yo estoy con el chrome
+22/9/20 14:49 - Ángel MBD: No, le he mandado un correo
+22/9/20 14:49 - Ángel MBD: Yo tambn estaba con chrome
+22/9/20 15:41 - Lidia Sanz: ok, cuando te conteste dime que te ha dicho porfa
+22/9/20 15:48 - Ángel MBD: Okey
+22/9/20 17:13 - Fran MASTER BD: Link al Cloudera Manager:
+22/9/20 17:13 - Fran MASTER BD: http://manager01.bigdata.alumnos.upcont.es:7180/cmf/login
+22/9/20 17:22 - Fran MASTER BD: No me acuerdo de las credenciales
+22/9/20 17:23 - Vicky MBD: user
+22/9/20 17:23 - Vicky MBD: user
+22/9/20 17:23 - Vicky MBD: creo
+22/9/20 17:31 - Lidia Sanz: user:user
+contraseña:mbd
+22/9/20 17:36 - Fran MASTER BD: Thanks!
+22/9/20 17:41 - ‎+34 649 24 02 34 se unió usando el enlace de invitación de este grupo
+22/9/20 17:41 - ‎Miguel MBD se unió usando el enlace de invitación de este grupo
+22/9/20 18:10 - Monu MbD: Este mensaje fue eliminado
+22/9/20 17:41 - ‎+34 619 02 27 61 se unió usando el enlace de invitación de este grupo
+22/9/20 17:46 - ‎+34 620 05 96 92 se unió usando el enlace de invitación de este grupo
+22/9/20 17:46 - ‎+34 659 01 22 44 se unió usando el enlace de invitación de este grupo
+22/9/20 18:12 - Ángel MBD: Para lo del escritorio remoto
+22/9/20 18:13 - Ángel MBD: No me ha respondido David pero me ha funcionando si entro al servidor con número de usuario (sin el @alu.comillas.edu)
+22/9/20 18:19 - Lidia Sanz: vale voy a probar
+22/9/20 18:50 - Lidia Sanz: gracias!!
+23/9/20 11:39 - Andrés Jiménez: Alguien recuerda cuál es el ejercicio que Dijo el de fundamentos que había que intentar hacer ?
+23/9/20 11:40 - Lucia Poblador: diapo 31 del pdf de la sesión 4
+23/9/20 11:40 - Lucia Poblador: de la presentación, mejor dicho
+23/9/20 11:42 - Andrés Jiménez: Gracias !!
+23/9/20 14:15 - ‎+34 669 04 51 03 se unió usando el enlace de invitación de este grupo
+23/9/20 16:46 - Delia Clar MbD: podeis pasar el link de la clase porfi
+23/9/20 16:49 - Vicky MBD: Virginia lo tiene
+23/9/20 16:49 - Virginia Hernández MBD: Join Microsoft Teams Meeting
+      
+	 
+	 
+	  Learn more about Teams
+23/9/20 16:49 - Virginia Hernández MBD: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzU2NTBhZjUtMGNhNS00OGZiLThmNGItNjQyMDZlNTNhOTdk%40thread.v2/0?context=%7b%22Tid%22%3a%22bcd2701c-aa9b-4d12-ba20-f3e3b83070c1%22%2c%22Oid%22%3a%2213ec3aee-7970-46f7-a465-75187ccd6624%22%7d
+23/9/20 16:50 - Virginia Hernández MBD: decidme si funciona
+23/9/20 16:50 - Adiran Mbd: a mi si
+23/9/20 16:50 - Delia Clar MbD: Graciaaas
+23/9/20 16:50 - Delia Clar MbD: Sii
+23/9/20 16:51 - Virginia Hernández MBD: 👌👌
+23/9/20 17:15 - Vicky MBD: Clase
+23/9/20 17:16 - Vicky MBD: He hablado esta mañana con David Contreras y Carlos Morras
+23/9/20 17:16 - Vicky MBD: sobre el horario de octubre
+23/9/20 17:16 - Vicky MBD: y sobre la asignatura de tecnologia
+23/9/20 17:17 - Vicky MBD: A mediados de octubre nos cambian el horario y los martes tenemos clase de 4 a 10
+23/9/20 17:17 - Vicky MBD: he pedido que ese dia se cambie alguna hora de ese dia  a otro dia
+23/9/20 17:18 - Vicky MBD: lo he pedido con tiempo asi que lo van a estudiar
+23/9/20 17:19 - Vicky MBD: y después he hablado sobre lo de tecnología del otro día
+23/9/20 17:19 - Vicky MBD: a ver se viene chapa lo siento
+23/9/20 17:19 - Vicky MBD: pero me da verguenza gritarlo en el descanso
+23/9/20 17:22 - Aitor MBD: Este mensaje fue eliminado
+23/9/20 17:23 - Vicky MBD: Patricia ya habia hablado con direccion despues de la ultima clase diciendo que el nivel de la clase es bajo. Yo he dicho que la clase viene de dos semanas de curso cero donde se les ha metido muchísima información que no han tenido tiempo de asimilar y que un porcentaje considerable  de la clase no sabía programar de antes, que nosotros también estábamos preocupados y había dudas de si este master era asequible para todos los perfiles que hay en clase
+23/9/20 17:23 - Vicky MBD: Me han dicho que van a hacer desdoble en la clase de patricia
+23/9/20 17:24 - Vicky MBD: Esta decisión parece que ya la habían tomado antes de que yo hablara con ellos
+23/9/20 17:24 - ‎+34 698 15 91 76 se unió usando el enlace de invitación de este grupo
+23/9/20 17:25 - Vicky MBD: Por lo que no se ni si ese desdoble será por nivel o aleatorio ni el horario de este
+23/9/20 18:03 - ‎+34 655 54 65 74 añadió a Eladio Jiménez
+23/9/20 21:47 - Felipe D Navarro: Lo del desdoble a partir de cuando es?
+23/9/20 21:50 - Vicky MBD: Del lunes
+23/9/20 21:51 - Vicky MBD: Pero lo van a comunicar de forma oficial mñana o el viernes
+23/9/20 21:51 - Vicky MBD: Y así nos resolverán todas las dudas
+23/9/20 21:53 - Felipe D Navarro: Ok, gracias 👍
+24/9/20 18:17 - Fran MASTER BD: <Multimedia omitido>
+24/9/20 18:18 - +34 655 54 65 74: Y desde la conexion esta de aulas virtuales no va no?
+24/9/20 18:20 - Eladio Jiménez: A mí si me funciona la dirección de aula virtual
+24/9/20 18:21 - Eladio Jiménez: entro con el número del correo y la misma contraseña
+24/9/20 18:22 - +34 655 54 65 74: Si pero en el mysql no se me cargan las BBDD
+24/9/20 18:23 - +34 685 83 18 30: show databases; ?
+24/9/20 18:25 - +34 686 93 34 41: Valeee
+24/9/20 18:26 - +34 660 57 95 94: Gracias
+25/9/20 12:03 - Fran MASTER BD: Se sabe algo de los grupos de Tecnologías del Procesamiento?
+25/9/20 12:36 - Felipe D Navarro: Dijo que lo iban a poner por teams o por el moodle no?
+25/9/20 12:37 - Fran MASTER BD: Eso tenía entendido
+25/9/20 12:37 - Fran MASTER BD: Pero... por ahora no veo nada
+25/9/20 12:43 - Lidia Sanz: yo no he visto nada
+25/9/20 13:06 - +34 626 34 96 30: Y las soluciones de los ejercicios que dijo que había subido
+25/9/20 13:06 - +34 626 34 96 30: Donde estaan?
+26/9/20 14:25 - Lidia Sanz: yo no lo he visto
+26/9/20 14:26 - Lidia Sanz: por cierto, han subido el desdoble de grupos
+26/9/20 14:26 - Lidia Sanz: de tecnologias
+26/9/20 14:26 - Lidia Sanz: <Multimedia omitido>
+26/9/20 14:26 - Lidia Sanz: esta en teams
+26/9/20 14:26 - Lidia Sanz: en archivos
+26/9/20 14:41 - Eladio Jiménez: 👍
+26/9/20 15:48 - Fran MASTER BD: A alguien le interesa estar en el horario B? Yo tengo un compromiso los martes a las 20 y puedo cambiarlo.
+26/9/20 15:49 - Raúl Gómez Mbd: B te refieres al nuevo?
+26/9/20 15:50 - Fran MASTER BD: Es decir, estoy en horario B(nuevo), me gustaría saber si hay alguien en el horario normal que le interese el nuevo para cambiárselo
+26/9/20 15:50 - Raúl Gómez Mbd: A mí en principio sí
+26/9/20 15:51 - Raúl Gómez Mbd: Pero otro amigo está con el horario antiguo
+26/9/20 15:51 - Fran MASTER BD: Genial!!! Lo hablamos por privado
+26/9/20 15:51 - Ander Gurtubay: Yo también quiero cambiar y estoy en el horario normal si a alguien le intereas
+26/9/20 15:51 - Raúl Gómez Mbd: Si a alguien más le interesa cambiar el horario nuevo por el antiguo para que nos podamos cambiar los dos juntos
+26/9/20 15:55 - Ángel MBD: A mi me interesa cambiar del b al a
+26/9/20 15:55 - Raúl Gómez Mbd: Genial!
+26/9/20 15:56 - Raúl Gómez Mbd: Podrías hablar con @34606077431?
+26/9/20 15:56 - Raúl Gómez Mbd: A él y a mí no interesa el horario B, pero no queríamos cambiarnos a menos que fuésemos juntos
+26/9/20 15:57 - Raúl Gómez Mbd: Nos*
+26/9/20 15:57 - Joege Gómez Berenguer: Cuenta conmigo!
+26/9/20 15:57 - Joege Gómez Berenguer: Thanks Raúl!!
+26/9/20 15:58 - Ángel MBD: Hay que mandar correo para decirlo o nos cambiamos y ya?
+26/9/20 15:59 - Raúl Gómez Mbd: Fran y yo vamos a mandarle un correo cada uno
+26/9/20 16:00 - Ángel MBD: Perfecto, hacemos lo mismo entonces
+26/9/20 16:13 - Jose Fontecha: Alguien que quiera cambiarse del B al A por mi??
+26/9/20 16:14 - Lidia Sanz: yo puedo
+26/9/20 16:14 - Álvaro Fortún: Yo igual si alguien quiere cambiar al A perfee
+26/9/20 16:17 - Maria Garcia Spinola: Y yo🙏🏽
+26/9/20 16:22 - Lidia Sanz: si quieres te lo cambio
+26/9/20 16:23 - Jose Fontecha: Porfavor🙌🏻
+26/9/20 16:23 - Lidia Sanz: vale
+26/9/20 16:34 - Ander Gurtubay: Yo tambien quiero cambiar el A por el B si alguien mas lo quiere cambiar
+28/9/20 14:53 - Natalia Gila: Alguien se cambiaria al grupo A?
+28/9/20 14:53 - Natalia Gila: Yo estoy en el A y querria ir al B
+28/9/20 14:53 - Natalia Gila: 😁
+29/9/20 11:09 - Vicky MBD: No me funciona la conexion desde casa al edge
+29/9/20 11:09 - Vicky MBD: le pasa a alguien mas ?
+29/9/20 11:10 - Natalia Gila: A mi
+29/9/20 11:22 - Felipe D Navarro: A mi si me funciona
+30/9/20 10:58 - Santiago Cebellán: El correo de la que estaba dando la charla en Gobierno del dato cuál es? Para enviarle lo que nos pidió
+30/9/20 10:59 - Virginia Hernández MBD: Sale en el moodle de la asignatura
+30/9/20 11:00 - Santiago Cebellán: Ok gracias
+30/9/20 11:03 - Virginia Hernández MBD: <Multimedia omitido>
+30/9/20 19:28 - Vicky MBD: <Multimedia omitido>
+30/9/20 19:29 - Vicky MBD: donde se suponen que estan los archivos test.cvs ?
+30/9/20 19:29 - Vicky MBD: no los encuentro
+30/9/20 19:29 - Andrés Jiménez: No están . Son ejemplos de cosas que te puedes crear
+30/9/20 19:29 - Andrés Jiménez: Cualquier tipo de fichero te valdría ( txt,csv..)
+1/10/20 11:37 - ‎+34 629 64 14 73 se unió usando el enlace de invitación de este grupo
+1/10/20 13:42 - Vicky MBD: una pregunta
+1/10/20 13:43 - Vicky MBD: en la practica de spark
+1/10/20 13:43 - Vicky MBD: como se ejecuta el codigo de pi de python
+1/10/20 13:43 - Vicky MBD: que me da error
+1/10/20 13:45 - Andrés Jiménez: El código debe estar guardado en el edge,no en hdfs y se ejecuta desde ahí , no desde spark
+1/10/20 14:30 - Fran MASTER BD: Eso es, se tiene que crear un fichero de texto cn el código que aparece ( en el ejercicio podría llamarse codigo.py)
+
+Luego con el comando que aparece en el pdf se ejecuta el codigo del archivo codigo.py con spark.
+1/10/20 15:15 - Vicky MBD: Gracias !!
+1/10/20 17:24 - Natalia Gila: Os parece bien a todos que el examen sea la semana que viene?
+1/10/20 17:24 - Raquel García Meneses: ni un poco
+1/10/20 17:24 - Laura Lucendo: La verdad q a mi no
+1/10/20 17:24 - Monu MbD: No
+1/10/20 17:24 - Raquel García Meneses: ya podrian ponerlo aunq sea la una semana mas
+1/10/20 17:24 - Álvaro Otaduy MBD: No
+1/10/20 17:24 - Raúl Gómez Mbd: No
+1/10/20 17:24 - Álvaro Fortún: Es una putada
+1/10/20 17:24 - Maria Garcia Spinola: Noo
+1/10/20 17:24 - Natalia Gila: Porque no lo decimos?
+1/10/20 17:25 - Raúl Gómez Mbd: Y hay examen de arqui un día antes
+1/10/20 17:25 - +34 655 54 65 74: Justo
+1/10/20 17:53 - Lidia Sanz: el examen del miercoles es para subir nota o tiene un porcentaje de la nota final?
+1/10/20 17:53 - Lidia Sanz: a mi no me quedo claro
+1/10/20 18:00 - Alejandro Polo MBD: Creo que es solo subir nota
+1/10/20 18:07 - Eduardo Lobo: Solo subir nota sí
+1/10/20 18:07 - Maria Javierre: Yo me quedé con que era sólo para subir nota
+1/10/20 18:19 - Vicky MBD: Yo prefiero no cambiar el final
+1/10/20 18:20 - Vicky MBD: 5 puntos de cuestionario con preguntas que ya hemos hecho
+1/10/20 18:20 - Vicky MBD: y los otros 5 se van a parecer mucho a los examenes de años anteriores
+1/10/20 18:20 - Vicky MBD: + podemos tenr internet chuletario apuntes todo abierto
+1/10/20 18:21 - Vicky MBD: y si lo retrasamos va a meter mas materia
+1/10/20 18:21 - Vicky MBD: ademas que esta semana estamos ocupados pero la otra nos podran el final de big data y gobierno del dato
+1/10/20 18:21 - Vicky MBD: y tendremos mas practicas porque eso no va a parar
+1/10/20 18:22 - Vicky MBD: no se pensadlo porque yo creo que cuanto antes nos lo quitemos mejor
+1/10/20 18:22 - Vicky MBD: yo tambien me he rallado con lo de la semana que viene pero esta diciendo que no va a poner un examen imposible si no solo asegurar que has entendido lo de clase
+1/10/20 18:23 - Eladio Jiménez: Yo lo veo como Vicky
+1/10/20 18:23 - Joege Gómez Berenguer: +1
+1/10/20 18:26 - Fran MASTER BD: Yo prefiero dentro de dos semanas, tenemos más tiempo para estudiar y asimilar conceptos. Sea cuando sea, lleva dejando claro desde el principio que el examen va a ser fácil.
+1/10/20 18:26 - Andrés Jiménez: Sea cuando sea entiendo que será 5 puntos y 5 puntos
+1/10/20 18:26 - Andrés Jiménez: Por lo tanto el examen será igual con la parte test y lo otro
+1/10/20 18:27 - Alejandro Polo MBD: Además esto ya es un máster y creo que lo más importante es aprender
+1/10/20 18:27 - Álvaro Otaduy MBD: Yo tambien
+1/10/20 18:27 - +34 644 45 11 86: Yo también pienso como Vicky
+1/10/20 18:27 - Andrés Jiménez: No creo que dé mucho más temario , y no sé si esa semana tenemos examen de gobierno big data , no he visto nada de eso
+1/10/20 18:34 - Lucia Poblador: Yo igual
+1/10/20 18:35 - Laura Lucendo: Y yo
+1/10/20 18:37 - Vicky MBD: https://forms.gle/EkCM2u7AKpNVtt9H9
+1/10/20 18:37 - Vicky MBD: Lo votamos
+1/10/20 18:38 - Vicky MBD: intentad votar todos aunque os de igual cuando que he añadido esa opcion
+1/10/20 18:38 - Eladio Jiménez: Gracee Vicky
+1/10/20 18:48 - Fran MASTER BD: Gracias Vicky
+1/10/20 18:49 - Vicky MBD: Van 23 respuesta y va ganando la semana que viene con un 65%
+1/10/20 18:52 - Álvaro Otaduy MBD: Se pueden ver los resultdos en algun lado?
+1/10/20 18:52 - Vicky MBD: os paso captura cuando termine de votar todo el mundo
+1/10/20 18:52 - Vicky MBD: y he puesto lo del mail para que nadie vote dos veces
+1/10/20 18:53 - Vicky MBD: no seais frikis de votar desde otras cuentas jajjaja
+1/10/20 18:53 - Alejandro Polo MBD: Puedes poner que se vayan viendo para que sepamos cómo van creo
+1/10/20 18:53 - Vicky MBD: ya esta
+1/10/20 18:53 - Vicky MBD: puesto
+1/10/20 18:55 - Fran MASTER BD: El que gana es dentro de dos semanas 😂
+1/10/20 18:55 - Natalia Gila: Jajaja y por mucho😂
+1/10/20 18:56 - +34 661 19 72 74: <Multimedia omitido>
+1/10/20 18:59 - Adiran Mbd: yaya se ha equivocado la pobre
+2/10/20 10:55 - Monu MbD: <Multimedia omitido>
+2/10/20 10:55 - Monu MbD: En esta el extremo superior a
+2/10/20 10:55 - Monu MbD: Es el menor o el mayor?
+2/10/20 10:57 - Adiran Mbd: Mayor
+2/10/20 10:58 - Monu MbD: Vale gracias !!
+2/10/20 11:03 - Adiran Mbd: <Multimedia omitido>
+2/10/20 11:04 - Adiran Mbd: haz signif de 1 porque me lo puso haciendo de 4
+2/10/20 11:08 - Monu MbD: Te lo puso mal?
+2/10/20 11:08 - Monu MbD: Osea responder un solo número sin decimales?
+2/10/20 11:09 - Adiran Mbd: 1 decimal
+2/10/20 11:09 - Monu MbD: Ah vale vale
+2/10/20 11:09 - Monu MbD: Graciass
+2/10/20 12:04 - Ángel MBD: Alguien sabe qué grupo de arquitectura tiene que ir hoy a la 1?
+2/10/20 12:05 - Aitor MBD: Los mismos que el martes por la mañana creo
+2/10/20 12:15 - Ángel MBD: Okey, gracias
+2/10/20 16:16 - Vicky MBD: Ha ganado examen final de fundamentos  en dos semanas
+2/10/20 16:16 - Vicky MBD: asi que si nos dejan cambiarlo direccion
+2/10/20 16:16 - Vicky MBD: se cambia
+4/10/20 12:01 - Andrés Jiménez: Carlos ha enviado un correo donde dice que están publicadas las notas de la parte de Leticia en archivos en teams, pero yo no las veo. Alguien las ve ?!
+4/10/20 12:02 - Fran MASTER BD: En el teams tampoco las encuentro, pero tal vez se refiera con notas a los powerpoints
+4/10/20 12:03 - Andrés Jiménez: No creo la vd ,porque los power estaban subidos ya
+4/10/20 12:03 - Andrés Jiménez: También pone que dejaba en el chat algunos artículos de esta parte y tampoco sale nada creo
+4/10/20 12:03 - Fran MASTER BD: Ya, pero se han subido algunas más
+4/10/20 12:03 - +34 661 19 72 74: Creo que se referirá a las notas suyas de filter bubble y lo de open source
+4/10/20 12:04 - Virginia Hernández MBD: Justo
+4/10/20 12:04 - Fran MASTER BD: Tes
+4/10/20 12:04 - +34 661 19 72 74: Que pone que se subieron hace una hora
+4/10/20 12:04 - Andrés Jiménez: Pues igual será eso
+4/10/20 12:04 - Fran MASTER BD: *yes
+4/10/20 12:04 - Andrés Jiménez: Y he pensado que serían las notas de las entregas estás
+4/10/20 12:04 - Andrés Jiménez: Graciass
+4/10/20 12:09 - Vicky MBD: Las entregas esas no van a tener nota
+4/10/20 12:10 - Vicky MBD: Sirven para el redondeo de la nota final
+4/10/20 12:10 - Virginia Hernández MBD: Y del examen de fundamentos se sigue sin saber nada no?
+4/10/20 12:13 - Andrés Jiménez: No ha dicho nada este hombre . Supongo que mañana dirá
+4/10/20 13:09 - Felipe D Navarro: Lo de los articulos que pone Carlos, son un par de noticias que puso x el chat
+4/10/20 16:26 - +34 655 54 65 74: El martes y el jueves de esta semana
+4/10/20 16:27 - +34 655 54 65 74: Tenemos machine Learning?
+4/10/20 16:27 - Lidia Sanz: no, está semana no hay machine learning
+4/10/20 16:27 - Lidia Sanz: empieza la que viene
+4/10/20 16:29 - +34 655 54 65 74: Es que en el calendario que tengo yo pone que empieza el 6-oct
+4/10/20 16:33 - Lidia Sanz: en el calendario pone que   el horario hasta ahora termina el 5 de octubre
+4/10/20 16:34 - Lidia Sanz: pero luego pone que el siguiente empieza el 12 de octubre
+4/10/20 16:34 - Lidia Sanz: según lo que ha comentado el profe de fundamentos la semana pasada, yo entendí que esta es la última semana que tiene para dar clase
+4/10/20 16:34 - Lidia Sanz: pero no se
+4/10/20 16:35 - +34 655 54 65 74: Ya es que yo tb le entendi eso
+4/10/20 16:36 - +34 655 54 65 74: <Multimedia omitido>
+4/10/20 16:36 - +34 655 54 65 74: A lo mejor es que tengo el horario antiguo o algo
+4/10/20 16:49 - Lidia Sanz: si en mi horario también pone eso
+4/10/20 16:49 - Lidia Sanz: pues entonces empezará el día 6
+4/10/20 16:50 - Lidia Sanz: lo raro es que dijo el de fundamentos que quería poner este jueves el examen porque era su último dia de clase
+4/10/20 16:51 - Lidia Sanz: mañana sino que nos lo aclaren
+4/10/20 18:36 - Jacobo Azpeitia: No tiene mucho sentido
+4/10/20 18:36 - Jacobo Azpeitia: Porque habria tambien el lunes 5
+5/10/20 8:43 - Andrés Jiménez: <Multimedia omitido>
+5/10/20 8:44 - Virginia Hernández MBD: Gracias por reenviarlo!! 👌👌
+5/10/20 10:32 - Guillermo Valle MBD: Gracias!!
+7/10/20 16:24 - Vicky MBD: Hago encuesta de google y votamos ??
+7/10/20 16:24 - Fran MASTER BD: Perfect!
+7/10/20 16:27 - Vicky MBD: https://forms.gle/uTcizPKXH2aojdUk9
+7/10/20 16:40 - Delia Clar MbD: Yo se que la mayoria preferireis en octubre y quitarselo de encima, pero cuando ha dicho lo de inters lo decia por mi, para quien no lo sepa es una semana que tengo exames todos los dias. Es una putada tener en 5 dias 5 examenes y 1 final. Entiendo que cada uno eliga lo que realmente le convenga pero yo de verdd que os agradeceria que votaseis diciembre
+7/10/20 16:43 - Natalia Gila: Yo vote octubre, pero te entiendo y en verdad me daría igual diciembre
+7/10/20 16:43 - Andrés Jiménez: Solo te pasa a ti ?
+7/10/20 16:43 - Delia Clar MbD: si
+7/10/20 16:43 - Andrés Jiménez: Pregunto por si igual habría alguna solución ,pero si no pues tampoco me iría la vida en hacerlo en diciembre
+7/10/20 16:44 - Andrés Jiménez: Nos acordaremos todos de menos cosas pero bueno tampoco creo que sea esta asignatura muy dura
+7/10/20 16:45 - Vicky MBD: podemos buscar un hueco de la siguiente semana de octubre fuera de clase como con fundamentos
+7/10/20 16:46 - Andrés Jiménez: Si ,Justo por eso preguntaba si es delia únicamente , por si es fácil buscar algún hueco que se nos permita y que no sea ni tan tarde como diciembre ni en la semana de esa de exámenes
+7/10/20 16:47 - Jacobo Azpeitia: A mi esto me parece bien
+7/10/20 16:47 - Delia Clar MbD: a mi esto me parece genial
+7/10/20 16:47 - Delia Clar MbD: y muchas graciasss❤❤
+7/10/20 16:50 - Thomas Bustos: 👍🏽
+7/10/20 16:51 - Vicky MBD: Podria ser el martes 27 de 3 a 5  o el viernes 30 de 6 a 8
+7/10/20 16:51 - Vicky MBD: ahora en el descanso le pregunto si es posible en esos huecos y si lo es modifico la encuesta para añadir esas opciones
+7/10/20 17:06 - Natalia Gila: 27 genial
+7/10/20 17:18 - Vicky MBD: Chicos el 27 de octubre de 3 a 5 carlos tiene hueco para hacer el final
+7/10/20 17:18 - Vicky MBD: actualizo la encuesta con las tres opciones 
+23 de octubre
+27 de octubre
+diciembre
+7/10/20 17:18 - Vicky MBD: borro la encuesta anterior
+7/10/20 17:20 - Vicky MBD: https://forms.gle/aeTwGN1NwUY5wR6N7
+7/10/20 17:46 - Virginia Hernández MBD: Y el viernes 30 no puede ser una opción?
+7/10/20 17:46 - Virginia Hernández MBD: O cualquier día pero más tarde?
+7/10/20 17:57 - Vicky MBD: lo pregunto !
+7/10/20 17:57 - Vicky MBD: se lo he dado como opcion antes pero no me ha dicho porque ha elegido martes
+7/10/20 18:00 - Virginia Hernández MBD: Muchas gracias!!!!
+7/10/20 18:07 - Vicky MBD: Virginia si se puede el viernes 30 de 6 a 8
+7/10/20 18:07 - Vicky MBD: actualizo la encuesta luego en una hora o asi
+7/10/20 18:15 - Ángel MBD: https://repositorio.comillas.edu/xmlui/bitstream/handle/11531/47851/prueba.pdf?sequence=-1&isAllowed=y
+7/10/20 18:15 - Vicky MBD: https://download.respondus.com/lockdown/download.php?id=538749871
+7/10/20 18:46 - Delia Clar MbD: Oye muchísimas gracias a todos por el examen de gobierno del dato😊
+7/10/20 19:05 - Vicky MBD: <Multimedia omitido>
+7/10/20 19:05 - Vicky MBD: Vale perdon por toda esta confusion de encuestas
+7/10/20 19:05 - +34 661 19 72 74: <Multimedia omitido>
+7/10/20 19:06 - Vicky MBD: como a virginia le viene mal  si nadie tiene problema lo dejamos el examen fechado para el viernes 30 de octubre de 6 a 8
+7/10/20 19:06 - Andrés Jiménez: Pero Carlos no te había dicho que no a esa fecha ??
+7/10/20 19:06 - Vicky MBD: he hablado con el y no tiene problema
+7/10/20 19:06 - Laura Lucendo: A mi la verdad que el 30 no me viene bien, lo siento
+7/10/20 19:07 - Laura Lucendo: pero vamos que como diga la clase
+7/10/20 19:07 - Natalia Gila: A mi tampoco la vdd
+7/10/20 19:07 - Vicky MBD: vale pues hago encuesta otra vez
+7/10/20 19:07 - Vicky MBD: la ultima espero jajaj
+7/10/20 19:07 - Vicky MBD: con dos opciones
+7/10/20 19:07 - Vicky MBD: o martes 27 o viernes 30
+7/10/20 19:07 - Vicky MBD: descartamos diciembre ?
+7/10/20 19:07 - Natalia Gila: Ponlo por si acaso
+7/10/20 19:10 - Vicky MBD: https://forms.gle/HLSUFvQAQ1tB2Xnc6
+7/10/20 21:18 - Virginia Hernández MBD: Muchas gracias vicky :))))
+7/10/20 21:20 - Virginia Hernández MBD: Es porque con el trabajo mejor si puede ser más tarde 😅🙈
+9/10/20 16:11 - Vicky MBD: Chicos
+9/10/20 16:11 - Vicky MBD: solo han votado 24 personas
+9/10/20 16:12 - Vicky MBD: el 70% han votado martes 27 a las 3
+9/10/20 16:14 - Vicky MBD: El final se queda el martes 27 a las 3
+9/10/20 16:22 - +34 648 77 94 78: <Multimedia omitido>
+11/10/20 16:46 - Santiago Cebellán: Alguien sabe donde subió Fernando los vídeos con las correcciones de los exámenes de fundamentos?
+11/10/20 16:46 - Santiago Cebellán: No los encuentro
+11/10/20 16:47 - Lidia Sanz: está en el correo que mando
+11/10/20 16:47 - Fran MASTER BD: Los subió aun OneDrive
+11/10/20 16:47 - Lidia Sanz: el enlace a onedrive
+11/10/20 16:47 - Fran MASTER BD: https://upcomillas-my.sharepoint.com/:f:/g/personal/fsansegundo_comillas_edu/Eh1GjVvLdeJIh9NAkTOGP8YBsVNuuVILDxKfQ6zbA-e5gg?e=EsKuCh
+11/10/20 16:48 - Santiago Cebellán: Gracias
+11/10/20 18:23 - Fran MASTER BD: 👍
+12/10/20 18:38 - Jacobo Azpeitia: Y sabeis donde están los enunciados de examenes de otros años?
+12/10/20 18:38 - Jacobo Azpeitia: No lo encuentro
+12/10/20 18:39 - Lidia Sanz: en moodle
+12/10/20 18:40 - Lidia Sanz: donde viene ma descripción del trabajo
+12/10/20 18:40 - Lidia Sanz: la*
+12/10/20 18:40 - Raúl Gómez Mbd: En el enunciado del trabajo
+12/10/20 18:40 - Raúl Gómez Mbd: Hay un enlace
+12/10/20 18:40 - Lidia Sanz: en el enlace que se llama "un enlace"
+12/10/20 18:40 - Lidia Sanz: https://musing-stonebraker-3eeaa5.netlify.app/mbdfme-20-21-propuestadeproyectos
+12/10/20 19:20 - Jacobo Azpeitia: Muchas gracias
+13/10/20 12:08 - +34 655 54 65 74: <Multimedia omitido>
+13/10/20 12:20 - Andrés Jiménez: Signifc()
+13/10/20 12:20 - Andrés Jiménez: Creo que es
+13/10/20 14:20 - Vicky MBD: Chicos
+13/10/20 14:20 - ‎Adiran Mbd cambió el ícono de este grupo
+13/10/20 14:20 - Vicky MBD: os recuerdo que esta semana hay nuevo horario
+13/10/20 14:21 - Vicky MBD: el primer horario que se paso no esta actualizado
+13/10/20 14:21 - Vicky MBD: https://horarios.comillas.edu/ICAIMaster/Horarios/
+13/10/20 14:21 - Vicky MBD: <Multimedia omitido>
+13/10/20 14:21 - Vicky MBD: hasta la semana del 26 este es el nuevo horario
+13/10/20 14:21 - Adiran Mbd: Ya he cambiado la foto del grupo
+13/10/20 14:22 - Vicky MBD: Muy bien Adirin
+13/10/20 14:33 - Andrés Jiménez: Habría que modificar los desdobles de tecnología ,no?
+13/10/20 14:34 - Vicky MBD: Por ?
+13/10/20 14:34 - Andrés Jiménez: El martes de 7/9 no era uno de los desdobles?
+13/10/20 14:34 - Andrés Jiménez: Y ahora hay clase que entiendo que sería la común
+13/10/20 14:35 - Andrés Jiménez: Ah vale no no
+13/10/20 14:35 - Vicky MBD: Este es el nuevo horario
+13/10/20 14:35 - Andrés Jiménez: Hay 4 acabo de caer
+13/10/20 14:35 - Andrés Jiménez: Si si gracias B
+13/10/20 14:35 - Andrés Jiménez: !*
+13/10/20 14:35 - Vicky MBD: Nada !!!
+13/10/20 14:35 - Vicky MBD: Olvidaros del antiguo
+13/10/20 14:35 - Vicky MBD: Aunque este es parecido
+13/10/20 14:41 - Felipe D Navarro: Y mañana dia 14/10 hay horario de Lunes
+13/10/20 14:41 - Felipe D Navarro: Esta en el calendario académico de ICAI
+13/10/20 14:41 - Andrés Jiménez: Ah pues gracias oye
+13/10/20 14:42 - Andrés Jiménez: Porque ni puta idea tenía
+13/10/20 14:42 - Raquel García Meneses: Lo mismo digo
+13/10/20 14:42 - Raquel García Meneses: Ajjajaja
+13/10/20 14:42 - Maria Javierre: Yo tampoco jajaj
+13/10/20 14:42 - Maria Javierre: Gracias!
+13/10/20 15:02 - Lidia Sanz: gracias!!!
+13/10/20 15:09 - Eladio Jiménez: Este mensaje fue eliminado
+13/10/20 15:09 - Raúl Gómez Mbd: Entramos a las 3 entonces
+13/10/20 17:09 - Vicky MBD: CHICOS MAÑANA HORARIO DE MIÉRCOLES NORMAL
+13/10/20 17:09 - Vicky MBD: lo del calendario es solo para grado no máster
+13/10/20 17:09 - Vicky MBD: Este miércoles
+13/10/20 19:20 - Vicky MBD: <Multimedia omitido>
+13/10/20 19:21 - Vicky MBD: Voy a preguntar si nos va a entregar el cuestionario y los problemas  a la vez o es una hora para cada uno por separado
+13/10/20 19:21 - Vicky MBD: si teneis alguna duda mas decidlo y lo pregunto tambien
+13/10/20 19:26 - Lidia Sanz: gracias vicky
+13/10/20 19:27 - Lidia Sanz: al final dijo que si que se podía usar los scripts que tenemos el día del examen no?
+13/10/20 19:29 - Vicky MBD: Si, se puede usar todo el material no vamos a usar respondus osea que no vamos a tener capado ningun acceso
+13/10/20 19:29 - Vicky MBD: de todas maneras lo incluyo en el correo para asegurarnos
+13/10/20 19:29 - Lidia Sanz: vale
+13/10/20 19:29 - Lidia Sanz: mil gracias!!
+14/10/20 9:28 - Vicky MBD: Alguna duda mas que queráis que incluya en el correo antes de mandarlo ???
+14/10/20 14:05 - Vicky MBD: SE PUEDE USAR LOS SCRIPTS
+14/10/20 14:06 - Vicky MBD: Y EL CUESTIONARIO Y LOS PROBLEMAS DE REPARTEN A LA VEZ Y CADA UNO SE ORGANIZA EL TIEMP
+14/10/20 16:33 - +34 698 15 91 76: El profesor de fundamentos matemáticos llego a compartir por algún lado el .Rmd que usó en la solución del examen de 2019?
+14/10/20 18:23 - Vicky MBD: Si os parece
+14/10/20 18:24 - Vicky MBD: votamos si quieremos el examen final de arquitectura la primera semana de noviembre o en diciembre
+14/10/20 18:24 - Fran MASTER BD: Perfect
+14/10/20 18:24 - Vicky MBD: y si sale noviembre ya me acerco a hablar con el profesor a ver en que huecos se podria hacer
+14/10/20 18:24 - Vicky MBD: pero cuanto antes lo hagamos mas tiempo para organizarlo
+14/10/20 18:29 - Vicky MBD: bueno creo que la mayoria vamos a querer en noviembre que en diciembre
+14/10/20 18:29 - Vicky MBD: Si alguien NO quiero hacerlo en noviembre que me lo diga
+14/10/20 18:29 - Vicky MBD: y asi ahorramos el paso de la encuesta
+14/10/20 18:46 - Vicky MBD: En cuanto hacerlo en noviembre
+14/10/20 18:46 - Vicky MBD: Solo tenemos libre los martes a las 3 o los viernes a las 6
+14/10/20 18:49 - Vicky MBD: <Multimedia omitido>
+14/10/20 18:49 - Vicky MBD: La línea rosa es cuando acaba la asignatura
+14/10/20 18:49 - Vicky MBD: Las cruzas verdes cuando sería posible el examen
+14/10/20 19:08 - Fran MASTER BD: Yo prefiero el viernes 30 o 6 (mejor 6) ya que sería por la tarde y a los que trabajamos nos viene mejor
+14/10/20 19:40 - +34 661 19 72 74: Yo también prefiero el 6
+14/10/20 19:45 - Lucia Poblador: Yo igual
+14/10/20 19:45 - Vicky MBD: voy a preguntarle que huecos tiene el disponible
+14/10/20 19:46 - Vicky MBD: si tiene mas de uno hago encuesta como siempre
+14/10/20 20:52 - Felipe D Navarro: Yo también prefiero en Noviembre 👍
+14/10/20 20:57 - Ángel MBD: A qué hora es el examen mañana?
+14/10/20 21:00 - Santiago Cebellán: 15:00
+14/10/20 21:01 - Ángel MBD: Gracias
+14/10/20 21:24 - Virginia Hernández MBD: Si puede ser el examen de arquitectura cualquier día pero desde las 17:00 lo agradecería un monton 🙏
+15/10/20 17:36 - Vicky MBD: Mañana los delegados tenemos reunion con coordinacion para hablar de como va el curso
+15/10/20 17:37 - Vicky MBD: si tenéis cualquier comentario o queja que queréis que haga  llevar me lo podéis decir por aquí  o por privado y mañana lo comentaremos de forma anónima !
+15/10/20 18:02 - Vicky MBD: quereis descanso y acabar mas tarde ?
+15/10/20 18:02 - Virginia Hernández MBD: si!
+15/10/20 18:03 - Adiran Mbd: Sisi
+15/10/20 18:11 - Aitor MBD: Podeis decirle que ponga el micro?
+15/10/20 18:11 - Aitor MBD: No se oye
+15/10/20 18:11 - Vicky MBD: desde casa ?
+15/10/20 18:11 - Aitor MBD: Ya está
+15/10/20 18:12 - Aitor MBD: Gracias
+15/10/20 18:36 - Eladio Jiménez: Que nos pomgan ya el famoso VPN para acceder al edge
+15/10/20 18:36 - Vicky MBD: Toda la razon
+15/10/20 18:36 - Vicky MBD: mañana lo pido
+15/10/20 18:39 - Eladio Jiménez: Y que Patri deje de quejarse de si estamos calentando la silla en la clase o en casa
+15/10/20 18:39 - Eladio Jiménez: Que más le dará a ella
+15/10/20 18:40 - Vicky MBD: ajajajajaja
+15/10/20 18:40 - Vicky MBD: vale aunque necesitaria justificar porque a veces preferis quedaros en casa
+15/10/20 18:41 - Vicky MBD: porque es verdad que somos presenciales y no deberiamos faltar si no es por covid
+15/10/20 18:41 - Eladio Jiménez: jaja es verdad
+15/10/20 18:47 - Adiran Mbd: Jajajajaja
+15/10/20 21:01 - Santiago Cebellán: <Multimedia omitido>
+15/10/20 21:03 - +34 661 19 72 74: Mándadle un wasap
+15/10/20 21:04 - +34 685 83 18 30: Esta en la puerta
+15/10/20 21:04 - +34 685 83 18 30: De alberto aguilera
+15/10/20 21:04 - +34 685 83 18 30: El propietario
+15/10/20 21:04 - Santiago Cebellán: Ok
+15/10/20 21:06 - Santiago Cebellán: Bajo ya
+16/10/20 15:53 - Vicky MBD: 🔴*VPN* Jose Luis va a hablar con David Contreras para que nos habiliten una VPN para poder acceder al cluster y Cloudera desde nuestro ordenador sin usar las aulas virtuales. 
+
+🟢*Machine Learning* hemos destacado la velocidad de las clases y que asume que toda la clase tiene un conocimiento de R avanzado. Van a intentar hacer las clases más practicas y que vayamos probando nosotros en nuestro ordenador el codigo y que Sonja haga de profesora de apoyo contestando dudas personales. 
+
+🟣*Adquisición y transformación del datos* esta asignatura comienza el 26 de octubre y volverán a hacer desdoble (el horario lo publicaran a lo largo de la semana que viene)
+
+En general, van a intentar hacer desdobles o profesores de apoyo en todas las asignaturas tanto en este cuatrimestre como en el siguiente. 
+ 
+Cada dos semanas nos reuniremos con el coordinador. Os recuerdo que si tenéis cualquier comentario, petición o duda nos lo digáis  tanto por aquí como por privado para intentar darle solución.
+16/10/20 15:53 - Andrés Jiménez: Gracias perfecto
+16/10/20 15:53 - Laura Lucendo: Genial gracias vicky!
+16/10/20 15:54 - Eladio Jiménez: 👌
+16/10/20 15:54 - Lidia Sanz: muchas graciass
+16/10/20 15:54 - Laura Lucendo: Y una cosa han comentado algo del tema practicas?
+16/10/20 15:54 - Laura Lucendo: O aun nada
+16/10/20 15:54 - Vicky MBD: Hoy lo vamos a hablar en clase por eso no lo he puesto en el mensaje
+16/10/20 15:56 - Laura Lucendo: Perfecto, thanks!
+16/10/20 16:17 - Vicky MBD: Va comentar lo de las practicas ahora
+16/10/20 16:17 - Vicky MBD: aprovechad para preguntar cualquier duda
+16/10/20 16:17 - Vicky MBD: y si os da verguenza escribidme y lo pregunto yo
+16/10/20 18:18 - Virginia Hernández MBD: Lo que estaría bien es que comentaste cómo va a ser el examen también
+16/10/20 18:28 - Vicky MBD: Lo iba comentar hoy pero como hemos perdido una hora en las practicas me ha dado apuro
+16/10/20 18:28 - Vicky MBD: el martes siguiente sin falta lo pregunto
+16/10/20 20:37 - Alicia Ocon: El Café sin Nombre
+Calle del Conde Duque, 10, 28015 Madrid, España
++34 915 59 18 94
+https://goo.gl/maps/2URQwQfRUmv4aRyu8
+16/10/20 20:37 - Alicia Ocon: Estamos aquí
+16/10/20 20:54 - Adiran Mbd: Hay sitio?
+16/10/20 21:05 - Alicia Ocon: Si, hay dos mesas justo al lado
+19/10/20 15:28 - +34 655 54 65 74: podemos intentar cambiar algún examen o practica?
+19/10/20 15:28 - +34 655 54 65 74: porque no me da la vida
+19/10/20 15:39 - Lidia Sanz: por lo menos mover la pactica de tecnologia no?
+19/10/20 15:40 - Lidia Sanz: quizas mover un examen es mas dificil porque los profesores ya se han organizado
+19/10/20 15:58 - Vicky MBD: podemos intentar mover la practica de tecnologia
+19/10/20 15:59 - Vicky MBD: pero no se muy bien a cuando porque la semana que viene nos va a venir mal cualquier dia
+19/10/20 15:59 - Vicky MBD: y mas de una semana no la va a retrasar
+19/10/20 16:27 - Fran MASTER BD: Pues una semana
+19/10/20 16:27 - Fran MASTER BD: Al siguiente domingo
+19/10/20 16:33 - Maria Javierre: También podemos intentar mover la de machine learning si Patricia no quiere mover la suya. Hay que aplicar una serie de modelos que vamos a terminar de ver esta semana y la práctica es para el lunes que viene.
+19/10/20 16:33 - Fran MASTER BD: Cierto
+19/10/20 17:03 - Vicky MBD: Chicos no se si os acordais que el viernes le comente en clase a miguel angel que en el horario que tenemos fijado el examen final la semana que viene nos han puesto un desdoble
+19/10/20 17:03 - Vicky MBD: Le escribi un correo a jose luis preguntado si podiamos quitar el desdoble ese viernes como excepcion para hacer el examen y me ha contestado hoy diciendo que imposible
+19/10/20 17:04 - Vicky MBD: Le he pedido el nuevo horario para buscar un hueco para el final de arquitectura  y me ha dicho que aun no lo tiene
+19/10/20 17:05 - Vicky MBD: Por lo que tranquilos porque seguramente el examen final de arquitectura se retrase porque si hay un hueco antes del viernes no lo voy a poner ahi
+19/10/20 17:05 - Vicky MBD: vamos a intentar atrasarlo y no adelantarlo
+19/10/20 17:06 - Vicky MBD: Le voy a dar a jose luis hasta el *miercoles*  para que me envie el nuevo horario
+19/10/20 17:06 - Vicky MBD: Si no ire a su despacho a hablar con él
+19/10/20 17:06 - Laura Lucendo: Genial mil gracias!
+19/10/20 17:07 - Vicky MBD: Asi que si os parece a todos bien esperamos al miercoles para decidir si atrasamos las practicas y yo me compromento a ese mismo dia hablar con los dos profesores
+19/10/20 17:09 - +34 655 54 65 74: Perfect 🤩
+19/10/20 17:11 - Lidia Sanz: muchas gracias vicky
+19/10/20 17:17 - Maria Javierre: Gracias 😊
+19/10/20 17:19 - +34 661 19 72 74: Gracias Vicky
+19/10/20 17:24 - Vicky MBD: El examen de machine learning es el 10 de noviembre
+19/10/20 19:09 - +34 661 19 72 74: A alguien le falta grupo para el assignment de Machine Learning?
+19/10/20 19:11 - Jacobo Azpeitia: O algún grupo de 2 que le falte uno
+19/10/20 19:13 - Nekane Guarrotxena: Le he preguntado al profe y me ha dicho que se pueden hacer grupos de 4 personas también.
+19/10/20 19:13 - Jacobo Azpeitia: Seguro?
+19/10/20 19:13 - Jacobo Azpeitia: A mi me ha dicho que no
+19/10/20 19:16 - Nekane Guarrotxena: Pues a mi me ha dicho que sí 🤭
+19/10/20 19:16 - Nekane Guarrotxena: <Multimedia omitido>
+19/10/20 19:20 - +34 661 19 72 74: Sonja es bastante más nazi
+19/10/20 20:30 - Alejandro Polo MBD: Podéis mirar si hay un cargador de Mac en la segunda fila a la derecha
+19/10/20 20:59 - Monu MbD: Siempre hubo clases Jacobo
+19/10/20 21:16 - Lidia Sanz: a lo mejor sería bueno que no estuviera muy cerca el examen de arquitectura con el de machine learning no?
+19/10/20 21:33 - Vicky MBD: No creo que caigan en la misma semana pero en semanas contiguas seguramente si
+19/10/20 21:33 - Fran MASTER BD: Por favor que no caigan en la misma semana 🙏🏼
+20/10/20 9:42 - Raúl Gómez Mbd: <Multimedia omitido>
+20/10/20 10:09 - Eladio Jiménez: Gratsias Raúl
+20/10/20 10:09 - Eladio Jiménez: Vicky, los profes te hacen caso
+20/10/20 11:01 - +34 660 57 95 94: Una pregunta, eso dónde está? Cómo se accede ahí?
+20/10/20 11:13 - Raúl Gómez Mbd: https://acceso.comillas.edu
+20/10/20 11:30 - Andrés Jiménez: Les funciona el hue correctamente ?
+20/10/20 12:24 - Vicky MBD: <Multimedia omitido>
+20/10/20 12:24 - Vicky MBD: Chicos este es el nuevo horario a partir de la semana que viene
+20/10/20 12:24 - Vicky MBD: el Grupo A son los que van con MIT
+20/10/20 12:25 - Vicky MBD: y el grupo B pues los otros
+20/10/20 12:25 - Vicky MBD: es decir los grupos se mantienen
+20/10/20 12:25 - Vicky MBD: Respecto a los examenes hay que hacer una cambio
+20/10/20 12:25 - Vicky MBD: He propuesto cambiar *bd y gobierno del dato* al miercoles 28 de 16 a 18h
+20/10/20 12:26 - Vicky MBD: y *arquitectura* al miercoles 4 de noviembre de 16 a 18h
+20/10/20 12:26 - Vicky MBD: cuando reciba respuesta de los profesores os lo comunico
+20/10/20 12:42 - Guillermo Valle MBD: No jajajaja
+20/10/20 12:47 - Andrés Jiménez: No me deja escribir ninguna query
+20/10/20 12:50 - Delia Clar MbD: Y como se en que grupo voy yo?
+20/10/20 12:50 - Delia Clar MbD: Para transformación de datos
+20/10/20 12:53 - Felipe D Navarro: A mi tampoco
+20/10/20 12:54 - Guillermo Valle MBD: Sisi está mal HUE habrá que decírselo a David
+20/10/20 12:54 - Felipe D Navarro: Ya me he quejado
+20/10/20 12:55 - Felipe D Navarro: Y dice q los de it lo estan mirando
+20/10/20 12:58 - Vicky MBD: CONFIRMADO
+20/10/20 12:58 - Vicky MBD: El examen de gobierno de dato queda fijado para el *miercoles 28 a las 16h*
+20/10/20 13:24 - +34 655 54 65 74: Gracias vickyy
+20/10/20 13:26 - Raúl Gómez Mbd: Graciaas
+20/10/20 13:28 - Miren Ostolaza: Gracias vicky !
+20/10/20 13:28 - Virginia Hernández MBD: 👌👌 gracias!
+20/10/20 13:28 - Virginia Hernández MBD: Por lo que he entendido si uno esta en el grupo A de tecnologías, también está en  el grupo A de Adquisición y transformación de datos no?
+20/10/20 13:31 - Virginia Hernández MBD: Yo estoy en el grupo A, a alguien que esté en el B le interesa cambiarse conmigo para la de Adquisición y transformación de datos (no para tecnología)?
+20/10/20 13:32 - Virginia Hernández MBD: Si es que eso es asi
+20/10/20 13:32 - Vicky MBD: Virginia eres grupo A lo acabo de mirar
+20/10/20 13:33 - Vicky MBD: tengo el listado por si alguien tiene duda me puede preguntar
+20/10/20 13:33 - Fran MASTER BD: Dónde está eso?
+20/10/20 13:33 - Vicky MBD: pero en principio es esto
+20/10/20 13:33 - Vicky MBD: no esta publico
+20/10/20 13:33 - Vicky MBD: dime tu apellido si quieres que te mire
+20/10/20 13:34 - Virginia Hernández MBD: Genial gracias!
+20/10/20 13:34 - Fran MASTER BD: Rodríguez
+20/10/20 13:34 - Virginia Hernández MBD: Entonces que alguien me avise si le interesa cambiarlo :)
+20/10/20 13:35 - Vicky MBD: grupo a
+20/10/20 13:36 - Vicky MBD: Chicos todos los que trabajais por la mñana y quereis cambiaros de A al B
+20/10/20 13:36 - Vicky MBD: escribidme y vamos a intentar solucionarlo
+20/10/20 13:38 - Fran MASTER BD: Eso es,¡gracias!
+20/10/20 13:38 - Vicky MBD: Cambio del A al B 
+Fran
+Virginia
+20/10/20 13:39 - Fran MASTER BD: Este mensaje fue eliminado
+20/10/20 13:40 - Vicky MBD: En adquisiscion y transformacion del dato dices no ?
+20/10/20 13:40 - Fran MASTER BD: Eso
+20/10/20 13:40 - Fran MASTER BD: Jajajaja, sorry
+20/10/20 13:43 - Virginia Hernández MBD: Ya he encontrado a alguien, me cambió con Maria Javierre!
+20/10/20 13:43 - Virginia Hernández MBD: Pero sólo para Adquisición y transformación del dato
+20/10/20 13:44 - Vicky MBD: Genial
+20/10/20 13:44 - Fran MASTER BD: Alguien se quiere cambiar del B al A en Adquisición de datos?
+20/10/20 13:44 - Fran MASTER BD: Que me escriba por privado
+20/10/20 13:44 - Vicky MBD: te encargas tu de escribir al profesor o lo hago yo ?
+20/10/20 13:44 - Virginia Hernández MBD: Lo puedo hacer yo ahora  no te preocupes:)
+20/10/20 13:50 - Vicky MBD: A ver, que el grupo se ha llenado de mensajes !
+20/10/20 13:50 - Vicky MBD: Os recuerdo
+20/10/20 13:50 - Laura Lucendo: Alguien me quiere cambir adquisicion del grupo B al A?
+20/10/20 13:51 - Vicky MBD: fran se queria cambiar
+20/10/20 13:52 - Laura Lucendo: Perfe! Thanks
+20/10/20 13:53 - Lidia Sanz: si alguien más se quiere cambiar en adquisición del dato del grupo B al A que me lo diga
+20/10/20 13:54 - Vicky MBD: Examen de *BD y gobierno del dato* miercoles 28 a las 16h
+20/10/20 13:54 - Vicky MBD: <Multimedia omitido>
+20/10/20 13:54 - Vicky MBD: *Los grupos del desdoble de tecnologia son los mismos que hasta ahora*
+20/10/20 13:55 - Vicky MBD: Los grupos de adquisicion son los siguientes:
+20/10/20 13:55 - Vicky MBD: (se supone que esto no lo puedo pasar pero esta siendo un jaleo)
+20/10/20 13:56 - Vicky MBD: <Multimedia omitido>
+20/10/20 13:56 - Vicky MBD: <Multimedia omitido>
+20/10/20 13:58 - Joege Gómez Berenguer: Yo también estoy interesado en pasar al grupo B!
+20/10/20 14:08 - Lidia Sanz: Vicky, en adquisición y transformación del dato nos cambiamos Eduardo Lobo por Lidia Sanz. El pasa al grupo A y yo paso al grupo B
+20/10/20 14:10 - Lidia Sanz: en tecnologías sigue todo como estamos ahora. Él en el grupo B y yo en el grupo A
+20/10/20 14:10 - Fran MASTER BD: En adquisición y transformación del dato nos cambiamos Laura Lucendo por Francisco Rodríguez . Ella pasa al grupo A y yo paso al grupo B.
+20/10/20 14:10 - Fran MASTER BD: Gracias Lidia por la plantilla 😄
+20/10/20 14:11 - Vicky MBD: Vale si queréis escribo yo de una todos los cambios al profesor
+20/10/20 14:11 - Vicky MBD: Para que no tenga mil correos diferentes
+20/10/20 14:11 - Fran MASTER BD: Perfect
+20/10/20 14:11 - Fran MASTER BD: Todavía falta el cambio de Jorge
+20/10/20 14:11 - Vicky MBD: Yo quiero cambiarme por el
+20/10/20 14:11 - Vicky MBD: Al a
+20/10/20 14:12 - Alejandro Polo MBD: Le he escrito
+20/10/20 14:12 - Alejandro Polo MBD: Y me ha dicho que es que sale en los dos grupos
+20/10/20 14:12 - Alejandro Polo MBD: Podemos poner el cambio
+20/10/20 14:12 - Alejandro Polo MBD: Puedes vicky ponerme que me cambio por el aunque salga en los dos grupos?
+20/10/20 14:12 - Fran MASTER BD: Qué crack
+20/10/20 14:13 - Vicky MBD: Joder me quería cambiar yo por el
+20/10/20 14:13 - Vicky MBD: Pero si
+20/10/20 14:13 - Vicky MBD: Te pongo
+20/10/20 14:18 - Monu MbD: Yo me quiero pasar al A tmbn
+20/10/20 14:24 - Andrés Jiménez: Yo al A también si alguien quiere pasarse al B
+20/10/20 14:25 - Eduardo Lobo: Yo tambien del B al A
+20/10/20 14:28 - Vicky MBD: CHICOS CREO QUE EL LISTADO QUE HE PASADO ESTA MAL
+20/10/20 14:28 - Vicky MBD: voy a enterarme y os confirmo de nuevo los grupos de adquisición y tecnología
+20/10/20 14:32 - Virginia Hernández MBD: Genial, gracias!
+20/10/20 14:33 - Vicky MBD: <Multimedia omitido>
+20/10/20 14:34 - Vicky MBD: ESTE ES EL DESDOBLE CORRECTO DE ADQUISICION
+20/10/20 14:34 - Monu MbD: Cambio grupo B por alguien del A
+20/10/20 14:34 - Andrés Jiménez: Ah el de antes no era ?
+20/10/20 14:34 - Vicky MBD: Yo tambien quiero irme al A
+20/10/20 14:34 - Vicky MBD: no
+20/10/20 14:34 - Alejandro Polo MBD: Yo mantengo el cambio con Jorge
+20/10/20 14:35 - Alejandro Polo MBD: Ósea Jorge al grupo B y yo al grupo A
+20/10/20 14:35 - Andrés Jiménez: Bueno pues yo ya no quiero cambio jajaja
+20/10/20 14:35 - Andrés Jiménez: No polo tú al b
+20/10/20 14:35 - Alejandro Polo MBD: Jajajaja
+20/10/20 14:35 - Vicky MBD: Si por fa repetirme los cambios despues de ver el nuevo corte
+20/10/20 14:36 - Virginia Hernández MBD: Yo del A al B, pero no tengo con quien cambiarme  por que María está en el A tambien
+20/10/20 14:36 - Monu MbD: Conmigo
+20/10/20 14:36 - Monu MbD: !!!!
+20/10/20 14:36 - Alicia Ocon: Yo quiero cambio del grupo B al A en adquisición y transformación del dato
+20/10/20 14:36 - Monu MbD: Me cambio con vir!!!!
+20/10/20 14:36 - Vicky MBD: conmigo por fa
+20/10/20 14:36 - Vicky MBD: no que yo he escrito antes lo del cambio de grupo
+20/10/20 14:36 - Monu MbD: Jjajjaja
+20/10/20 14:36 - Monu MbD: Q dices
+20/10/20 14:36 - Monu MbD: Jjajajajaja
+20/10/20 14:37 - Monu MbD: Manos rapidas
+20/10/20 14:37 - Andrés Jiménez: Hajahahahahahaha
+20/10/20 14:37 - Alicia Ocon: Quizás alguien más quiere pasarse del A al B
+20/10/20 14:37 - Monu MbD: Vir me cambio contigo
+20/10/20 14:38 - Virginia Hernández MBD: Yo mientras me cambiéis me da igual con quiem
+20/10/20 14:38 - Virginia Hernández MBD: Jaja
+20/10/20 14:38 - Vicky MBD: Lo llevo pidiendo desde hace más tiempo que tú
+20/10/20 14:38 - Monu MbD: Vale conmigo
+20/10/20 14:38 - Vicky MBD: A ver estado más rápido
+20/10/20 14:38 - Monu MbD: Jajajjajajajajaa
+20/10/20 14:38 - Natalia Gila: 😂😂😂
+20/10/20 14:38 - Andrés Jiménez: Manu la delegada tiene preferencia
+20/10/20 14:38 - Monu MbD: Q lo he dicho antes
+20/10/20 14:38 - Andrés Jiménez: <Multimedia omitido>
+20/10/20 14:38 - Monu MbD: Compadre
+20/10/20 14:39 - Ángel MBD: Yo quiero cambiarme del b al a
+20/10/20 14:39 - Vicky MBD: Es verdad
+20/10/20 14:39 - Vicky MBD: Lo has dicho tú antes
+20/10/20 14:39 - Alejandro Polo MBD: En adquisición y transformación del dato nos cambiamos Alejandro Polo por Jorge Gómez . Yo me paso al grupo A y el se pasa al grupo B. @34666065300
+20/10/20 14:40 - Vicky MBD: Lista cambios 
+Grupo A 
+Virginia Hernández x Manuel 
+Jorge Gómez  x  Alejandro Polo
+20/10/20 14:40 - Vicky MBD: Iros apuntando por fa que así es más fácil para escribir el correo
+20/10/20 14:40 - Monu MbD: Muchas graciasssss
+20/10/20 14:40 - Vicky MBD: Ah no
+20/10/20 14:40 - Vicky MBD: Lo he dicho yo mucho antes
+20/10/20 14:41 - Vicky MBD: Sorry compadre 🤣
+20/10/20 14:41 - Vicky MBD: Lista cambios 
+Grupo A 
+Virginia Hernández x Victoria Meseguer 
+Jorge Gómez  x  Alejandro Polo
+20/10/20 14:41 - Andrés Jiménez: <Multimedia omitido>
+20/10/20 14:41 - Monu MbD: Vamos a ver Vicky
+20/10/20 14:41 - Monu MbD: Has pasado el nuevo desdoble
+20/10/20 14:41 - Monu MbD: He dicho q quería el cambio
+20/10/20 14:41 - Monu MbD: Me has puesto en el cmabio
+20/10/20 14:42 - Monu MbD: Punto no hay mas
+20/10/20 14:42 - Monu MbD: Me parece patético hacer de esto una bola
+20/10/20 14:42 - Vicky MBD: Si Manu por fa
+20/10/20 14:42 - Vicky MBD: Mejor pasa pagina
+20/10/20 14:42 - Monu MbD: Si ha dicho Virginia q cambia su turno
+20/10/20 14:42 - Monu MbD: Y le he dicho q yo
+20/10/20 14:42 - Monu MbD: Q no entiendes de ahi
+20/10/20 14:42 - Fran MASTER BD: Perfect!
+20/10/20 14:42 - Monu MbD: Q vas a hacer lo q te salga del coño pq eres la delegada a
+20/10/20 14:42 - Monu MbD: Es lo qe estás dejando claro no?
+20/10/20 14:43 - Jose Fontecha: @34659238790 para delegado
+20/10/20 14:43 - Vicky MBD: Manu esta tarde hablamos en clase
+20/10/20 14:43 - Virginia Hernández MBD: Pero a mi ponme en el B porfa
+20/10/20 14:43 - Monu MbD: Q no hay nada que hablar q el turno para ti Victoria
+20/10/20 14:43 - Virginia Hernández MBD: Ya asume que estoy en el B no?
+20/10/20 14:43 - Andrés Jiménez: Este mensaje fue eliminado
+20/10/20 15:01 - Delia Clar MbD: Oye el trabajo extra de gobierno del dato, alguien no tiene pareja y quiere hacerlo conmigo? Que me rentaría mazo dividirlo
+20/10/20 15:01 - Lucia Poblador: Yo estoy en el grupo b. Alguien más del a quiere cambiarse al b?
+20/10/20 15:02 - Vicky MBD: Chicos de los cambios que me habeis escrito antes
+20/10/20 15:02 - Vicky MBD: por ahora solo tengo apuntados estos
+20/10/20 15:02 - Vicky MBD: .
+20/10/20 15:02 - +34 655 54 65 74: Yo tambien estoy en el b y quiero cambiar al a
+20/10/20 15:03 - Vicky MBD: Este mensaje fue eliminado
+20/10/20 15:03 - Vicky MBD: Este mensaje fue eliminado
+20/10/20 15:03 - Vicky MBD: iros apuntando los que os querias cambiar para que se haga por orden y no sea esto un mercado
+20/10/20 15:03 - Vicky MBD: *Lista para cambiarse del B al A*
+Edu Lobo
+Vicky
+Lucia
+Mery
+20/10/20 15:04 - Lucia Poblador: Manu tb
+20/10/20 15:04 - Vicky MBD: Manuel se va a cambiar por virgina
+20/10/20 15:04 - Miren Ostolaza: *Lista para cambiarse del B al A*
+Edu Lobo
+Vicky
+Lucia
+Mery
+Miren
+20/10/20 15:08 - Ángel MBD: *Lista para cambiarse del B al A*
+Edu Lobo
+Vicky
+Lucia
+Mery
+Miren
+Angel
+20/10/20 15:09 - Monu MbD: *Lista para cambiarse del B al A*
+Edu Lobo
+Manuel
+Lucia
+Mery
+Miren
+Angel
+20/10/20 15:10 - Sergio Rincón: *Lista para cambiarse del B al A*
+Edu Lobo
+Manuel
+Lucia
+Mery
+Miren
+Angel
+Sergio
+20/10/20 15:14 - Joege Gómez Lechón: @34606077431 cuando hagáis el cambio, aseguraros de decirle al profe que es Berenguer y no Lechon, que si no me cambian a mi!
+20/10/20 15:16 - Ángel MBD: *Lista para cambiarse del B al A*
+Edu Lobo
+Manuel
+Angel
+Lucia
+Mery
+Miren
+Sergio
+20/10/20 15:37 - Lucia Poblador: Estaría bien apuntarse en orden
+20/10/20 15:38 - Natalia Gila: 😂😂😂
+20/10/20 15:39 - Vicky MBD: Este mensaje fue eliminado
+20/10/20 15:39 - Ángel MBD: Lo había puesto antes y nadie me había metido en la lista
+20/10/20 15:39 - Ángel MBD: Por eso me he apuntado antes
+20/10/20 15:39 - Ángel MBD: La verdad es que estaría genial
+20/10/20 16:27 - Vicky MBD: Lo que me comentasteis ayer de retrasar la practica de machine learning
+20/10/20 16:27 - Vicky MBD: quereis que lo pida ?
+20/10/20 16:28 - Maria Javierre: Yo por mí sí. Va a terminar de dar este jueves todos los modelos que hay que incluir en la práctica
+20/10/20 16:28 - Raquel García Meneses: Por tb si
+20/10/20 16:28 - Raquel García Meneses: Por mi*
+20/10/20 17:13 - Sergio Rincón: Estaria bien sí🙏🏼
+20/10/20 17:14 - Natalia Gila: Sii por fi
+20/10/20 17:23 - Vicky MBD: Se lo he comentado antes de empezar la clase
+20/10/20 17:23 - Vicky MBD: me ha dicho que lo van a pensar y me dicen
+20/10/20 18:03 - Vicky MBD: El profesor de arquitectura mañana llegará tarde
+20/10/20 18:04 - Vicky MBD: *la clase empieza a las 18:30*
+21/10/20 11:30 - Vicky MBD: Hola a todos,
+
+Respecto a la fecha límite del Assignment de clasificación. La fecha límite original era el lunes 26 de octubre.
+
+Nos habéis pedido retrasar esta fecha porque tenéis un examen esta semana. En el pasado hemos tenido muy malas experiencias retrasando la entrega del Assignment, porque perjudica el aprendizaje en el tema de regresión etc.
+
+De todas formas, vamos a intentar ayudaros. Primero, os damos un día más - es decir, la fecha de entrega del Assignment será el martes 27 de octubre. Luego, si no os da tiempo de terminar el Assignment hasta el martes, vamos a permitir también que se entreguen Assignments incompletos (obviamente si faltan cosas, habrá un impacto en la nota del Assignment).
+
+Si queréis entregar tarde, vamos a permitirlo también esta vez (de forma excepcional), pero hay una penalización en la nota (un 10% de penalización por día de retraso).
+
+Después de la clase del jueves (donde comentaremos el MLP) en un principio ya tendréis todas las herramientas para completar vuestro Assignment. Obviamente si queréis entregar temprano y quitároslo de encima, se puede hacer también.
+
+Mucho ánimo y nos vemos en clase.
+Un saludo,
+Sonja & José
+21/10/20 13:14 - Vicky MBD: Alguien ha conseguido sacar el ultimo ejercicio de la practica de arquitectura ?
+21/10/20 13:14 - Vicky MBD: me sale este error
+21/10/20 13:14 - Vicky MBD: IOPub data rate exceeded.
+21/10/20 13:15 - Felipe D Navarro: No, comenta la linea donde imprime word y word count
+21/10/20 13:15 - Felipe D Navarro: Y se lo explicas
+21/10/20 13:15 - Raúl Gómez Mbd: A mí no me funciona ni comentando esa línea
+21/10/20 13:15 - Raúl Gómez Mbd: Me da un error de que no tiene suficiente RAM
+21/10/20 13:15 - Felipe D Navarro: El primero deberia, el segundonko
+21/10/20 13:15 - Raúl Gómez Mbd: Sí el primero sí
+21/10/20 13:16 - Raúl Gómez Mbd: El segundo es el que peta
+21/10/20 13:16 - Felipe D Navarro: Eso es el segundo de los archivos no?
+21/10/20 13:16 - Felipe D Navarro: Eso
+21/10/20 13:16 - Felipe D Navarro: Pero el error q dice ella es otro
+21/10/20 13:16 - Raúl Gómez Mbd: Ah okeey
+21/10/20 13:16 - Raúl Gómez Mbd: Entonces en el segundo archivo le ponemos que no tiene RAM suficiente?
+21/10/20 13:17 - Vicky MBD: y como ves los tiempos de ejecucion ?
+21/10/20 13:18 - Vicky MBD: eso entiendo yo
+21/10/20 13:18 - Fran MASTER BD: El tiempo de ejecución se puede ver con %%time
+21/10/20 13:19 - Fran MASTER BD: Lo pomes al principio de la celda de código
+21/10/20 13:19 - Fran MASTER BD: Es un jupyter magic command
+21/10/20 13:19 - Fran MASTER BD: Hay una buena lista y son bastante útiles
+21/10/20 13:23 - Vicky MBD: gracias Fran !!
+21/10/20 14:08 - Fran MASTER BD: 👍
+22/10/20 21:11 - Vicky MBD: alguien me dice como se borran tablas externas en hive ???
+22/10/20 21:11 - Vicky MBD: pls
+22/10/20 21:12 - Lucia Poblador: hdfs dfs -rm <location de la tabla>/*
+22/10/20 21:12 - Lucia Poblador: Para borrar los archivos
+22/10/20 21:12 - Lucia Poblador: Y luego drop table para borrar la tabla
+22/10/20 21:13 - +34 661 19 72 74: Lanza un create sin el external y luego haz un drop table
+22/10/20 21:21 - Vicky MBD: no me funcionan ninguna de las dos cosas 🙃
+22/10/20 21:21 - Vicky MBD: otra sugerencia ???
+22/10/20 21:26 - Lucia Poblador: La tabla está particionada?
+22/10/20 21:26 - Vicky MBD: las sin y con particion jajaj
+22/10/20 21:42 - Lucia Poblador: create show table usuario.nombretabla; (desde el edge)
+22/10/20 21:42 - Lucia Poblador: Copia el location de la tabla sin las comillas
+22/10/20 21:43 - Lucia Poblador: Esto para la sin particionar
+22/10/20 21:43 - Lucia Poblador: Hdfs dfs -rm -r <location de la tabla>/*
+22/10/20 21:43 - Lucia Poblador: Esto para la particionada
+22/10/20 21:43 - Lucia Poblador: Y: drop table usuario.nombretabla;
+22/10/20 21:43 - Lucia Poblador: Para borrar la tabla en las dos
+23/10/20 18:13 - Vicky MBD: Me han propuesto atrasar el examen intersemestral de machine learning una sesion ya que vamos una sesion atrasados
+23/10/20 18:13 - Vicky MBD: pasarlo del 10 de noviembre al 12
+23/10/20 18:14 - Vicky MBD: alguien NO quiere ?
+23/10/20 18:19 - ‎Adiran Mbd cambió el ícono de este grupo
+24/10/20 11:53 - Vicky MBD: <Multimedia omitido>
+24/10/20 13:28 - Lidia Sanz: sabéis como se cambia la escala de los gráficos en hue?
+24/10/20 16:05 - Vicky MBD: En gobierno del dato, donde estan las diapos de la 89 a las 169 ? que en moodle pegan un salto y no las encuentro
+24/10/20 21:44 - Felipe D Navarro: Ni idea, sorry
+24/10/20 21:57 - Monu MbD: No lo sé
+25/10/20 15:31 - Thomas Bustos: holaa
+25/10/20 15:31 - Thomas Bustos: a alguien le ha pasado eso y sabe solucionarlo ?
+25/10/20 15:32 - Thomas Bustos: <Multimedia omitido>
+25/10/20 15:32 - Thomas Bustos: <Multimedia omitido>
+25/10/20 15:32 - Thomas Bustos: <Multimedia omitido>
+25/10/20 15:32 - Thomas Bustos: Le agradecería mucho :p
+25/10/20 15:34 - Andrés Jiménez: Yo te recomendaría que no usases el serdeCsv para leerlo y que usases simplemente el field  y Line delimited
+25/10/20 15:34 - Andrés Jiménez: Como hicimos en clase y ya
+25/10/20 15:35 - Andrés Jiménez: Y no hace falta que almacenes como textfile
+25/10/20 15:37 - Fran MASTER BD: Yes
+25/10/20 15:46 - Thomas Bustos: Si utilizo el serseCsv es porque antes haciéndolo como lo hicimos en clase me daba el mismo error. Lo utilizo porque mi tabla tenía en algunos campos « » y dentro comas, lo cual hacía cosas raras porque estuve separando por comas.
+25/10/20 16:55 - Adiran Mbd: Si los campos <<>> que tienen las comas están todos en una misma columna, vete a excel y eliminala
+27/10/20 10:17 - Santiago Cebellán: Para que hora hay que entregar la práctica de Machine Learning?
+27/10/20 11:04 - Eladio Jiménez: Creo que a las 5pm
+27/10/20 11:23 - Ángel MBD: Si
+27/10/20 15:41 - Jacobo Azpeitia: Lo de machine learning se entrega en un zip con el informe y el código?
+27/10/20 15:41 - Alejandro Polo MBD: Es solo informe creo
+27/10/20 15:41 - Natalia Gila: el codigo creo que no se entrega
+27/10/20 15:42 - Vicky MBD: a mi me quiere sonar que codigo tambien se sube
+27/10/20 15:46 - +34 661 19 72 74: <Multimedia omitido>
+27/10/20 15:47 - +34 661 19 72 74: <Multimedia omitido>
+27/10/20 15:50 - Monu MbD: Lo tienen q subir todos los del equipo?
+27/10/20 15:51 - +34 661 19 72 74: Eso ya ni idea
+27/10/20 21:53 - Santiago Cebellán: A que hora es el examen mañana?
+27/10/20 21:55 - Jacobo Azpeitia: 4
+27/10/20 22:02 - Vicky MBD: Acordaros de traer boli para escribir que el examen es a papel
+28/10/20 11:47 - Vicky MBD: Buenos días,
+
+Espero que os encontréis bien. El  motivo de este correo es saber si hay algún caso positivo de COVID en el MBD para seguir protocolo establecido. Por favor es un tema muy importante para la salud de todos, por lo que os ruego si hay algún caso POSITIVO  que se ponga en contacto conmigo de manera urgente
+
+
+
+
+
+Un abrazo a todos
+28/10/20 11:47 - Vicky MBD: Correo de jose luis
+28/10/20 17:59 - Thomas Bustos: holaa
+28/10/20 17:59 - Thomas Bustos: alguien ya ha hecho el trabajo donde hay que denunciar al AEPD?
+28/10/20 20:55 - Jacobo Azpeitia: Vicky cambian al final el examen de machine learning?
+28/10/20 21:06 - Joege Gómez Lechón: Vicky la clase de Tecnologia hasta las 10 es muerte!
+28/10/20 21:07 - Andrés Jiménez: Que es esto de clase hasta las 10?
+28/10/20 21:07 - Joege Gómez Lechón: Los del grupo A seguimos en clase ahora mismo
+28/10/20 21:08 - Andrés Jiménez: Hostiaaaa
+28/10/20 21:10 - Vicky MBD: Perdonad que al final no lo comente
+28/10/20 21:10 - Vicky MBD: Mañana antes de clase se lo digo sin falta
+28/10/20 21:10 - Vicky MBD: Lo sé.
+28/10/20 21:11 - Vicky MBD: Mñana miro el horario detenidamente para intentar moverla
+28/10/20 21:11 - Vicky MBD: Aunque os comento que esa clase en dos semanas no va a ser un desdoble si no que será para toda la clase
+28/10/20 21:12 - Vicky MBD: Mañana lo voy a mirar y como el viernes me reúno con coordinación lo propongo
+28/10/20 21:12 - Vicky MBD: De todas maneras si alguno ve una posible solución que me la comente por si acaso a mi no se me ocurre
+28/10/20 21:55 - Virginia Hernández MBD: A lo mejor se puede mover la de adquisición y la de tecnologías una hora antes?
+28/10/20 21:56 - +34 626 34 96 30: La cosa es que los del doble tienen que poder también
+28/10/20 21:58 - Lucia Poblador: Nos ha dicho patricia también que quiere que le propongamos los de lunes y martes fechas para poner la clase extra
+28/10/20 21:58 - Lucia Poblador: Siempre y cuando sea después de las 15
+28/10/20 22:03 - Virginia Hernández MBD: Ah pensaba que el miércoles no había desdoble antes de adquisición perdon
+28/10/20 22:40 - Vicky MBD: Ya me lo han comentado Mñana lo miro también
+29/10/20 15:22 - +34 661 19 72 74: Y si graba la clase y cada uno la ve cuando puede ?
+29/10/20 15:24 - Lucia Poblador: Os va bien el viernes de 3 a 5?
+29/10/20 15:24 - Lucia Poblador: Que la clase de adquisición se repite luego
+29/10/20 15:33 - Vicky MBD: es mejor intentar no ponerla a las 3 porque ella va pillada de tiempo y al final damos menos clase
+29/10/20 15:33 - Vicky MBD: cuanta gente del *grupo B de tecnologia* va al *grupo A de adquisicion* ?
+29/10/20 15:36 - Natalia Gila: yo
+29/10/20 15:36 - Maria Garcia Spinola: Yo
+29/10/20 15:38 - Vicky MBD: 1 Natalia 
+2 María 
+3 Andrés 
+4 Ignacio 
+5 ander 
+6 vicky
+29/10/20 15:39 - Álvaro Fortún: 1 Natalia 
+2 María 
+3 Andrés 
+4 Ignacio 
+5 ander 
+6 vicky
+7 Álvaro
+29/10/20 15:40 - +34 603 47 27 49: 1 Natalia 
+2 María 
+3 Andrés 
+4 Ignacio 
+5 ander 
+6 vicky
+7 Álvaro
+8 Corina
+29/10/20 15:41 - Raúl Gómez Mbd: 1 Natalia 
+2 María 
+3 Andrés 
+4 Ignacio 
+5 ander 
+6 vicky
+7 Álvaro
+8 Corina
+9 Raúl
+29/10/20 16:01 - Monu MbD: 1 Natalia 
+2 María 
+3 Andrés 
+4 Ignacio 
+5 ander 
+6 vicky
+7 Álvaro
+8 Corina
+9 Raúl
+10 Manuel
+29/10/20 16:02 - Maria Javierre: 1 Natalia 
+2 María 
+3 Andrés 
+4 Ignacio 
+5 ander 
+6 vicky
+7 Álvaro
+8 Corina
+9 Raúl
+10 Manuel
+11 María J.
+29/10/20 16:03 - Vicky MBD: Por favor apuntaros si estais en la lista del grupo A de adquisicion
+29/10/20 16:03 - Vicky MBD: no si vais por vuestra cuenta a la clase A
+29/10/20 16:10 - Jose Fontecha: 1 Natalia 
+2 María 
+3 Andrés 
+4 Ignacio 
+5 ander 
+6 vicky
+7 Álvaro
+8 Corina
+9 Raúl
+10 Manuel
+11 María J.
+12 Nacho
+29/10/20 17:24 - Vicky MBD: Este mensaje fue eliminado
+29/10/20 17:24 - Vicky MBD: Respecto al examen de machine learning les parece bien moverlo al 12 de noviembre pero me confirmaran por email luego
+29/10/20 17:26 - Vicky MBD: La clase extra de tecnologia para el *grupo B* sera el miercoles 11 de noviembre de 16 a 18h
+29/10/20 17:42 - Jacobo Azpeitia: 1 Natalia 
+2 María 
+3 Andrés 
+4 Ignacio 
+5 ander 
+6 vicky
+7 Álvaro
+8 Corina
+9 Raúl
+10 Manuel
+11 María J.
+12 Nacho
+13 Jacobo
+29/10/20 17:43 - Vicky MBD: ya no hace falta que os apunteis era para buscar un hueco para tecnologia pero ya esta solucionado
+29/10/20 19:20 - +34 659 01 22 44: Chicos no se nos oye por Teams
+29/10/20 19:20 - +34 659 01 22 44: Le podéis decir que active la cámara
+29/10/20 19:20 - +34 659 01 22 44: Por favor?
+29/10/20 19:21 - +34 652 56 91 66: esta en ello
+29/10/20 19:21 - +34 659 01 22 44: Ya esta, mil gracias
+29/10/20 21:08 - Vicky MBD: Hola Victoria.
+
+Te escribo para informarte sobre como marcha el proceso de corrección de vuestros exámenes, porque me imagino que algunos de vosotros podéis estar inquietos sin tener noticias de mi desde hace días. 
+
+Me gustaría pedirte que transmitieras a la gente de clase que estoy trabajando todo lo rápido que puedo para que tengáis esas notas lo antes posible. Pero la corrección está siendo bastante laboriosa (desde hace varios días, y desde luego toda esta semana, apenas hago otra cosa por las tardes que corregir vuestros exámenes). Y no he querido adelantar resultados hasta poder daros las notas a todos a la vez. 
+
+Pero al ritmo al que avanzo ya tengo claro que salvo imprevistos las notas del examen estarán listas mañana al final de la tarde, así que solo os pido un poco de paciencia más. 
+
+Gracias y saludos.
+29/10/20 21:08 - Vicky MBD: Correo de Fernando
+29/10/20 21:14 - Jacobo Azpeitia: Y de los proyectos no te dice nada?
+29/10/20 21:14 - Jacobo Azpeitia: A mi sigue sin contestarme al correo
+29/10/20 21:15 - Vicky MBD: A mi tampoco me ha dicho nada
+29/10/20 21:15 - Vicky MBD: quereis que pregunte sobre ello? si podemos empezar la practica sin su visto bueno y la fecha de entrega ?
+29/10/20 21:15 - +34 655 54 65 74: Sii
+29/10/20 21:15 - Andrés Jiménez: Si aunque bueno supongo que a partir de mañana que termine exámenes
+29/10/20 21:16 - Andrés Jiménez: Vera lo de los proyectos
+29/10/20 21:41 - Vicky MBD: Mñana cuando publique las notas se lo comento
+29/10/20 22:46 - Fran MASTER BD: Mañana hay casos de uso?
+29/10/20 23:11 - Vicky MBD: Si
+29/10/20 23:27 - Fran MASTER BD: Gracias!
+30/10/20 17:41 - Vicky MBD: He hablado con Fernando de fund matematicos
+30/10/20 17:42 - Vicky MBD: en principio la semana que viene se va a contestar  los correos respecto la practica final
+30/10/20 17:42 - Vicky MBD: pero que en principio confia en nosotros y supone que no tendra que echar muchas practicas para atras
+30/10/20 17:42 - Andrés Jiménez: y los examenes los sube hoy no?
+30/10/20 17:42 - Vicky MBD: el plazo de entrega es para antes de diciembre
+30/10/20 17:43 - Vicky MBD: eso me dijo
+31/10/20 15:53 - Fran MASTER BD: Una pregunta
+31/10/20 15:54 - Fran MASTER BD: El examen de Arquitectura iba a ser a boli y dijo lo que iba entrar, con algunos ejercicios.
+31/10/20 15:54 - Fran MASTER BD: Pero, dijo si iba a ser test la mayor parte o preguntas cortas?
+31/10/20 15:55 - Andrés Jiménez: Creo que test no
+31/10/20 15:55 - Andrés Jiménez: No me suena eso
+31/10/20 15:55 - Andrés Jiménez: Todo redactado
+3/11/20 14:07 - Vicky MBD: <Multimedia omitido>
+4/11/20 18:38 - +34 655 54 65 74: <Multimedia omitido>
+4/11/20 18:38 - Miguel MBD: Soy yo!
+4/11/20 18:41 - Alejandro Polo MBD: <Multimedia omitido>
+4/11/20 18:41 - Natalia Gila: Y luis?
+4/11/20 18:41 - Natalia Gila: El que empieza por 2015
+4/11/20 19:44 - Vicky MBD: Este mensaje fue eliminado
+4/11/20 19:44 - Vicky MBD: Este mensaje fue eliminado
+5/11/20 18:38 - Vicky MBD: Alguien de segundo de teleco me podria pasar el contacto de su delegado ???
+5/11/20 19:09 - +34 649 24 02 34: Soy yo
+8/11/20 12:19 - Vicky MBD: <Multimedia omitido>
+8/11/20 13:51 - Vicky MBD: el examen de machine
+8/11/20 13:52 - Vicky MBD: dijo que iba a ser como el hackathon en el sentido que ibamos a tener dos set de datos uno para el trainnig y otro para el test
+8/11/20 13:52 - Vicky MBD: o va a ser como las practicas??
+8/11/20 13:53 - +34 644 45 11 86: Como el assignment, no esperan que saquemos el mejor modelo si no que sepas cual usar y como hacerlo
+10/11/20 11:39 - Felipe D Navarro: La clase extra de tecnologias cuando es al final? Mañana?
+10/11/20 11:39 - Vicky MBD: El miercoles que viene
+10/11/20 12:43 - Felipe D Navarro: Ok, gracias
+10/11/20 19:21 - Vicky MBD: Buenas tardes;
+ 
+sintiéndolo mucho, no he conseguido ningún hueco compatible con cambiar la clase de Casos de negocio del viernes 13 de noviembre (el 11 no puede ser por una optativa por lo visto), por lo que el viernes 13 no habrá clase de casos de negocio y la recuperaremos más adelante, quizás aprovechando con algún ponente que no pueda el viernes.
+ 
+Disculpar las molestias,
+ 
+Un saludo
+10/11/20 19:23 - Vicky MBD: Chicos a partir de la semana que viene cambia el horario
+10/11/20 19:24 - Vicky MBD: <Multimedia omitido>
+10/11/20 19:24 - Vicky MBD: Voy preguntar lo de mañana
+10/11/20 20:28 - Thomas Bustos: Holaa
+10/11/20 20:29 - Thomas Bustos: En adquisición donde sons las videos que explican cómo instalar todo lo básico ?
+10/11/20 21:21 - Guillermo Valle MBD: En las diapositivas de la clase de la semana pasada había unos enlaces creo
+10/11/20 22:43 - Thomas Bustos: Gracias
+10/11/20 22:44 - Thomas Bustos: A vosotros os funcionan las aules virtuales y el edge ?
+10/11/20 22:51 - Eladio Jiménez: Sí!
+10/11/20 22:54 - Virginia Hernández MBD: creo que lo que son las aulas virtuales las apagan por la noche!
+10/11/20 23:03 - Thomas Bustos: <Multimedia omitido>
+10/11/20 23:03 - Thomas Bustos: tengo este mensaje, es en francés perdón jaja
+11/11/20 10:12 - Virginia Hernández MBD: Se sabe ya qué día es cada examen en diciembre?
+11/11/20 10:14 - Delia Clar MbD: Lunes 21 es el de adquisición
+11/11/20 10:16 - Virginia Hernández MBD: Vale genial gracias! Y te lo han dicho directamente o lo has leído en algún sitio?
+11/11/20 10:17 - Delia Clar MbD: Es que es la única que tengo con vosotros y yo si tengo el calendario de exámenes
+11/11/20 10:18 - Virginia Hernández MBD: Y donde lo ves para mirar si también está el de MBD?
+11/11/20 10:18 - Delia Clar MbD: Me lo han pasado los delegadoss
+11/11/20 10:20 - Raquel García Meneses: Pero creo que se puede ver aquí
+11/11/20 10:20 - Raquel García Meneses: https://www.icai.comillas.edu/es/documentos
+11/11/20 10:20 - Raquel García Meneses: <Multimedia omitido>
+11/11/20 10:20 - Raquel García Meneses: Pero esta los del año pasado
+11/11/20 10:21 - Eduardo Lobo: Tenemos reunión este viernes los delegados con Gahete para hablar de esto justo
+11/11/20 10:22 - Virginia Hernández MBD: Okkk y no hay nada de nada preliminar todavía?
+11/11/20 10:23 - Virginia Hernández MBD: Gracias!
+11/11/20 11:09 - Eduardo Lobo: <Multimedia omitido>
+11/11/20 11:24 - Virginia Hernández MBD: Vale gracias!
+11/11/20 11:25 - Vicky MBD: Hemos enviado la propuesta espero a finales de semana tenerlo aprobado por José Luis
+11/11/20 11:25 - Vicky MBD: Empezamos el 14 y terminamos el 21
+11/11/20 11:25 - Virginia Hernández MBD: Cual es la propuesta?
+11/11/20 11:26 - Vicky MBD: <Multimedia omitido>
+11/11/20 11:27 - Vicky MBD: Chicos hoy hay horario de miércoles normal! No sé Inter manía tecnología por casos de estudio
+11/11/20 11:27 - Vicky MBD: Hay el desdoble de 8:10 como siempre !
+11/11/20 11:29 - Virginia Hernández MBD: Vale gracias!
+11/11/20 11:41 - Lidia Sanz: se puede votar para la decha del examen de casos de estudio?
+11/11/20 11:41 - Lidia Sanz: fecha*
+11/11/20 11:41 - Vicky MBD: Si !
+11/11/20 11:41 - Eduardo Lobo: Igual podiamos ponerla el ultimo dia de clase, como decia JL
+11/11/20 11:42 - Vicky MBD: Poned sugerencias
+11/11/20 11:42 - Vicky MBD: Y hago una encuesta
+11/11/20 11:49 - +34 649 24 02 34: Los del doble ya tenemos un examen el sábado 19 (que no se puede cambiar porque es común para todo segundo de máster), así que tendría que ser el martes 22 u otro día que cuadremos
+11/11/20 11:50 - +34 659 01 22 44: Casos de estudio no es anual?
+11/11/20 12:03 - Lidia Sanz: a mi el 22 me parece bien
+11/11/20 12:03 - Vicky MBD: Podemos sugerir o martes 22 o último día de clase
+11/11/20 12:07 - +34 649 24 02 34: Por nosotros perfecto, gracias!
+11/11/20 17:39 - Vicky MBD: <Multimedia omitido>
+11/11/20 17:41 - Vicky MBD: https://forms.gle/vWcAc92NLh73B5Vv8
+11/11/20 17:41 - Vicky MBD: LINK para votar la fecha del examen de casos de estudio
+11/11/20 17:42 - Vicky MBD: he añadido la opcion me da igual asi que por favor votad todos para saber cuando puedo cerrar la encuesta
+11/11/20 17:42 - Vicky MBD: gracias
+12/11/20 1:02 - Santiago Cebellán: A que hora es el examen?
+12/11/20 1:03 - Thomas Bustos: 17 creo
+12/11/20 1:03 - Santiago Cebellán: Vale gracias
+12/11/20 9:59 - Maria Javierre: Al final en la clase de tecnologías de hoy estamos todos juntos,no? Y sabemos a qué hora es al final?
+12/11/20 10:00 - Andrés Jiménez: A las 7
+12/11/20 10:02 - Aitor MBD: La clase de tecnologias del grupo B a las 15:00 la han quitado?
+12/11/20 10:02 - Raquel García Meneses: Yo creo que los lunes y miércoles comun pero jueves nos separan
+12/11/20 10:02 - Raquel García Meneses: Eso entendí yo
+12/11/20 10:03 - Vicky MBD: Chicos no metáis bulos por favor jajaj
+12/11/20 10:03 - Vicky MBD: Hay desdoble como siempre
+12/11/20 10:03 - Raquel García Meneses: <Multimedia omitido>
+12/11/20 10:05 - Maria Javierre: Es que patricia dijo en clase que el otro profe siempre daba la primera clase sin desdoble porque no hacía desdoble en todas
+12/11/20 10:05 - Vicky MBD: Perdonad no es este mensaje
+12/11/20 10:06 - Vicky MBD: <Multimedia omitido>
+12/11/20 10:06 - Vicky MBD: <Multimedia omitido>
+12/11/20 10:07 - Maria Javierre: Gracias!
+12/11/20 10:08 - ‎Adiran Mbd cambió el ícono de este grupo
+12/11/20 10:09 - Vicky MBD: Perdonad que pensaba que lo había enviado
+12/11/20 10:21 - Maria Javierre: Nada 😊
+12/11/20 10:37 - Andrés Jiménez: Ah vale gracias. Es que lo último que habían dicho era que el jueves no se desdoblaba
+12/11/20 12:43 - Vicky MBD: https://forms.gle/vWcAc92NLh73B5Vv8
+12/11/20 12:43 - Vicky MBD: Van 25 respuestas !
+12/11/20 12:43 - Vicky MBD: Mañana tenemos que decir a jose luis lo que hemos decidido
+12/11/20 12:43 - Vicky MBD: asi que teneis hasta esta noche para votar !
+12/11/20 12:48 - +34 644 45 11 86: Yo ya he votado
+12/11/20 12:49 - Ander Gurtubay: Y yo
+13/11/20 15:33 - Virginia Hernández MBD: Hay noticias de las fechas de exámenes? :)
+13/11/20 15:35 - Vicky MBD: Si, a jose Luis le ha parecido bien asi que si no surge ningun problema
+13/11/20 15:35 - Vicky MBD: los examenes seran
+13/11/20 15:36 - Vicky MBD: Casos de estudio: viernes 11 
+Machine learning: lunes 14 
+Tecnologia: jueves 17 
+Adquisicion: lunes 21
+13/11/20 15:37 - Vicky MBD: Los examenes seran en turno de tarde y he pedido que no los pongan a las 3 para los que trabajais
+13/11/20 15:37 - Vicky MBD: pero creo que podeis pedir ese dia libre por examen final
+13/11/20 15:41 - Aitor MBD: Hoy hay clase de casos de estudio?
+13/11/20 15:42 - Raúl Gómez Mbd: Noo
+13/11/20 15:46 - Aitor MBD: Valee, gracias
+13/11/20 15:49 - Virginia Hernández MBD: Genial gracias!
+13/11/20 15:50 - Virginia Hernández MBD: Fenomenal!!
+13/11/20 15:50 - Fran MASTER BD: 👍👍👍👍👍
+13/11/20 15:56 - ‎+34 648 77 94 78 cambió la descripción del grupo
+15/11/20 14:15 - Raúl Gómez Mbd: <Multimedia omitido>
+15/11/20 14:15 - Raúl Gómez Mbd: Es que nos da a varios y no sabemos arreglarlo
+15/11/20 14:15 - Raúl Gómez Mbd: Y creemos que puede ser tema de permisos
+15/11/20 14:16 - Vicky MBD: 20/11/15 14:16:22 INFO avro.ReliableSpoolingFileEventReader: Last read was never committed - resetting mark position.
+20/11/15 14:16:22 WARN source.SpoolDirectorySource: The channel threw an exception, and cannot write data now. The source will try again after 4000 milliseconds
+15/11/20 14:16 - Vicky MBD: a mi me da este error
+15/11/20 14:17 - Vicky MBD: si alguien le ha salido y sabe arreglarlo 🙏🏻
+15/11/20 14:18 - Natalia Gila: Me pasa lo mismo
+15/11/20 14:21 - Raúl Gómez Mbd: Qué tamaño de canal tienes puesto?
+15/11/20 14:21 - Raúl Gómez Mbd: A lo mejor es demasiado pequeño
+15/11/20 14:21 - Vicky MBD: 100 10 pero antes tenia 1000
+15/11/20 14:22 - Vicky MBD: lo he ido variando
+15/11/20 14:22 - Raúl Gómez Mbd: Yo lo tengo a 1000 y 500
+15/11/20 14:23 - Raúl Gómez Mbd: Mira a ver si con eso cambia algo
+15/11/20 14:23 - Joege Gómez Berenguer: Eso es! Subiendo el segundo valor, no da error
+15/11/20 14:27 - Vicky MBD: me ha funcionado
+15/11/20 14:28 - Vicky MBD: gracias !!!
+16/11/20 19:50 - Vicky MBD: alguien tiene un ibuprofeno en clase ?
+17/11/20 16:26 - Ángel MBD: Alguien tiene la vpn en mac?
+17/11/20 16:27 - Vicky MBD: sii
+17/11/20 16:27 - Vicky MBD: la aplicacion que da david no va para mac
+17/11/20 16:27 - Vicky MBD: tienes que descargarte
+17/11/20 16:27 - Vicky MBD: tunnelblick
+17/11/20 16:27 - Raquel García Meneses: Yo si
+17/11/20 16:28 - Raquel García Meneses: Justo
+17/11/20 16:28 - Ángel MBD: Vale, era justo lo que me pasaba
+17/11/20 16:28 - Ángel MBD: Gracias!
+17/11/20 16:28 - Raquel García Meneses: Y tienes que cambiar lo que te dice en el pdf
+17/11/20 16:28 - Ángel MBD: El resto es igual que con la app que dice david?
+17/11/20 16:28 - Raquel García Meneses: Más o menos
+17/11/20 16:29 - Raquel García Meneses: No me acuerdo muy bien
+17/11/20 16:29 - Raquel García Meneses: Si quieres ahora te enseño como se hace
+17/11/20 16:29 - Raquel García Meneses: Que lo comparo con lo mío
+17/11/20 16:30 - Ángel MBD: Vale, genial
+17/11/20 18:33 - Raúl Gómez Mbd: Vicky la clase extra de tecnología cuando es?
+17/11/20 18:34 - Vicky MBD: mañana a las 16 horas
+17/11/20 18:34 - Raúl Gómez Mbd: Okey gracias!
+17/11/20 18:37 - Vicky MBD: La clase extra va a ser presencial en el aula de siempre !!!!
+17/11/20 18:37 - Vicky MBD: me lo acaba de confirmar patricia por correo
+17/11/20 18:43 - Maria Javierre: Este mensaje fue eliminado
+17/11/20 20:49 - Jacobo Azpeitia: Podeis pasar el enlace de la tutoría de adquisición porfa?
+18/11/20 15:12 - Delia Clar MbD: Las practicas de adquisicion
+18/11/20 15:12 - Delia Clar MbD: para cuando son?
+18/11/20 15:12 - Fran MASTER BD: Para el fin del cuatrimestre
+18/11/20 15:27 - Maria Javierre: No ha puesto fecha pero Dani dijo que no las corregiría antes de navidad y que nos daría la nota en enero
+18/11/20 16:14 - Vicky MBD: Hoy lo pregunto en clase la fecha exacta
+18/11/20 18:58 - Vicky MBD: Las practicas de adquisicion tienen como fecha de entrega *24 de diciembre*
+18/11/20 19:07 - Jacobo Azpeitia: Gracias Vicky
+18/11/20 20:13 - Thomas Bustos: <Multimedia omitido>
+18/11/20 20:14 - Thomas Bustos: Nvm problem solved :)
+19/11/20 16:27 - Thomas Bustos: Holaa
+19/11/20 16:28 - Thomas Bustos: Alguien ha hecho los ejercicios de technologia (Python) y me podría ayudar ?
+19/11/20 17:43 - Eladio Jiménez: Acabo de verlo Thomas!
+19/11/20 17:43 - Eladio Jiménez: Yo te ayudo
+19/11/20 17:47 - Virginia Hernández MBD: alguien podria pedir que enfoque la camara a la pizarra porfa!
+19/11/20 17:48 - Virginia Hernández MBD: gracias! :))
+20/11/20 12:01 - Santiago Cebellán: No encuentro el enunciado de la práctica de Machine Learning
+20/11/20 12:05 - Felipe D Navarro: Xq no esta
+20/11/20 17:14 - +34 661 19 72 74: Alguien tiene el enlace de la clase?
+20/11/20 17:15 - +34 661 19 72 74: Gracias
+20/11/20 17:15 - +34 661 19 72 74: <Multimedia omitido>
+20/11/20 17:23 - +34 661 19 72 74: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQyOThjMTktZmNiYi00YTQxLWFiNjQtODE4MDE4NWRiZTA3%40thread.v2/0?context=%7b%22Tid%22%3a%22bcd2701c-aa9b-4d12-ba20-f3e3b83070c1%22%2c%22Oid%22%3a%2213ec3aee-7970-46f7-a465-75187ccd6624%22%7d"
+23/11/20 17:14 - Guillermo Valle MBD: Podéis pedirle que active el audio??
+23/11/20 17:17 - Vicky MBD: sigues sin escuchar ?
+23/11/20 17:17 - Vicky MBD: es que no me hace caso 🙄
+23/11/20 17:20 - Guillermo Valle MBD: Si
+23/11/20 17:20 - Guillermo Valle MBD: Jajaja
+23/11/20 17:22 - Adiran Mbd: Yo si que le escucho
+23/11/20 17:23 - Guillermo Valle MBD: Ah pues no digáis nada
+23/11/20 17:23 - Guillermo Valle MBD: Ahora miro que rs
+23/11/20 17:24 - Guillermo Valle MBD: Ya está se había rayado
+23/11/20 17:24 - Guillermo Valle MBD: Gracias 😊
+23/11/20 18:28 - Vicky MBD: Esto es especialmente interesante para alumnos de Teleco de la Escuela.
+Nos lo envían compañeros de promociones anteriores que ahora trabajan en Google y animan a los ICAI a asistir.
+
+El próximo 26 de Noviembre de 2020 hay un evento online de promoción de Google. Entiendo que fundamentalmente estará orientado a contratación de alumnos de nivel master, pero también me han comentado que están organizando ahora las becas de prácticas para verano y eso puede interesar casi a todos.
+
+En este enlace proporcionamos más detalles sobre el evento: https://events.withgoogle.com/road-to-google-2020/
+
+RAFAEL
+23/11/20 18:49 - Guillermo Valle MBD: decidle que si
+23/11/20 19:32 - Fran MASTER BD: Se ha ido el wifi
+23/11/20 19:32 - Fran MASTER BD: Aviso para remotos
+23/11/20 19:33 - Fran MASTER BD: Hasta que vuelva está continuando con la clase
+23/11/20 19:41 - Fran MASTER BD: Se ha vuelto a ir
+23/11/20 19:41 - Guillermo Valle MBD: Jajajaja antes iba bien
+23/11/20 19:41 - Guillermo Valle MBD: Se ha parado hace nada
+23/11/20 21:36 - Santiago Cebellán: Alguien sabe si nos darán días libres antes de los exámenes?
+23/11/20 21:38 - Virginia Hernández MBD: Creo que hasta el 11 hay clase
+23/11/20 21:55 - Adiran Mbd: Las clases suelen acabar bastante cerca de los examenes
+23/11/20 21:56 - Santiago Cebellán: Vale gracias
+24/11/20 11:41 - Santiago Cebellán: Este mensaje fue eliminado
+24/11/20 11:41 - Fran MASTER BD: Este mensaje fue eliminado
+24/11/20 11:41 - Fran MASTER BD: Este mensaje fue eliminado
+24/11/20 11:42 - Santiago Cebellán: Este mensaje fue eliminado
+24/11/20 11:42 - Fran MASTER BD: Este mensaje fue eliminado
+24/11/20 11:43 - Santiago Cebellán: Que nos hemos equivocado de grupo
+24/11/20 13:55 - Thomas Bustos: Donde esta la práctica de tecnología con Jorge ?
+24/11/20 14:31 - Felipe D Navarro: No está subida creo
+24/11/20 18:07 - Virginia Hernández MBD: le podeis pedir que centre la camara a la pizarra porfa
+25/11/20 12:14 - Vicky MBD: Chicos
+25/11/20 12:15 - Vicky MBD: Cuando queréis fijar la entrega de la práctica de Jorge de tecnología?
+25/11/20 12:17 - Virginia Hernández MBD: Al terminar el puente por ejemplo? Si se solapa con la siguiente práctica en cuanto a plazos no pasaría nada
+25/11/20 12:36 - Vicky MBD: Os parece para el último de clase ?
+25/11/20 12:37 - Vicky MBD: Viernes 11
+25/11/20 12:41 - Felipe D Navarro: Ok
+25/11/20 12:41 - Miguel MBD: ok
+25/11/20 13:07 - Andrés Jiménez: Donde están los ejercicios publicados ?
+25/11/20 13:24 - +34 626 34 96 30: Los ha subido al Moodle
+26/11/20 20:17 - Laura Lucendo: Hola! Porfavor me he olvidado mi paraguas colgado en los percheros de la pared
+26/11/20 20:17 - Laura Lucendo: Justo al lado de la television
+26/11/20 20:18 - Laura Lucendo: Alguno me lo podria coger y guardarmelo?
+26/11/20 20:23 - Alejandro Polo MBD: Te lo cojo yo lau
+26/11/20 20:23 - Alejandro Polo MBD: Recuérdamelo a las 8:50 porfa
+26/11/20 20:31 - Laura Lucendo: Vale genial!! Mil gracias!!
+28/11/20 10:33 - Santiago Cebellán: Alguien sabe donde está subido el calendario de exámenes?
+28/11/20 10:40 - Vicky MBD: Adquisición y tecnología son a las 15h
+28/11/20 10:40 - Vicky MBD: Machine a la hora de clse
+28/11/20 10:43 - Santiago Cebellán: Pero que días?
+28/11/20 10:44 - +34 655 54 65 74: <Multimedia omitido>
+28/11/20 10:44 - Santiago Cebellán: Es que dijo ayer que lo había subido, pero soy incapaz de encontrarlo. No sé si solo me pasa a mi
+28/11/20 10:44 - Santiago Cebellán: Ah vale, no lo había visto, gracias
+28/11/20 10:46 - Vicky MBD: Yo tampoco sé dónde está 🤷🏼‍♀️
+28/11/20 10:49 - Santiago Cebellán: Yo pienso que es error suyo diseñando la página web. Pasa lo mismo con los horarios, son muy difíciles de encontrar
+28/11/20 10:55 - Santiago Cebellán: Por cierto, ayer nos dijo el de adquisición que el solo pone el examen porque le obligan desde dirección. Que pondrá un tipo test muy fácil y punto.
+28/11/20 10:57 - Santiago Cebellán: Podríamos pedirle que lo haga online, como hicimos el de arquitectura. Así los que somos de fuera de Madrid podemos volvernos a casa el 18 después del examen de Tecnología en vez de tener que esperar a hacer Adquisición.
+28/11/20 10:57 - Santiago Cebellán: Que os parece?
+28/11/20 11:00 - Andrés Jiménez: Pues si
+28/11/20 11:13 - Eladio Jiménez: Buena idea
+28/11/20 12:36 - Felipe D Navarro: Buena idea
+1/12/20 11:41 - Vicky MBD: Chicos
+1/12/20 11:42 - Vicky MBD: me podeis dar vuestra opinion sobre el examen de casos de estudio ?
+1/12/20 11:42 - Fran MASTER BD: Que no es necesario 😄
+1/12/20 11:42 - +34 655 54 65 74: Tal cual
+1/12/20 11:42 - Laura Lucendo: Totalmente jajajajajaja
+1/12/20 11:42 - Laura Lucendo: Esq no hemos dado nada diria yo
+1/12/20 11:42 - Vicky MBD: yo estuve hablando con él el viernes y comentamos la opcion de como no hemos visto casi temario retrasar el examen
+1/12/20 11:42 - Laura Lucendo: Que pueda ser materia de examen
+1/12/20 11:42 - +34 655 54 65 74: Que ponga otra practica si no y ya
+1/12/20 11:43 - +34 655 54 65 74: O lo aplace
+1/12/20 11:43 - Vicky MBD: quitarlo no lo va a quitar porque le obligan a hacer un examen por cuatri
+1/12/20 11:43 - Vicky MBD: pero si lo podemos aplazar a enero
+1/12/20 11:43 - Vicky MBD: igual se lo voy a proponer pero no creo
+1/12/20 11:43 - Lidia Sanz: mejor en enero
+1/12/20 11:47 - Vicky MBD: os ha llegado la convocatoria para la tutoria de adquisicion ?
+1/12/20 11:48 - Jacobo Azpeitia: Yo creo que hacerlo en enero no aporta nada respecto a hacerlo en diciembre
+1/12/20 11:48 - Álvaro Otaduy MBD: Yo lo mismo
+1/12/20 11:48 - Vicky MBD: no entiendo a que te refieres
+1/12/20 11:49 - Jose Fontecha: Igual
+1/12/20 11:49 - Vicky MBD: pero aclaro que hacerlo en enero no es hacerlo la primera semana de enero
+1/12/20 11:49 - Jacobo Azpeitia: Vamos a seguir teniendo clase de esto en enero?
+1/12/20 11:49 - Álvaro Otaduy MBD: seria ya cuando ya hemos empezado clases?
+1/12/20 11:50 - Vicky MBD: si
+1/12/20 11:50 - Jose Fontecha: No vamos a dar mas temario en diciembre como para tener un examen con mas temario en enero
+1/12/20 11:50 - Álvaro Otaduy MBD: Pues entonces lo que querais, me da igual una que la otra
+1/12/20 11:51 - Vicky MBD: seria enero pero despues de haber dado alguna clase mas
+1/12/20 11:51 - Nekane Guarrotxena: Pero en enero hay clase?
+1/12/20 11:51 - Vicky MBD: si, a partir del 18
+1/12/20 11:52 - Raúl Gómez Mbd: Esta asignatura continua en la segunda mitad del segundo semestre no?
+1/12/20 11:52 - Nekane Guarrotxena: Sí
+1/12/20 11:57 - Jose Fontecha: Entonces no tendriamos clase justo al volver en enero
+1/12/20 11:58 - Jose Fontecha: No dariamos mas temario como para que entrase algo mas en el examen
+1/12/20 11:58 - Aitor MBD: Cuando empezamos en enero?
+1/12/20 12:00 - +34 655 54 65 74: Yo intentaria que fuese un trabajo
+1/12/20 12:01 - +34 655 54 65 74: Y como la asignatura no se acaba
+1/12/20 12:01 - +34 655 54 65 74: Que ponga examen directamente final no un parcial
+1/12/20 12:01 - Jacobo Azpeitia: Esta es buenísima
+1/12/20 12:02 - Miguel MBD: y ya si el trabajo es para el 18 de enero... de lujo jaja
+1/12/20 12:02 - Eladio Jiménez: A mí me parece que eso sería complicarse la vida
+1/12/20 12:02 - Eladio Jiménez: Porque además de un examen habría que dedicarle tiempo a hacer un trabajo
+1/12/20 12:02 - Eladio Jiménez: El examen no nos lo quitamos porque es algo impuesto
+1/12/20 12:03 - Eladio Jiménez: No se puede decidir
+1/12/20 12:03 - Fran MASTER BD: Eso es
+1/12/20 12:03 - Eladio Jiménez: Quizás lo más sencillo sea hacer un doodle con las dos fechas posibles y que gane la más votada
+1/12/20 12:03 - +34 655 54 65 74: Hombre examen y trabajo no
+1/12/20 12:03 - +34 655 54 65 74: Hay que elegir una de las dos cosas
+1/12/20 12:03 - Eladio Jiménez: Es que no se puede elegir
+1/12/20 12:04 - Eladio Jiménez: Lo único que se puede decidir es la fecha del examen
+1/12/20 12:05 - Eladio Jiménez: Si estamos muy mosqueados por no tener temario
+1/12/20 12:05 - Eladio Jiménez: Entre otras cosas porque el profesor se ha saltado dos semanas de clases
+1/12/20 12:05 - Eladio Jiménez: Podemos hablar con la dirección de la escuela
+1/12/20 12:05 - Eladio Jiménez: Que para eso se paga
+1/12/20 12:06 - Eladio Jiménez: Pero de momento lo único que se puede elegir es la fecha del examen
+1/12/20 12:06 - Eladio Jiménez: Así que yo creo que lo más fácil es votarlo y ya está
+1/12/20 12:07 - Eladio Jiménez: No va a cambiar mucho mi vida
+1/12/20 12:09 - Jacobo Azpeitia: A ver mientras nos explique sobre qué nos va a hacer el examen a mi me parece bien cualquier fecha
+1/12/20 12:09 - Jacobo Azpeitia: Pero ahora es que no ha dado nada como para hacer un examen
+1/12/20 12:10 - Eladio Jiménez: Ni lo va a dar
+1/12/20 12:10 - Eladio Jiménez: Sus diapositivas son capturas de pantalla de titulares de noticia
+1/12/20 12:10 - Eladio Jiménez: No espero que eso mejore
+1/12/20 14:42 - Vicky MBD: Si intento pedir una tutoría a patricia antes del examen para repasar
+1/12/20 14:42 - Vicky MBD: Iríais ??
+1/12/20 14:54 - Sergio Rincón: Yo si🙋🏻‍♂️
+1/12/20 14:54 - Maria Javierre: Yo sí
+1/12/20 14:54 - Andrés Jiménez: Si
+1/12/20 14:55 - Jose Fontecha: @34659238790 estaria encantado
+1/12/20 14:55 - Andrés Jiménez: Yo creo que no hay materia de examen , y que no siquiera debería examinar nada pero si lo va a hacer que al menos explica sobre qué
+1/12/20 15:09 - Lidia Sanz: sii
+1/12/20 15:09 - Lidia Sanz: al final hay hoy tutoría de adquision de datos?
+1/12/20 15:18 - Vicky MBD: La tutoria de adquisicion es mañana de 16 a 18h
+1/12/20 15:18 - Vicky MBD: Ha extendido el plazo de entrega de las practicas hasta fin del 2020
+1/12/20 15:19 - Vicky MBD: y solo queda una practica mas por colgar, es decir, hay 13 practicas
+1/12/20 15:40 - Lidia Sanz: gracias!!
+1/12/20 17:41 - Vicky MBD: <Multimedia omitido>
+1/12/20 17:43 - Jose Fontecha: Cuando hemos decido que se atrasaba?
+1/12/20 17:43 - Vicky MBD: esta mañana
+1/12/20 17:43 - Vicky MBD: por este grupo
+1/12/20 17:43 - Jose Fontecha: Si no hemos votado
+1/12/20 17:44 - Vicky MBD: pensaba que cuando he explicado que no se atrasa a la semana primera de enero
+1/12/20 17:44 - Vicky MBD: ya nadie tenia problema con moverlo
+1/12/20 17:45 - Vicky MBD: pero puedo hacer una encuesta y votamos y rectifico mi correo
+1/12/20 17:48 - Vicky MBD: <Multimedia omitido>
+1/12/20 17:50 - Andrés Jiménez: Si contestara a los correos igual podría pedirle tutorías
+1/12/20 17:59 - Vicky MBD: le estaba pidiendo una clase extra no una tutoria individual pero 🤷🏼‍♀️
+1/12/20 18:58 - Virginia Hernández MBD: Igual lo de clase extra le ha liado
+1/12/20 19:00 - Guillermo Valle MBD: 🔴🔴🔴🔴 Dice José que están los assigment en uno del grupo corregidos y con nota
+1/12/20 19:00 - Guillermo Valle MBD: Y los que no sabíais nota
+1/12/20 19:00 - Guillermo Valle MBD: También está corregido
+1/12/20 19:08 - Maria Javierre: Dónde está?
+1/12/20 19:22 - Guillermo Valle MBD: Según he entendido en la parte donde se realiza la entrega, uno del grupo tiene que tener la corrección subida
+1/12/20 19:29 - Vicky MBD: Tienes que mirar en la retroalimentación
+1/12/20 19:29 - Vicky MBD: Y pone la nota en la portada del pdf
+4/12/20 19:12 - Alejandro Polo MBD: Alguien está en clase de adquisición?
+4/12/20 19:12 - +34 661 19 72 74: <Multimedia omitido>
+4/12/20 19:13 - Ángel MBD: Si
+6/12/20 13:48 - Santiago Cebellán: Para cuando hay que entregar el trabajo de fundamentos?
+6/12/20 13:49 - Joege Gómez Lechón: 13
+6/12/20 13:50 - Santiago Cebellán: Gracias
+6/12/20 20:20 - Santiago Cebellán: Pone en el calendario académico que los exámenes acaban el 15 de enero. Eso quiere decir que esos días no tendremos clase?
+6/12/20 20:23 - Vicky MBD: Si
+6/12/20 20:23 - Vicky MBD: empezamos las clases de nuevo el 18
+6/12/20 20:23 - Santiago Cebellán: Ah
+6/12/20 20:23 - Santiago Cebellán: Que feliz me acabas de hacer
+6/12/20 20:25 - Vicky MBD: 🤗🤗
+6/12/20 21:56 - Lidia Sanz: a que hora es cada examen final?
+6/12/20 22:03 - Vicky MBD: Machine a las 17h
+6/12/20 22:03 - Vicky MBD: Y los otros a las 15h
+6/12/20 22:07 - Lidia Sanz: ok gracias!
+8/12/20 14:13 - +34 655 54 65 74: Seria posible pedirle a patricia que suba el examen final del año pasado?
+8/12/20 14:13 - +34 655 54 65 74: Por hacerme una idea
+8/12/20 14:14 - Vicky MBD: sii
+8/12/20 14:14 - Vicky MBD: la escribo ahora
+8/12/20 14:15 - +34 655 54 65 74: Graciaaas
+8/12/20 14:15 - +34 655 54 65 74: Y otra duda
+8/12/20 14:15 - +34 655 54 65 74: Hay que aprobar las dos partes del examen?
+8/12/20 14:15 - +34 655 54 65 74: O hacen media
+8/12/20 14:16 - +34 655 54 65 74: Porque es que a mi aprobar la parte de jorge sin haber dado python en mi vida lo veo difícil
+8/12/20 14:19 - Vicky MBD: Patricia, 
+
+De cara a preparar el examen final, nos preguntábamos si nos podías indicar algo de la estructura de este como: 
+	
+	¿Hay preguntas teóricas y prácticas ? 
+	En caso de que sí, ¿cuántos puntos corresponden a cada parte? 
+	¿Se puede llevar apuntes al examen? 
+
+Y por último, ¿seria posible subir el examen final del año pasado para practicar? 
+
+Muchas gracias, 
+
+Victoria
+8/12/20 14:19 - Vicky MBD: envio el correo por aqui antes de enviarlo para que si quereis que pregunte algo mas enviarlo todo junto
+8/12/20 14:20 - Vicky MBD: creo que si pero adjunto la pregunta al correo
+8/12/20 14:20 - Andrés Jiménez: Si le puedes añadir lo de la posibilidad de que suba algún examen anterior
+8/12/20 14:20 - Andrés Jiménez: Algún ejemplo
+8/12/20 14:20 - Vicky MBD: a parte del de 2019 ?
+8/12/20 14:21 - Andrés Jiménez: Ahh vale que está subido ese
+8/12/20 14:21 - Andrés Jiménez: No lo he visto
+8/12/20 14:21 - +34 655 54 65 74: Perfe
+8/12/20 14:27 - Vicky MBD: Patricia, 
+
+De cara a preparar el examen final, nos preguntábamos si nos podías indicar algo de la estructura de este como: 
+	
+	1 ¿Hay preguntas teóricas y prácticas ? 
+	2 En caso de que sí, ¿cuántos puntos corresponden a cada parte? 
+	3 ¿Se puede llevar apuntes al examen? 
+	4 ¿Es necesario aprobar tanto tu parte como la de Jorge para aprobar la asignatura? 
+
+Y por último, ¿seria posible subir el examen final del año pasado para practicar? 
+
+Muchas gracias, 
+
+Victoria
+8/12/20 14:27 - Vicky MBD: A las 5 lo envio !
+8/12/20 14:28 - Vicky MBD: para dar tiempo a que la clase lo lea
+8/12/20 14:36 - Virginia Hernández MBD: En mi clase creo que dijo que se pueden llevar apuntes
+8/12/20 14:37 - Virginia Hernández MBD: Y creo que es 60/40 la proporción en el examen
+8/12/20 17:01 - Lidia Sanz: cual es la fecha límite para la entrega de las practicas de adquisición?
+8/12/20 17:07 - Vicky MBD: Final 2020
+8/12/20 17:21 - Thomas Bustos: Holaa, al final vamos a tener el examen de casos de estudios ?
+8/12/20 17:23 - Vicky MBD: no hay fecha
+8/12/20 17:23 - Vicky MBD: sera ya en el segundo cuatrimestre
+8/12/20 17:23 - Thomas Bustos: Vale gracias
+8/12/20 17:30 - Lidia Sanz: eso quiere decir 31 de diciembre? o no ha dicho fecha exacta?
+8/12/20 17:30 - Natalia Gila: creo que el 1 se ponia a mirarlo asiq con que estuvieran el 1
+8/12/20 17:30 - Natalia Gila: con lo cual 31 si
+8/12/20 17:31 - Lidia Sanz: ok gracias!
+8/12/20 17:47 - Felipe D Navarro: En nuestra clase me suena que dijo el 24
+8/12/20 17:47 - Felipe D Navarro: No estaría de más  volver a comentarlo con él
+8/12/20 17:47 - Felipe D Navarro: Para evitar sustos
+8/12/20 17:52 - Vicky MBD: Felipe se lo pedi en clase esta semana si podia ampliar el plazo y quedamos en esto
+8/12/20 17:56 - +34 661 19 72 74: Gracias vicky
+8/12/20 17:56 - +34 661 19 72 74: 🙌🏽🙌🏽
+8/12/20 18:00 - Felipe D Navarro: Ok, perfect
+8/12/20 18:00 - Felipe D Navarro: Gracias
+8/12/20 18:34 - Vicky MBD: Os recuerda que esta semana solo hay una clase de adquisicion
+8/12/20 18:34 - Vicky MBD: el grupo b: miercoles
+el grupo a: viernes
+8/12/20 18:34 - Vicky MBD: en los horarios habituales
+8/12/20 18:34 - Vicky MBD: *Contestacion de patricia*
+8/12/20 18:35 - Vicky MBD: Hola Victoria :
+
+1. Sí, un test teórico y una parte práctica.
+2.Depende de cada año pero siempre la parte práctica ha tenido más puntos que la teórica.
+3.La teoría es sin apuntes y se hace al comienzo del examen. Para el resto del examen podréis usar todo lo que necesitéis .
+4. Habría que ver el caso en concreto , en principio no es necesario aprobar las dos partes en el examen .
+5.No compartimos exámenes de otros años. Es muy similar a las propuestas de ejercicios de clase.
+
+Un saludo!
+
+PAtricia
+8/12/20 18:39 - Lidia Sanz: gracias!!
+11/12/20 11:08 - Vicky MBD: Llegamos a concretar un fecha de entrega para la p2 de jorge ?
+11/12/20 11:09 - Felipe D Navarro: En mi clase ayer no
+11/12/20 11:09 - Ángel MBD: Dijo ayer 10 de enero creo
+11/12/20 11:09 - ‎Vicky MBD cambió el asunto de "Master BD📈" a "Master MBD📈"
+11/12/20 11:10 - Vicky MBD: vale
+11/12/20 11:10 - Vicky MBD: quereis que mande un correo para confirmar la fecha ?
+11/12/20 11:11 - Lidia Sanz: vale
+11/12/20 11:12 - Lidia Sanz: y estaría bien tambien concretar la fecha exacta de entrega de las practicas de adquisición de datos no?
+11/12/20 11:13 - Vicky MBD: vale le voy a escribir y asi le recuerdo que pase el listado de las practicas obligatorias
+11/12/20 11:14 - Lidia Sanz: genial, gracias!
+11/12/20 11:17 - Felipe D Navarro: Gracias!
+11/12/20 12:54 - Santiago Cebellán: No dijo 31 de Diciembre?
+11/12/20 12:55 - Santiago Cebellán: Por cierto. El examen de Machine Learning es solo de la segunda parte?
+11/12/20 12:55 - Natalia Gila: De todo
+11/12/20 12:56 - Santiago Cebellán: Vale gracias.
+11/12/20 15:12 - Vicky MBD: Fecha límite para entregar las prácticas de adquisición *31 de diciembre*
+11/12/20 15:13 - Vicky MBD: El examen es tipo test 100 preguntas preguntas básicas de las diapositivas
+11/12/20 15:21 - Lidia Sanz: gracias!
+11/12/20 15:27 - Andrés Jiménez: Pero de dónde va a sacar 100 preguntas joder
+11/12/20 15:30 - Vicky MBD: Ha dicho que son fáciles y con suerte no restarán
+11/12/20 15:30 - Vicky MBD: Que el año pasado tardaron 20 min en contestarlas
+11/12/20 15:39 - Andrés Jiménez: Okey gracias
+13/12/20 11:39 - Vicky MBD: Os recuerdo que mañana es el examen de machine learning a las 17h en el aula de siempre
+13/12/20 11:55 - Felipe D Navarro: Gracias
+13/12/20 12:04 - Thomas Bustos: 👌🏽
+13/12/20 20:52 - Fran MASTER BD: Alguien ha intentado lanzar últimamente jobs de sqoop??
+13/12/20 20:53 - Fran MASTER BD: Me parece que la base de datos mysql está muerta
+13/12/20 20:53 - Fran MASTER BD: 🔫
+13/12/20 20:53 - Andrés Jiménez: Si si ,no funciona mysql
+13/12/20 20:53 - Andrés Jiménez: No deja conectarse así que ningún job de sqoop se puede lanzar
+13/12/20 20:53 - Fran MASTER BD: O significa que no entra en el examen o que no podemos practicar 😂
+13/12/20 20:54 - Fran MASTER BD: Gracias Andrés
+13/12/20 20:54 - Andrés Jiménez: Si ,justo significa eso
+15/12/20 16:30 - Fran MASTER BD: El test de Tecnologías va a ser a mano?
+15/12/20 16:30 - Fran MASTER BD: O va a tener que ser con el software de la otra vez?
+15/12/20 16:31 - Fran MASTER BD: Por si me tengo que traer dos ordenadores vamos 😂
+15/12/20 16:36 - Vicky MBD: Este mensaje fue eliminado
+15/12/20 16:36 - Vicky MBD: ah no
+15/12/20 16:36 - Vicky MBD: a ordenador
+15/12/20 16:37 - Vicky MBD: como no se pueden usar apuntes supongo que habra que tener respondus
+15/12/20 16:37 - Vicky MBD: pero no lo han especificado
+15/12/20 16:56 - Fran MASTER BD: Uff, pues dos ordenadores entonces 😂
+15/12/20 16:57 - Fran MASTER BD: Puedes preguntar si van a utilizar respondus porfa?
+15/12/20 17:08 - Vicky MBD: sii
+15/12/20 17:08 - Vicky MBD: mando correo
+15/12/20 17:09 - Vicky MBD: pero a ver cuando me contestan
+15/12/20 17:29 - Fran MASTER BD: Gracias!
+15/12/20 17:42 - Thomas Bustos: En el ejercicio 8 de sqoop, cuando quiero ejecutar mi job me da ese mensaje
+15/12/20 17:42 - Thomas Bustos: <Multimedia omitido>
+15/12/20 17:43 - Thomas Bustos: Alguien sabe porque ?
+15/12/20 17:50 - Raúl Gómez Mbd: Cómo es el código del job?
+15/12/20 17:52 - Ángel MBD: Tienes que poner dos guiones antes del exec creo
+15/12/20 17:52 - Ángel MBD: No te está reconociendo la opción
+15/12/20 17:53 - Thomas Bustos: <Multimedia omitido>
+15/12/20 17:53 - Thomas Bustos: lo he hecho y me sale lo mismo
+15/12/20 17:54 - Thomas Bustos: antes no tenia el --create-hive-table
+15/12/20 17:54 - Thomas Bustos: solo estuve probando
+15/12/20 17:54 - Thomas Bustos: same error
+15/12/20 17:57 - Ángel MBD: Yo tengo el job igual..
+15/12/20 17:58 - Ángel MBD: De todas formas si pones los dos guiones no te debería dar el mismo error, te pueden salir otros pero no ese
+15/12/20 18:32 - Laura Lucendo: Thomas yo quitaria el split by
+15/12/20 18:32 - Laura Lucendo: Porq que yo tenga entendido solo se usa si haces una query
+15/12/20 19:37 - Thomas Bustos: Solucionado Gracias a todos por su ayuda 😊🙌🏽
+16/12/20 20:14 - Fran MASTER BD: Sabemos algo de como va a ser el test?
+16/12/20 20:16 - Vicky MBD: <Multimedia omitido>
+16/12/20 20:17 - Laura Lucendo: Ole
+16/12/20 20:17 - Laura Lucendo: Podemos usar internet?
+16/12/20 20:22 - Santiago Cebellán: Yo lo que tengo entendido es que el tipo test para el tipo test no, pero para toda la parte practica puedes utilizar todo lo que quieras, apuntes, mirar en internet ...
+16/12/20 20:25 - Andrés Jiménez: En el test no
+16/12/20 20:26 - Álvaro Fortún: Tal cual 👌
+16/12/20 21:17 - Fran MASTER BD: Genial! Gracias!
+18/12/20 14:16 - Lidia Sanz: Sabeis que practicas son obligatorias de adquisicion de datos?
+18/12/20 14:16 - Lidia Sanz: me suena que dijo el profesor que iba a mandar un correo indicando esto
+18/12/20 14:36 - Felipe D Navarro: Al final no lo mando
+18/12/20 14:46 - Fran MASTER BD: Y para cuándo hay que entregar lo de PySpark?
+18/12/20 14:49 - Vicky MBD: Le he vuelto a escribir hoy por LinkedIn a ver si así consigo que me conteste los correos 😂
+18/12/20 14:49 - Vicky MBD: Lo pregunto en un correo y le pido que abra una entrega en moodle
+18/12/20 14:50 - Vicky MBD: Por favor si alguien más está teniendo problemas con que un profesor le conteste los correos que me lo cuente por privado
+18/12/20 14:50 - Vicky MBD: Porque me está pareciendo de vergüenza como nos ignoran fuera de clase
+18/12/20 14:50 - Vicky MBD: Y en enero quiero quejarme de ello
+18/12/20 14:51 - Virginia Hernández MBD: Hay una entrega que se llama práctica 2 que es para el 9 de enero
+18/12/20 14:51 - Virginia Hernández MBD: Supongo que será eso
+18/12/20 15:20 - Lidia Sanz: si es justo eso
+18/12/20 15:20 - Lidia Sanz: muchas gracias vicky
+19/12/20 10:02 - Raquel García Meneses: Están los horarios del siguiente cuatri en la web, por si alguien le interesa !!
+19/12/20 10:02 - Raquel García Meneses: Al principio tenemos los viernes libres !!
+19/12/20 10:08 - Fran MASTER BD: Guay!!!
+19/12/20 10:23 - Fran MASTER BD: <Multimedia omitido>
+19/12/20 10:24 - Fran MASTER BD: <Multimedia omitido>
+19/12/20 10:32 - Virginia Hernández MBD: No sé si habrá particiones este cuatrimestre y las pondrán los viernes, pero si no, creo que este cuatri le viene fatal a mucha gente empezar tan pronto no?
+19/12/20 10:34 - Guillermo Valle MBD: Además que es cuatri que por las mañanas hay prácticas
+19/12/20 10:34 - Fran MASTER BD: Justo
+19/12/20 10:34 - Fran MASTER BD: Yo termino a las 14:30 por ejemplo
+19/12/20 12:46 - Vicky MBD: Voy a intentar reunirme con José Luis para hablarlo
+19/12/20 12:47 - Vicky MBD: Porque le dijimos que no podíamos empezar a las 3 si trabajábamos por la mñana
+19/12/20 12:47 - Vicky MBD: Y nos ha puesto todo a las tres 👌🏻
+19/12/20 13:07 - Fran MASTER BD: Jajajajaja
+19/12/20 13:13 - Vicky MBD: alguien tiene el correo personal de daniel ?
+19/12/20 13:17 - Vicky MBD: y alguien sabe a partir de la p10 cuales eran opcionales y cuales era obligatorias ?
+19/12/20 13:26 - Ángel MBD: jadraque@hey.com
+19/12/20 13:34 - Vicky MBD: Gracias
+19/12/20 14:00 - Andrés Jiménez: Creo que a partir de esa , solo es obligatoria una del BORME
+19/12/20 14:00 - Andrés Jiménez: De descargar los pdf
+20/12/20 21:53 - Vicky MBD: <Multimedia omitido>
+20/12/20 21:53 - Vicky MBD: <Multimedia omitido>
+20/12/20 22:11 - Aitor MBD: Es a las 15:00 no?
+20/12/20 22:14 - Virginia Hernández MBD: Gracias vicky
+20/12/20 22:15 - Virginia Hernández MBD: Una pregunta
+20/12/20 22:15 - Virginia Hernández MBD: Por qué menciona la 10 como opcional y el resto no? No las cuenta o como?
+20/12/20 22:16 - Vicky MBD: Si
+20/12/20 22:16 - Aitor MBD: Graciass
+20/12/20 22:16 - Vicky MBD: Lo mejor es que mañana se lo preguntes en el examen porque a mi me ha costado una semana que mirara el mail 😂
+20/12/20 22:17 - Virginia Hernández MBD: 😬
+20/12/20 22:17 - Virginia Hernández MBD: Okkkk
+21/12/20 12:05 - Santiago Cebellán: Sabéis si para el examen hace falta llevar ordenador?
+21/12/20 12:07 - Andrés Jiménez: No, es sin ordenador
+21/12/20 12:07 - Santiago Cebellán: Vale, gracias
+21/12/20 12:09 - Jacobo Azpeitia: 100%?
+21/12/20 12:09 - Andrés Jiménez: 100
+21/12/20 12:10 - Jacobo Azpeitia: Debuti
+21/12/20 12:33 - Fran MASTER BD: Genial
+21/12/20 13:16 - Guillermo Valle MBD: Acaban de crear una reunión para el examen
+21/12/20 13:17 - Guillermo Valle MBD: Lo habéis recibido no?
+21/12/20 13:17 - Virginia Hernández MBD: si!
+21/12/20 13:19 - Guillermo Valle MBD: Llevad ordenador por si acaso
+21/12/20 13:21 - Andrés Jiménez: Si, teniendo en cuenta que ha dicho ahora que hay gente que lo hace online mejor por si nos los hace a todos igual
+26/12/20 19:01 - Jacobo Azpeitia: Este mensaje fue eliminado
+29/12/20 21:00 - Lidia Sanz: los horarios que pasasteis del segundo cuatri son ya los definitivos?
+29/12/20 22:39 - Vicky MBD: En principio si
+29/12/20 22:39 - Vicky MBD: Faltan los desdobles
+29/12/20 22:39 - Vicky MBD: Pero admitimos sugerencias de cambio
+29/12/20 22:50 - Virginia Hernández MBD: Yo pediria empezar mas tarde, mover las que empieza a las 3
+29/12/20 22:51 - Lidia Sanz: y los desdobles van a ser los viernes?
+29/12/20 22:51 - Lidia Sanz: que asiganturas van a tener desdoble?
+8/1/21 14:35 - Fran MASTER BD: Se sabe algo de los horarios?
+8/1/21 14:35 - Fran MASTER BD: Se van a cambiar?
+8/1/21 14:45 - Eduardo Lobo: Tenemos reunión con JL y Carlos el lunes que viene a las 19h para hablar de esto
+8/1/21 15:07 - Vicky MBD: A cuantos os es incompatible el horario de trabajo con entrar a las 3 a clase ?
+8/1/21 15:19 - Fran MASTER BD: Este mensaje fue eliminado
+8/1/21 15:20 - Fran MASTER BD: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+8/1/21 15:30 - Virginia Hernández MBD: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+Virginia Hernández
+9/1/21 11:43 - Vicky MBD: Solo dos personas entonces ?
+9/1/21 11:57 - Andrés Jiménez: Yo por ejemplo no estoy seguro aún de mi horario . Depende de la hora a la que termine
+9/1/21 11:57 - Álvaro Otaduy MBD: Yo lo mismo
+9/1/21 11:58 - Vicky MBD: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+Virginia Hernández
+Andrés (?)
+Alvaro otaduy
+9/1/21 12:48 - Alejandro Polo MBD: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+Virginia Hernández
+Andrés (?)
+Alvaro otaduy
+Alejandro Polo
+9/1/21 12:51 - Álvaro Fortún: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+Virginia Hernández
+Andrés (?)
+Alvaro otaduy
+Alejandro Polo
+Álvaro Fortún
+9/1/21 12:51 - Maria Garcia Spinola: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+Virginia Hernández
+Andrés (?)
+Alvaro otaduy
+Alejandro Polo
+Álvaro Fortún
+Maria Garcia
+9/1/21 13:02 - Andrés Jiménez: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+Virginia Hernández
+Andrés 
+Alvaro otaduy
+Alejandro Polo
+Álvaro Fortún
+Maria Garcia
+9/1/21 14:26 - Eduardo Lobo: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+Virginia Hernández
+Andrés 
+Alvaro otaduy
+Alejandro Polo
+Álvaro Fortún
+Maria Garcia
+Eduardo Lobo
+10/1/21 13:29 - Vicky MBD: 8 personas
+10/1/21 13:30 - Vicky MBD: Mañana en la reunión con José Luis vamos a presionar todo lo posible para retrasar la hora de entrada
+10/1/21 13:30 - Vicky MBD: También hablaremos de los exámenes finales
+10/1/21 13:32 - Vicky MBD: Si queréis comentar algo sobre ellos o sobre otro tema
+10/1/21 13:32 - Vicky MBD: Sabéis que me podéis escribir por aquí o por privado para que yo lo transmita después en la reunión
+10/1/21 13:33 - Jose Fontecha: Las notas cuando las van a sacar?
+10/1/21 13:34 - Andrés Jiménez: RT
+10/1/21 13:37 - Vicky MBD: Finales de enero
+10/1/21 13:42 - Vicky MBD: Del tema correos, que profesores han sido los que más ausentes han estado fuera del aula ?
+10/1/21 13:42 - Vicky MBD: Yo destacaría patricia y Daniel
+10/1/21 13:43 - Vicky MBD: Pero
+10/1/21 13:43 - Vicky MBD: No sé si hay alguno más
+11/1/21 20:15 - Vicky MBD: Las clases comienzan el miercoles 20
+11/1/21 20:15 - Vicky MBD: y es posible pero aun no seguro que se retrasen hasta el lunes 25
+11/1/21 20:15 - Vicky MBD: de todas maneras los que tengais problemas para volver a madrid la primera semana seran flexibles con las clases online
+11/1/21 20:16 - Vicky MBD: las notas estarán el lunes 18
+11/1/21 20:16 - Vicky MBD: el horario vamos a intentar que al menos dos dias no entremos a las 3. Hemos propuesto varios cambios y van a estudiarlos
+11/1/21 20:17 - Virginia Hernández MBD: Gracias por avisar!
+11/1/21 20:18 - +34 661 19 72 74: Gracias Vicky!
+11/1/21 20:18 - Virginia Hernández MBD: No puede ser todos los días?
+11/1/21 20:18 - Vicky MBD: imposible
+11/1/21 20:18 - Vicky MBD: nos han puesto mil pegas
+11/1/21 20:19 - Vicky MBD: vamos a intentar 2/3 dias entrar a las 5
+11/1/21 20:19 - Vicky MBD: a lo largo de esta semana estara el horario definitivo
+11/1/21 20:20 - Virginia Hernández MBD: Vaya...
+11/1/21 20:21 - Virginia Hernández MBD: Cuales no pueden cambiar? Tendrán las que empiecen a las 3 desdoble quizas?
+11/1/21 20:21 - Vicky MBD: no hay desdobles
+11/1/21 20:21 - Vicky MBD: tambien lo he preguntado
+11/1/21 20:21 - Vicky MBD: a ver si asi lo podiamos solucionar
+11/1/21 20:25 - Virginia Hernández MBD: Ok....
+11/1/21 20:25 - Virginia Hernández MBD: Y qué días es fijo que empieza a las 3?
+11/1/21 20:30 - Vicky MBD: Jueves
+11/1/21 20:31 - Virginia Hernández MBD: vale, gracias vicky :)
+11/1/21 20:41 - Eduardo Lobo: Y el martes tambien. Hemos hecho propuesta para liberar lunes y miercoles al menos
+11/1/21 20:51 - Virginia Hernández MBD: Vale 🙈.... gracias Edu
+11/1/21 20:56 - Fran MASTER BD: Uff, gracias
+11/1/21 21:10 - Andrés Jiménez: Te refieres presencial o en general ? Digo por si empezábamos el 18 online
+11/1/21 21:16 - Vicky MBD: En general
+12/1/21 12:33 - Vicky MBD: De los dos cambios propuestos ayer solo nos han aprobado dos
+12/1/21 12:33 - Vicky MBD: Antes de hacerlos definitivos se van a votar
+12/1/21 12:34 - Vicky MBD: Tengo que dar una respuesta a Jose Luis mañana por la mañana por lo que solo se podrá votar hoy
+12/1/21 12:34 - Andrés Jiménez: Cuales ?
+12/1/21 12:34 - Vicky MBD: de los cambios*
+12/1/21 12:36 - Vicky MBD: <Multimedia omitido>
+12/1/21 12:39 - Vicky MBD: ⭕️ *CAMBIO 1* 
+Lunes y martes empezar a las 15:20 y no hacer descanso 
+
+⭕️ *CAMBIO 2*
+Cambiar Trabajo de Fin de Máster al martes de 17h a 19h
+Es decir, el martes tendríamos clase de 3 a 7 y los miércoles de 5 a 9
+12/1/21 12:45 - Vicky MBD: https://forms.gle/wY5JgG9LHe5tf6nY8
+12/1/21 12:45 - Vicky MBD: ya esta la encuesta, he añadido la opcion me da igual en los dos cambios asi que os pido que voteis por favor
+12/1/21 12:46 - Andrés Jiménez: Gracias
+12/1/21 13:00 - Vicky MBD: <Multimedia omitido>
+12/1/21 17:13 - Vicky MBD: <Multimedia omitido>
+12/1/21 17:14 - Vicky MBD: Ya no hay encuesta 🙃
+12/1/21 17:14 - Andrés Jiménez: Vamos que lo único que han aceptado es entrar 10m más tarde
+12/1/21 17:48 - Eduardo Lobo: Tal cual
+12/1/21 17:55 - Virginia Hernández MBD: Osea que quien no pueda ir por incompatibilidad se aguanta y punto?
+12/1/21 17:55 - Virginia Hernández MBD: No hay ningún cambio?
+12/1/21 18:06 - Vicky MBD: Si
+12/1/21 18:07 - Vicky MBD: Podemos intentar retrasar la clase hasta las 3 y 20 pero nada más
+12/1/21 18:07 - Virginia Hernández MBD: Y qué razones han dado?
+12/1/21 18:07 - Virginia Hernández MBD: Han considerado mover otras clases?
+12/1/21 18:08 - Vicky MBD: Lo siento mucho chicos, lo hemos peleado un montón propusimos 4 cambios mirando los horarios de teleco, Preguntamos si había desdobles para encajar en ese horario a los que pueden llegar y nada
+12/1/21 18:08 - Virginia Hernández MBD: Osea no solo lover esa a los huecos que quedan, sino sustituir otras que ya están en el horario por esas, y esas otras a huecos?
+12/1/21 18:09 - Vicky MBD: Si si lo intentamos también
+12/1/21 18:09 - Vicky MBD: Pero se supone que no solo es la restricción de los telecos que no les coincida
+12/1/21 18:09 - Vicky MBD: Si no que los profes también tienen los huevos justos
+12/1/21 18:10 - Vicky MBD: Y que tienen una app donde pones todas las condiciones y te saca el horario y este es el resultado
+12/1/21 18:10 - Virginia Hernández MBD: Y se les podría pedir que aquellos que por incompatibilidad no pueden, de poner las de 3 a 5 por teams?
+12/1/21 18:10 - Vicky MBD: Lo preguntamos ayer también en la reunión
+12/1/21 18:10 - Virginia Hernández MBD: Por remoto
+12/1/21 18:11 - Vicky MBD: y dijeron que no
+12/1/21 18:11 - Vicky MBD: Pero dadas las circunstancias yo creo que si hablamos con el profesor de las 3
+12/1/21 18:11 - Vicky MBD: Directamente
+12/1/21 18:11 - Vicky MBD: Podemos explicarle la situación y esperar que sea más flexible
+12/1/21 18:34 - Fran MASTER BD: Eso es
+12/1/21 18:34 - Fran MASTER BD: Si durante el curso por covid se puede dar clase online, por trabajo también se debería
+12/1/21 19:23 - Vicky MBD: Buenas tardes José Luis,
+
+ 
+
+Hemos compartido el mensaje con la clase y el sentimiento de decepción es generalizado. Ya fuera del papel de alumnos, como clientes que hacemos una fuerte inversión en este programa esperamos una comunicación más transparente y flexible en aspectos tan importantes como este.
+
+ 
+
+Con los mensajes que hemos recibido ayer y hoy no tenemos ningún tipo de detalle de cuál es el motivo de que estos cambios no sean viables. Incluso este último que parecía factible, ahora no lo es pero no recibimos mayor explicación que trasladar al resto de compañeros afectados.
+
+ 
+
+No dudamos del esfuerzo considerable que implica esta reorganización pero dar el asunto por cerrado tras pasar ni tan siquiera 24 horas no nos parece razonable tampoco. Pedimos por favor reconsiderar algunas de las opciones comentadas ayer o bien alguna de las alternativas que se nos ocurren:
+
+               • Buscar un desdoble con un profesor que no tenga la limitación horaria de tener que dar la clase a las 15h como nos sucede lunes, martes y miércoles con Luis.
+
+               • Flexibilidad por parte de los profesores cuyas clases empiezan en la primera franja horaria con que los alumnos que no pueden asistir a la clase de las 15h puedan conectarse por Teams exclusivamente a estas horas. Si fuera necesario        podríamos incluso censar el listado de estos alumnos específicos.
+
+ 
+
+Queremos llegar a una solución para que los alumnos que tienen una mayor carga laboral puedan compatibilizar ambas situaciones como hicimos en el primer cuatrimestre, ya que de lo contrario hay clases a las que algunos compañeros no van a poder asistir de forma sistemática.
+
+ 
+
+Gracias de nuevo,
+
+Un saludo
+12/1/21 19:29 - Fran MASTER BD: Gracias Vicky
+12/1/21 19:31 - Eladio Jiménez: Está muy bien
+12/1/21 19:33 - Eladio Jiménez: Para tener más capacidad para hacer presión puedes añadir que somos el doble de alumnos que los que habían anunciado y he os sido muy flexibles con eso
+12/1/21 19:34 - Eladio Jiménez: Además de los horarios de Patri y de que Carlos Morrás se ha saltado clases
+12/1/21 19:35 - Felipe D Navarro: Gracias Vicky
+12/1/21 20:04 - Vicky MBD: mañana nos vamos a reunir de nuevo
+12/1/21 20:04 - Vicky MBD: la solución de empezar a las 15:20 os alivia
+12/1/21 20:04 - Vicky MBD: o no sirve de nada ?
+12/1/21 20:07 - Vicky MBD: lo maximo que vamos a sacar es eso o asistencia online
+12/1/21 20:07 - Vicky MBD: por favor si teneis sugerencias o propuestas os lo agradeceria
+12/1/21 20:14 - Andrés Jiménez: Gracias Vicky
+12/1/21 20:15 - Andrés Jiménez: Yo haría hincapié en esto
+12/1/21 20:16 - Fran MASTER BD: Mejor que nada es desde luego
+12/1/21 20:16 - Vicky MBD: una duda, si la hacemos online
+12/1/21 20:17 - Vicky MBD: la veríais de camino a la uni o como ?
+12/1/21 20:17 - Vicky MBD: porque a la de las 5 se supone que teneis que llegar
+12/1/21 20:18 - Fran MASTER BD: En mi caso terminaría camino a la uni
+12/1/21 20:19 - Fran MASTER BD: O empezaría camino a la uni
+12/1/21 20:19 - Lidia Sanz: gracias vicky
+12/1/21 20:19 - Lidia Sanz: si el primer cuatri ha sido con enseñanza bimodal por que en este segundo no hacen esto?
+12/1/21 20:20 - Vicky MBD: lo mejor seria entonces grabarlas entiendo
+12/1/21 20:21 - Vicky MBD: pues no se porque no hay desdobles no me lo dijo, hay dos profesores en el aula en alguna asignatura
+12/1/21 20:21 - Vicky MBD: pero no tienen pensado poner desdoble
+12/1/21 20:23 - Lidia Sanz: vale graciass!
+12/1/21 20:27 - Vicky MBD: en caso de que no dejen a toda la clase asistir de forma remota o no asistir esta sera la lista de alumnos que para los que se pedira la excepcion
+12/1/21 20:27 - Vicky MBD: por si falta alguien por apuntarse
+12/1/21 20:29 - Jose Fontecha: De las quejas sobre no responder a los correos por parte de algunos profesores os dijeron algo?
+12/1/21 20:29 - Vicky MBD: Si, tambien de risa
+12/1/21 20:30 - Vicky MBD: Nos dijeron que si no era una exageracion por nuestra parte
+12/1/21 20:30 - Andrés Jiménez: Esto me gustaría saberlo
+12/1/21 20:30 - Andrés Jiménez: 😂😂
+12/1/21 20:30 - Vicky MBD: y que con esto del covid los alumnos escribe a cualquier hora y esperamos que se nos conteste super rapido
+12/1/21 20:30 - Jose Fontecha: Hombre, yo le escribi a Jorge el dia 2 por una duda de la practica de Spark y sigo esperando su respuesta
+12/1/21 20:30 - Vicky MBD: le dije que no era el caso
+12/1/21 20:30 - Vicky MBD: que era una semana minimo para recibir respuesta
+12/1/21 20:30 - Jose Fontecha: Exageracion mis cojones vamos
+12/1/21 20:31 - Vicky MBD: y quedamos en que si vuelve a ocurrir este cuatri el profesor debera indicar un horario de tutoria donde se comprometa a resolver las dudas por correo
+12/1/21 20:31 - Vicky MBD: a ver el caso que me hacen
+12/1/21 20:31 - Vicky MBD: que tambien te digo no esta siendo mucho
+12/1/21 20:32 - Vicky MBD: me queje ademas del examen de patricia
+12/1/21 20:32 - Jose Fontecha: Y que dijeron?
+12/1/21 20:32 - Vicky MBD: dije que el nivel fue deproporcionado y que ademas fue muy estricta con el tiempo para todos los imprevistos que surgieron durante el examen
+12/1/21 20:33 - Vicky MBD: que hablarian con ella a ver que ha pasado
+12/1/21 20:33 - Jose Fontecha: A ver si es verdad, porque tambien la actitud que tuvo ella durante el examen fue...
+12/1/21 20:34 - Vicky MBD: Este mensaje fue eliminado
+12/1/21 20:35 - Vicky MBD: cuando se publiquen las notas
+12/1/21 20:35 - Vicky MBD: pedire el porcentaje de suspensos por asignatura
+12/1/21 20:35 - Vicky MBD: y que se compare al de años anteriores
+12/1/21 20:35 - Vicky MBD: y si hay diferencias significativas habra que buscar la razon
+12/1/21 20:47 - Virginia Hernández MBD: Eso sería muy buena idea si!
+12/1/21 20:48 - Virginia Hernández MBD: Yo iría en el descanso de las 5.....
+12/1/21 20:48 - Virginia Hernández MBD: Lo más seguro
+13/1/21 14:01 - Lidia Sanz: Un amigo está haciendo un trabajo y necesita que gente que le gusten los videojuegos rellene esta encuesta. Son sólo dos minutos o menos.
+Gracias!
+13/1/21 14:01 - Lidia Sanz: https://forms.gle/PvXxvqHZKLEHCXD36
+13/1/21 17:47 - Fran MASTER BD: Ánimo con la reunión de esta tarde delegados!
+13/1/21 20:07 - Vicky MBD: Despues de la reunion lo que hemos conseguido es: 
+-Las clases de las 3 empezaremos a las 3 y media
+-Los alumnos de la lista podrán asistir online y ademas las clases serán grabadas 
+-A la clase del TFM empieza a las 4 y ademas habrá que asistir los primero días cuando expliquen la documentación y lo que hay que hacer pero luego a las presentaciones no será obligatorio asistir
+13/1/21 20:07 - Vicky MBD: Incompatible horario de trabajo con entrar a las 15:00:
+
+* Fran Rodríguez
+Virginia Hernández
+Andrés 
+Alvaro otaduy
+Alejandro Polo
+Álvaro Fortún
+Maria Garcia
+Eduardo Lobo
+13/1/21 20:08 - Vicky MBD: esta lista
+13/1/21 20:10 - Vicky MBD: También hemos hablado del tema practicas. Quedan según Carlos 11 personas sin practicas pero a lo largo de este mes espera que firméis contrato los que faltáis o que os llamen. Me ha dado nombres de las personas que sabe por la empresa que las van a coger asi que si alguno quiere saber mas que me escriba por privado
+13/1/21 20:13 - Vicky MBD: para todos aquellos que vas a empezar mas tarde seran mas flexibles con los plazos de entrega de la documentacion del tfm
+13/1/21 20:15 - Virginia Hernández MBD: Muchas gracias por todo el esfuerzo!!
+13/1/21 20:16 - Virginia Hernández MBD: No pudiendo cambiar los horarios la solución es la mejor a la que se podía llegar 🙏
+13/1/21 20:39 - Fran MASTER BD: La verdad es que está genial!!!
+13/1/21 20:39 - Fran MASTER BD: Gracias!!!
+13/1/21 20:40 - Fran MASTER BD: Teniendo en cuenta esto
+14/1/21 0:21 - Thomas Bustos: Gracias delegados 🔥
+14/1/21 10:04 - Vicky MBD: Nada 🤗🤗
+14/1/21 17:47 - Fran MASTER BD: Tengo una pregunta, si las clases de 15:00 se retrasan a las 15:30, ¿el resto de clases se retrasan con ellas?
+¿La clase de TFM también retrasaría una hora las posteriores?
+14/1/21 18:54 - Eduardo Lobo: Las clases serán de 15h30 a 17h sin descanso. Y la de TFM solo durará 1h
+14/1/21 18:59 - Fran MASTER BD: Perfect!
+14/1/21 18:59 - Fran MASTER BD: Gracias
+14/1/21 20:09 - +34 655 54 65 74: Podeis pasar el horario con las asignaturas que no se cual es 🙏🏼
+14/1/21 20:59 - Vicky MBD: <Multimedia omitido>
+14/1/21 21:00 - +34 655 54 65 74: Graciaas🧡🧡
+14/1/21 21:02 - Vicky MBD: Las notas de tecnología están colgadas en el moodle de la asignatura
+14/1/21 21:48 - Felipe D Navarro: Sabes cuando dan el resto?
+14/1/21 21:50 - Vicky MBD: Entre mñana y el lunes
+14/1/21 21:56 - Felipe D Navarro: Ok, gracias 👍
+15/1/21 9:31 - Vicky MBD: Esta la nota de gobierno del datos en teams
+15/1/21 14:37 - ‎Adiran Mbd cambió el ícono de este grupo
+15/1/21 14:52 - Vicky MBD: NOTAS DE MACHINE LEARNING
+15/1/21 14:52 - Vicky MBD: <Multimedia omitido>
+15/1/21 16:49 - Vicky MBD: Fundamentos matemáticos está el profesor enviando un correo con la nota a cada uno
+15/1/21 17:18 - Fran MASTER BD: Hemos recibido un correo diciendo que la actividad se reanuda el lunes. No empezamos entonces el 25?
+15/1/21 17:18 - Vicky MBD: Empezamos el 25
+15/1/21 17:18 - Vicky MBD: La semana que viene es de exámenes
+15/1/21 17:18 - Fran MASTER BD: Okay
+18/1/21 17:38 - Vicky MBD: Las notas de arquitectura están colgadas en moodle
+18/1/21 17:38 - Vicky MBD: En la sección de introducción al final del todo
+18/1/21 17:38 - Vicky MBD: Por si alguien no lo ha visto
+18/1/21 17:38 - Vicky MBD: Y las de adquisición también en moodle
+18/1/21 17:44 - Fran MASTER BD: Gracias!
+21/1/21 11:14 - Guillermo Valle MBD: Alguien sabe cuándo terminan las clases del segundo cuatrimestre??
+21/1/21 11:15 - +34 655 54 65 74: 7 de mayo?
+21/1/21 11:33 - Vicky MBD: si
+21/1/21 11:34 - Vicky MBD: y los examenes terminaran el 28 de mayo
+25/1/21 10:01 - Vicky MBD: Hoy tenemos que entrar a y 20
+25/1/21 10:01 - Vicky MBD: aun estamos luchando con los profesores para entrar a y media
+25/1/21 10:02 - Vicky MBD: en función de como vaya esta primera semana, es decir, cuantos alumnos no son capaces de llegar a y 20 se negociara de nuevo
+25/1/21 13:25 - Jacobo Azpeitia: La de llegar tarde entonces?
+25/1/21 13:30 - Vicky MBD: a que te refieres ?
+25/1/21 13:57 - Jacobo Azpeitia: Nada, era broma
+25/1/21 15:26 - Virginia Hernández MBD: Chicos no se escucha por teams
+25/1/21 15:27 - Virginia Hernández MBD: Se lo podríais decir porfa
+25/1/21 15:28 - Vicky MBD: lo esta mirando
+25/1/21 15:28 - Vicky MBD: avisa cuando se escuche
+25/1/21 15:28 - Virginia Hernández MBD: Todavía no
+25/1/21 15:28 - Virginia Hernández MBD: Y no está grabando no?
+25/1/21 15:29 - Virginia Hernández MBD: Ahora!!
+25/1/21 15:29 - Virginia Hernández MBD: Gracias!
+25/1/21 15:30 - Virginia Hernández MBD: Lo está grabando?
+25/1/21 15:46 - Virginia Hernández MBD: Decidles que tiene el volumen a cero porfa
+25/1/21 17:14 - Virginia Hernández MBD: Se escucha
+25/1/21 19:30 - Lidia Sanz: no se escucha
+25/1/21 19:30 - Lidia Sanz: por teams
+25/1/21 19:30 - Lidia Sanz: ha tocado el controlador y se ha estropeado
+25/1/21 19:30 - Lidia Sanz: gracias!
+26/1/21 13:10 - Aitor MBD: Hoy tambien tenemos que entrar a y 20?
+26/1/21 13:13 - Vicky MBD: Si
+26/1/21 15:54 - Vicky MBD: A alguien le falta grupo para visualización ??
+26/1/21 15:57 - Miguel MBD: Luis Puyol y yo somos grupo, nos faltan 1 o 2, por si alguien no tiene grupo! :)
+26/1/21 16:03 - Vicky MBD: perfectooo
+27/1/21 11:06 - Vicky MBD: <Multimedia omitido>
+27/1/21 14:21 - ‎Adiran Mbd cambió el ícono de este grupo
+28/1/21 14:26 - Laura Lucendo: Holaaa
+28/1/21 14:26 - Laura Lucendo: Hoy entramos a las 3 o a las 3:20?
+28/1/21 14:51 - Raquel García Meneses: Creo que a las 3.20
+28/1/21 15:16 - Vicky MBD: Si
+1/2/21 21:38 - Felipe D Navarro: Buenas, no se vosotros, pero yo creo que deberíamos quejarnos de la clase de almacenamiento NoSQL. Entiendo que sea la primera vez que dan clase, pero no se puede venir a clase sin prepararse nada. Da la impresión de que van improvisando y parece que ven las diapos por primera vez en clase. Teniendo en cuenta lo que pagamos por el Master no me parece normal
+1/2/21 21:39 - Andrés Jiménez: Estoy de acuerdo
+1/2/21 21:39 - Raquel García Meneses: Yo también
+1/2/21 21:39 - Laura Lucendo: Y yo
+1/2/21 21:39 - Laura Lucendo: No sabia q era la primera vez q daban clase
+1/2/21 21:42 - Andrés Jiménez: Yo tampoco , pero igualmente podrían traer las cosas preparadas y no tener que explicárselas entre ellos
+1/2/21 21:42 - Fran MASTER BD: 💯
+1/2/21 21:43 - Alejandro Polo MBD: Podemos si no intentar decirles que vayan más rápido en la clase antes de quejarnos
+1/2/21 21:44 - Felipe D Navarro: A mi me da la sensación de que lo que falta es prepararse la clase, por mucho qye vayan mas rápido dudo que sea mejor
+1/2/21 21:46 - Vicky MBD: Por lo que veo es una opinión general no?
+1/2/21 21:47 - Vicky MBD: Pues hablaremos con ellos
+1/2/21 21:47 - Laura Lucendo: Si porfa y los descansos
+1/2/21 21:47 - Laura Lucendo: En la primera entiendo q no haya
+1/2/21 21:48 - Laura Lucendo: Pero es mortal sino
+1/2/21 21:48 - Vicky MBD: Les diré que se preparen la clase más
+1/2/21 21:48 - Vicky MBD: Queréis que sigan dejando tiempo para ejercicios en clase ?
+1/2/21 21:48 - Vicky MBD: Alguna propuesta más ?
+1/2/21 21:49 - Vicky MBD: Si a primera no los podemos pedir porque entramos más tarde
+1/2/21 21:49 - Vicky MBD: A segunda si queréis a partir de ahora los pido
+1/2/21 21:49 - Delia Clar MbD: Yo prefiero salir antes sin descanso
+1/2/21 21:49 - Vicky MBD: Pero a última habría que verlo
+1/2/21 21:49 - Vicky MBD: Porque habrá gente que prefiera salir antes
+1/2/21 21:49 - Álvaro Otaduy MBD: Sisi al final se hace muy largo
+1/2/21 21:49 - Natalia Gila: Yo igual
+1/2/21 21:50 - Andrés Jiménez: Yo a ultima también , pero el de en medio que sí lo haga
+1/2/21 21:50 - Laura Lucendo: El de en medio
+1/2/21 21:50 - Laura Lucendo: Justoo la ultima lo entiendo por lo del toque de queda
+1/2/21 21:53 - Felipe D Navarro: Yo opino igual, en la del medio que haya descanso
+1/2/21 21:53 - Ángel MBD: Pienso lo mismo
+1/2/21 21:53 - Ángel MBD: Y por mi si
+1/2/21 21:54 - Maria Javierre: Estoy totalmente de acuerdo
+1/2/21 21:54 - Felipe D Navarro: https://www.youtube.com/watch?v=ztHopE5Wnpc&t=4251s
+1/2/21 21:55 - Felipe D Navarro: Es mas o menos lo qye que hemos estado viendo en clase
+1/2/21 21:55 - +34 661 19 72 74: Este mensaje fue eliminado
+1/2/21 21:55 - Vicky MBD: Vale diré lo del descanso a partir de ahora
+1/2/21 21:56 - Vicky MBD: Volviendo al tema de no sql
+1/2/21 21:56 - Guillermo Valle MBD: Osvaldo es un grande
+1/2/21 21:56 - Vicky MBD: Que más queréis que diga a parte de prepararse la clse ?
+1/2/21 21:56 - Vicky MBD: Os gustaría que hiciesen más dinámicas
+1/2/21 21:57 - Vicky MBD: O más teoría
+1/2/21 21:57 - Vicky MBD: Todo lo que me digáis me ayuda 🙏🏻
+1/2/21 21:57 - Lucia Poblador: Por mi parte que no hace falta que nos enseñen joins y cosas básicas de sql como si fuese el primer día de máster
+1/2/21 21:58 - +34 661 19 72 74: Y que la clase la de uno
+1/2/21 21:58 - +34 661 19 72 74: Que se turnen por clases pero que no se corten
+1/2/21 21:58 - +34 661 19 72 74: Y entren en diálogo liando a la gente
+3/2/21 10:17 - Vicky MBD: <Multimedia omitido>
+3/2/21 11:24 - Felipe D Navarro: @34666065300 Al final como es lo de la asistencia a la asignatura del tfm? Hay que ir todos los dias o solo cuando presentas?
+3/2/21 11:27 - Vicky MBD: oficialmente hay que ir siempre
+3/2/21 11:27 - Vicky MBD: pero carlos me dijo que no se iba a pasar lista y les iba a dar igual que fueramos o no
+3/2/21 11:40 - Felipe D Navarro: Ok gracias
+3/2/21 14:05 - Miguel MBD: Hola!! 
+Para las presentaciones de tfm se seguimiento hay que ir a la clase entera o solo a la hora que te han convocado?
+3/2/21 14:19 - Felipe D Navarro: A la clase entera
+3/2/21 14:19 - Felipe D Navarro: Si vas a la hora interrumpes a otra persona
+3/2/21 14:25 - Miguel MBD: OK gracias
+3/2/21 16:17 - Vicky MBD: Chicos, lo que esta diciendo Luis lleva razon
+3/2/21 16:18 - Vicky MBD: si queréis podemos hacer un grupo los que no tengáis practicas  y ver como podemos elevar la queja
+3/2/21 16:21 - Sergio Rincón: Si porfa vicky si puedes hacer un grupo
+3/2/21 16:21 - Miren Ostolaza: Sii pormi también
+3/2/21 16:22 - Eladio Jiménez: Buena idea
+3/2/21 16:22 - +34 644 45 11 86: Y por mi
+3/2/21 16:24 - Natalia Gila: sii
+3/2/21 16:33 - Eladio Jiménez: Hay alguien que aún no tenga prácticas y tampoco esté en el grupo que ha creado Vicky para organizarnos?
+4/2/21 15:41 - Vicky MBD: queda alguien que no tenga practicas
+4/2/21 15:41 - Vicky MBD: por entrar en el grupo ?
+5/2/21 18:47 - Virginia Hernández MBD: hola! una pregunta, sabéis de alguna plantilla ppt de comillas/icai?
